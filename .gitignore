@@ -1,0 +1,27 @@
+Ignora arquivos de variáveis de ambiente que contêm segredos.
+.env
+*.env
+
+Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv
+venv
+env
+
+Build e Pacotes
+/dist/
+/build/
+*.egg-info/
+
+IDE e Editores
+.vscode/
+.idea/
+
+Sistema Operacional
+.DS_Store
+Thumbs.db

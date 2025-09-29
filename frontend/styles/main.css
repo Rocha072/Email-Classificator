@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+/* ESTILIZAÇÃO PRINCIPAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+main {
+    background-color: #1f1e1e;
+    padding: 39px 30px;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 780px;
+    border: 1px solid #3a3a3a;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(29, 226, 226);
+    margin-bottom: 13px;
+    font-weight: 700;
+    font-size: 2.6rem;
+}
+
+.no-break{
+    white-space: nowrap;
+}
+
+h2 {
+    margin-top: 26px;
+    margin-bottom: 9px;
+    color: #15e4d3;
+    border-bottom: 2px solid #3a3a3a;
+    padding-bottom: 7px;
+    font-size: 1.8rem;
+}
+
+/* FORMULARIO DE ENTRADA */
+
+#form-input {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+}
+
+/* Area de texto e enexo por drag and drop */
+
+/* Area de texto */
+.textarea-wrapper{
+    position: relative;
+    width: 100%;
+}
+
+/* Caixa de texto para escrever */
+#email-text {
+    width: 100%;
+    min-height: 150px;
+    background-color: #121212;
+    border: 2px solid  #3a3a3a;
+    border-radius: 10px;
+    padding: 20px;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 1.2rem;
+    resize: vertical;
+    transition: border-color 0.3s, box-shadow 0.3s, background-color 0.3s;
+}
+
+#email-text:read-only{
+    background-color: #2a2a2a;
+    cursor: default;
+}
+
+#email-text:focus {
+    outline: none;
+    border-color: #15e4d3;
+    box-shadow: 0 0 10px rgba(187, 134, 252, 0.2);
+}
+
+#email-text.drag-over {
+    border-color: #15e4d3;
+    border-style: dashed;
+    background-color: #2a2a2a;
+}
+
+
+/* Arquivo na área do texto */
+#file-on-email-text{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: none; 
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+#file-on-email-text.visible{
+    display: flex;
+}
+
+
+#file-tag-name{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #0c8076;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 20px; 
+    font-size: 1rem;
+    font-weight: 500;
+    user-select: none;
+    max-width: 100%;
+}
+
+#file-name-display {
+    white-space: nowrap;      
+    overflow: hidden;         
+    text-overflow: ellipsis;  
+}
+
+/* Pequeno botão de remoção do arquivo */
+#remove-file-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0 5px;
+    line-height: 1;
+}
+
+#remove-file-btn:hover {
+    color: #ffdddd;
+}
+
+
+/* Botão de upload de arquivo (label representando o botão)*/
+#file-input {
+    display: none;
+}
+
+label[for="file-input"] {
+    display: inline-block;
+    background-color: #0c8076;
+    color: #fff;
+    padding: 11px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.85rem;
+    transition: background-color 0.3s;
+    user-select: none;
+}
+
+label[for="file-input"]:hover {
+    background-color: #074457;
+}
+
+/* Botão de analisar o input */
+#btn-input {
+    background: linear-gradient(90deg, #074457, #15e4d3);
+    color: #e7e7e7;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1.7rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.3s;
+    
+}
+
+#btn-input:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+
+/* SEÇÃO DE SAÍDA */
+
+#output-section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+}
+
+/* Caixa de texto para saída do analisador */
+#result-output {
+    color: #fff;
+    width: 100%;
+    background-color: #121212;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid  #3a3a3a;
+    min-height: 150px;
+    font-size: 1.2rem;
+    position: relative;
+}
+
+#result-output p {
+    margin-bottom: 13px;
+}
+
+.subtitle-output{
+    color: #15e4d3;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+#suggested-output {
+    background-color: transparent;
+    color: #fff;
+    font-family: monospace;
+    font-size: 1rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-bottom: 25px;
+}
+
+#copy-button{
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    border-radius: 99%;
+    padding: 5px;
+    justify-content: center;
+    
+}
+
+#copy-button.visible{
+    display: flex;
+}
+
+#copy-button:hover{
+    background-color: #2a2a2a;
+}
+
+#copy-button:active{
+    background-color: #1d1d1d;
+}
+
+
+
+/* Ajustes simples de responsividade */
+@media (min-width: 900px){
+    main{
+        max-width: 1300px;
+    }
+    .content{
+        flex-direction: row;
+    }
+    #form-input, #output-section{
+        flex: 1;
+    }
+
+    #email-text {
+        min-height: 286px;
+    }
+
+    #result-output {
+        min-height: 286px;
+    }
+
+    label[for="file-input"] {
+        font-size: 1rem;
+    }
+
+    #file-name-display {
+        font-size: 0.9rem;
+    }
+}
