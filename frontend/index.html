@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisador de E-mail</title>
+</head>
+<body>
+
+        <h1> Analisador de E-mail </h1>
+        <form id="form-input">
+            <textarea id="email-text" rows="10" cols="50" placeholder="Adicione o texto ou anexe o documento do e-mail"></textarea>
+            <br>
+            <label for="file-input">Anexar arquivo (.txt ou .pdf): </label>
+            <input type="file" id="file-input" accept=".txt,.pdf">
+            <br><br>
+            <button type="submit" id = "btn-input"> Analisar E-mail</button>
+        </form>
+
+
+
+        <h2> Resultado: </h2>
+        <div id="result-output">
+            <p><strong>Classificação:</strong> <span id="classification-output">...</span></p>
+            <p><strong>Sugestão de Resposta:</strong></p>
+            <pre id="suggested-output">...</pre>
+        </div>
+
+        <script src="./scripts/main.js"></script>
+</body>
+</html>
