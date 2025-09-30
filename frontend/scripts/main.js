@@ -3,9 +3,55 @@ const formulary = document.getElementById('form-input');
 
 const emailTextArea = document.getElementById('email-text');
 const fileInput = document.getElementById('file-input');
+const fileNameDisplay = document.getElementById('file-name-display');
 
 const classification = document.getElementById('classification-output');
 const suggestion = document.getElementById('suggested-output');
+
+
+emailTextArea.addEventListener('dragover', (event)=>{
+    event.preventDefault();
+    emailTextArea.classList.add('drag-over');
+});
+
+
+emailTextArea.addEventListener('dragleave', ()=>{
+    emailTextArea.classList.remove('drag-over');
+})
+
+emailTextArea.addEventListener('drop', (event)=>{
+
+    event.preventDefault();
+    emailTextArea.classList.remove('drag-over');
+
+    const files = event.dataTransfer.files;
+
+    if(files.length > 0){
+        const fileDropped = files[0];
+
+        if(fileDropped.type == 'text/plain' || fileDropped.type == 'application/pdf'){
+            
+            fileInput.files = files;
+            
+            fileNameDisplay.textContent = `Arquivo selecionado: ${fileDropped.name}`;
+
+            emailTextArea.value = '';
+        } 
+        else {
+            alert('Tipo de arquivo não suportado. Por favor, use .txt ou .pdf');
+        }
+    }
+})
+
+fileInput.addEventListener('change', ()=>{
+    if(fileInput.files.length > 0){
+        fileNameDisplay.textContent = `Arquivo selecionado: ${fileInput.files[0].name}`;
+        emailTextArea.value = '';
+    } else {
+        fileNameDisplay.textContent = '';
+    }
+})
+
 
 
 formulary.addEventListener('submit', async(event)=>{
