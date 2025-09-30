@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-:root {
-    --bg-color: #121212;
-    --surface-color: #1e1e1e;
-    --primary-color: #bb86fc;
-    --primary-variant-color: #3700b3;
-    --secondary-color: #03dac6;
-    --text-color: #e0e0e0;
-    --border-color: #333333;
-}
-
 * {
     margin: 0;
     padding: 0;
