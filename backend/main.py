@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 import re
 
-# Spacy
+# Spacy para o nlp 
 import spacy
 
 #Biblioteca do Gemini
@@ -15,7 +15,7 @@ import google.generativeai as genai
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-# #Bibliteca auxiliar
+#Bibliteca auxiliar
 from typing import Optional
 
 #Biblioteca para extracao de texto de PDF

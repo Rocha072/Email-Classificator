@@ -16,18 +16,23 @@
 
             <form id="form-input">
                 <h2> E-mail: </h2>
-                <textarea id="email-text" placeholder="Escreva ou arraste o arquivo aqui"></textarea>
-                
 
-                <div class="file-upload">
+                <div class="textarea-wrapper">
+                    <textarea id="email-text" placeholder="Escreva ou arraste o arquivo aqui"></textarea>
+                    
+                    <div id="file-on-email-text">
+                        <div id="file-tag-name">
+                            <span id="file-name-display"></span>
+                            <button type="button" id="remove-file-btn">&times;</button>
+                        </div>
+                    </div>
 
-                    <input type="file" id="file-input" accept=".txt,.pdf" >
-                    <label for="file-input">Anexar arquivo (.txt ou .pdf)</label>
-
-                    <span id="file-name-display" class="file-name"></span>
                 </div>
                 
-                
+                <div class="file-upload">
+                    <input type="file" id="file-input" accept=".txt,.pdf" >
+                    <label for="file-input">Anexar arquivo (.txt ou .pdf)</label>
+                </div>
 
                 <button type="submit" id = "btn-input"> Analisar <span class="no-break">E-mail</span></button>
                 

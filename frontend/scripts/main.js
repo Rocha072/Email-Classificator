@@ -2,6 +2,9 @@
 const formulary = document.getElementById('form-input');
 
 const emailTextArea = document.getElementById('email-text');
+const fileOnEmailText = document.getElementById('file-on-email-text')
+const removeFileBtn = document.getElementById('remove-file-btn');
+
 const fileInput = document.getElementById('file-input');
 const fileNameDisplay = document.getElementById('file-name-display');
 
@@ -10,30 +13,58 @@ const suggestion = document.getElementById('suggested-output');
 
 
 
-const displayText = (file) => {
+
+const displayTextFromFile = (file) => {
     const txtReader = new FileReader();
     
     txtReader.onload = (f) => {
         emailTextArea.value = f.target.result;
-
-        fileNameDisplay.textContent = ''
-
         fileInput.value = null;
+        emailTextArea.disabled = false;
     };
     
     txtReader.readAsText(file)
 }
 
+const displayFileTag = (file) => {
+    fileNameDisplay.textContent = file.name;
+    fileOnEmailText.classList.add('visible');
+    emailTextArea.disabled = true;
+}
 
-emailTextArea.addEventListener('dragover', (event)=>{
+
+const removeFileFromText = () => {
+    fileInput.value = null;
+    fileOnEmailText.classList.remove('visible');
+    emailTextArea.disabled = false;
+    emailTextArea.value = '';
+}
+
+const fileSelectionToDo = (file) => {
+    if(file.type == 'text/plain'){
+        removeFileFromText();
+        displayTextFromFile(file);
+    }
+    else if(file.type == 'application/pdf'){
+        displayFileTag(file);
+    }
+    else{
+        alert('Tipo de arquivo não suportado. Por favor, use .txt ou .pdf');
+    }
+}
+
+removeFileBtn.addEventListener('click', removeFileFromText);
+
+emailTextArea.addEventListener('dragover', (event) => {
     event.preventDefault();
-    emailTextArea.classList.add('drag-over');
+    if(!emailTextArea.disabled)
+        emailTextArea.classList.add('drag-over');
 });
 
 
 emailTextArea.addEventListener('dragleave', ()=>{
     emailTextArea.classList.remove('drag-over');
-})
+});
 
 emailTextArea.addEventListener('drop', (event)=>{
 
@@ -45,42 +76,21 @@ emailTextArea.addEventListener('drop', (event)=>{
     if(files.length > 0){
         const fileDropped = files[0];
 
-        if(fileDropped.type == 'text/plain'){
-            displayText(fileDropped);
-        }  
-        else if( fileDropped.type == 'application/pdf'){
-            
-            fileInput.files = files;
-            
-            fileNameDisplay.textContent = `Arquivo selecionado: ${fileDropped.name}`;
-
-            emailTextArea.value = '';
-        } 
-        else {
-            alert('Tipo de arquivo não suportado. Por favor, use .txt ou .pdf');
-        }
+        fileInput.files = files;
+        fileSelectionToDo(fileDropped);
     }
-})
+});
+
+
 
 fileInput.addEventListener('change', ()=>{
+
     if(fileInput.files.length > 0){
-        fileNameDisplay.textContent = '';
+
         const emailFile = fileInput.files[0];
+        fileSelectionToDo(emailFile);
         
-        if(emailFile.type == 'text/plain'){
-            displayText(emailFile);
-        }else if(emailFile.type == 'application/pdf') {
-            fileNameDisplay.textContent = `Arquivo selecionado: ${emailFile.name}`;
-            emailTextArea.value = '';
-        }
-        else{
-            alert('Tipo de arquivo não suportado. Por favor, use .txt ou .pdf');
-        }
-
-
-    } else {
-        fileNameDisplay.textContent = '';
-    }
+    } 
 })
 
 
