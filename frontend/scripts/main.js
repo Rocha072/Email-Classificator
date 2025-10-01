@@ -9,6 +9,22 @@ const classification = document.getElementById('classification-output');
 const suggestion = document.getElementById('suggested-output');
 
 
+
+const displayText = (file) => {
+    const txtReader = new FileReader();
+    
+    txtReader.onload = (f) => {
+        emailTextArea.value = f.target.result;
+
+        fileNameDisplay.textContent = ''
+
+        fileInput.value = null;
+    };
+    
+    txtReader.readAsText(file)
+}
+
+
 emailTextArea.addEventListener('dragover', (event)=>{
     event.preventDefault();
     emailTextArea.classList.add('drag-over');
@@ -29,7 +45,10 @@ emailTextArea.addEventListener('drop', (event)=>{
     if(files.length > 0){
         const fileDropped = files[0];
 
-        if(fileDropped.type == 'text/plain' || fileDropped.type == 'application/pdf'){
+        if(fileDropped.type == 'text/plain'){
+            displayText(fileDropped);
+        }  
+        else if( fileDropped.type == 'application/pdf'){
             
             fileInput.files = files;
             
@@ -45,13 +64,24 @@ emailTextArea.addEventListener('drop', (event)=>{
 
 fileInput.addEventListener('change', ()=>{
     if(fileInput.files.length > 0){
-        fileNameDisplay.textContent = `Arquivo selecionado: ${fileInput.files[0].name}`;
-        emailTextArea.value = '';
+        fileNameDisplay.textContent = '';
+        const emailFile = fileInput.files[0];
+        
+        if(emailFile.type == 'text/plain'){
+            displayText(emailFile);
+        }else if(emailFile.type == 'application/pdf') {
+            fileNameDisplay.textContent = `Arquivo selecionado: ${emailFile.name}`;
+            emailTextArea.value = '';
+        }
+        else{
+            alert('Tipo de arquivo não suportado. Por favor, use .txt ou .pdf');
+        }
+
+
     } else {
         fileNameDisplay.textContent = '';
     }
 })
-
 
 
 formulary.addEventListener('submit', async(event)=>{
@@ -92,10 +122,9 @@ formulary.addEventListener('submit', async(event)=>{
 
         if(result.error){
             throw new Error(result.error);
-
         }
 
-        const aswAI= JSON.parse(result.data);
+        const aswAI = JSON.parse(result.data);
 
         classification.textContent = aswAI.classification;
         suggestion.textContent = aswAI.suggested;
