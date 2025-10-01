@@ -104,8 +104,6 @@ async def analyze_email_endpoint(       #Funcao assincrona de endpoint para anal
         if file.content_type == 'application/pdf':  
             email_to_analyze = read_pdf_text(content_file) #Se for pdf, lê o pdf
         
-        elif file.content_type == 'text/plain':
-            email_to_analyze = content_file.decode('utf-8') #Se for texto decodifica os bytes para string
         else:
             raise HTTPException(status_code=400, detail="Tipo de arquivo não suportado. Somente .txt ou .pdf são aceitos")
     
