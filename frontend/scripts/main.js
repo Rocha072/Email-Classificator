@@ -1,4 +1,6 @@
 
+// Declaração de todos os elementos utilizados
+
 const formulary = document.getElementById('form-input');
 
 const emailTextArea = document.getElementById('email-text');
@@ -11,100 +13,123 @@ const fileNameDisplay = document.getElementById('file-name-display');
 const classification = document.getElementById('classification-output');
 const suggestion = document.getElementById('suggested-output');
 
+// ------------------------------------------------------
+//                  FUNÇÕES AUXILIARES
+// ------------------------------------------------------
 
 
-
+// Função para ler e mostrar o arquivo .txt na área de texto
 const displayTextFromFile = (file) => {
+
     const txtReader = new FileReader();
     
-    txtReader.onload = (f) => {
-        emailTextArea.value = f.target.result;
-        fileInput.value = null;
-        emailTextArea.disabled = false;
+    txtReader.onload = (f) => {         //Definição da função que lê o file
+        emailTextArea.value = f.target.result;  //Coloca na textArea
+        fileInput.value = null;                 //Garante que não tenha outro arquivo no input
+        emailTextArea.readOnly = false;         //Mantem ativada a text area
     };
     
-    txtReader.readAsText(file)
+    txtReader.readAsText(file)      
 }
 
+
+// Mostra a tag de file na caixa de texto
 const displayFileTag = (file) => {
     fileNameDisplay.textContent = file.name;
     fileOnEmailText.classList.add('visible');
-    emailTextArea.disabled = true;
+    emailTextArea.readOnly = true;
+    emailTextArea.value = '';
+    emailTextArea.placeholder = ''
 }
 
-
+// Remove o arquivo da caixa de texto
 const removeFileFromText = () => {
     fileInput.value = null;
     fileOnEmailText.classList.remove('visible');
-    emailTextArea.disabled = false;
+    emailTextArea.readOnly = false;
     emailTextArea.value = '';
+    emailTextArea.placeholder = 'Escreva ou arraste o arquivo aqui';
 }
 
-const fileSelectionToDo = (file) => {
-    if(file.type == 'text/plain'){
+// Seleciona a ação dependendo do tipo de arquivo recebido
+const selectAction_FileType = (file) => {
+
+    // Se for txt mostra na text area
+    if(file.type == 'text/plain'){  
         removeFileFromText();
         displayTextFromFile(file);
     }
+
+    // Se for pdf mostra a tag de arquivo
     else if(file.type == 'application/pdf'){
         displayFileTag(file);
     }
+
+    // Caso contrário, alerta de seleção errada
     else{
         alert('Tipo de arquivo não suportado. Por favor, use .txt ou .pdf');
     }
 }
 
+// ------------------------------------------------------
+//                  EVENT LISTENERS
+// ------------------------------------------------------
+
+
+//Listener pro botão de remoção da tag de arquivo
 removeFileBtn.addEventListener('click', removeFileFromText);
 
+
+//Text area do email pinta as bordas quando o arquivo esta em cima
 emailTextArea.addEventListener('dragover', (event) => {
     event.preventDefault();
-    if(!emailTextArea.disabled)
-        emailTextArea.classList.add('drag-over');
+    emailTextArea.classList.add('drag-over');
 });
 
 
+//Text area do email volta ao normal quando arquivo nao está mais em cima
 emailTextArea.addEventListener('dragleave', ()=>{
     emailTextArea.classList.remove('drag-over');
 });
 
+
+//Text area recebe arquivo soltado
 emailTextArea.addEventListener('drop', (event)=>{
 
     event.preventDefault();
-    emailTextArea.classList.remove('drag-over');
+    emailTextArea.classList.remove('drag-over'); 
 
     const files = event.dataTransfer.files;
 
     if(files.length > 0){
-        const fileDropped = files[0];
-
-        fileInput.files = files;
-        fileSelectionToDo(fileDropped);
+        const fileDropped = files[0]; 
+        fileInput.files = files;            //Coloca arquivo no fileInput
+        selectAction_FileType(fileDropped); //Determina a parte visual de retorno para usuário
     }
 });
 
-
-
+//Arquivo pode ser anexado pelo botao de anexar
 fileInput.addEventListener('change', ()=>{
 
     if(fileInput.files.length > 0){
-
-        const emailFile = fileInput.files[0];
-        fileSelectionToDo(emailFile);
-        
+        selectAction_FileType(fileInput.files[0]);   //Determina a parte visual de retorno para usuário
     } 
 })
 
-
-formulary.addEventListener('submit', async(event)=>{
+//Listener para enviar o formulário para o backend através do botão de análise
+formulary.addEventListener('submit', async(event)=>{ //Evento deve ser assincrono pois demora alguns segundos
     event.preventDefault();
     
     const file = fileInput.files[0];
     const emailText = emailTextArea.value;
 
-    if(!emailText.trim() && !file){
+    //Se tentou enviar sem conteudo, aviso.
+    if(!emailText.trim() && !file){ 
         alert('Por favor, digite um texto ou selecione um arquivo.');
         return;
     }
 
+    //FormData para receber o conteudo enviado (pdf ou texto)
     const formData = new FormData();
 
     if(file){
@@ -113,32 +138,39 @@ formulary.addEventListener('submit', async(event)=>{
         formData.append('text', emailText);
     }
 
+    //Atualiza os textos para feedback
     classification.textContent = 'Analisando...';
     suggestion.textContent = 'Aguarde...';
 
+    //Comunicacao com a API do python
     try{
         const apiURL = 'http://127.0.0.1:8000/analyze-email';
 
+        //Envio do conteudo em formato json com método post
         const response = await fetch(apiURL, {
             method: 'POST',
             body: formData,
         });
 
+        //Confere se não deu erro
         if(!response.ok){
             throw new Error(`Erro na requisição: ${response.statusText}`);
         }
 
+        //Abre o pacote da resposta de forma assíncrona
         const result = await response.json();
 
+        //Verifica se não deu erro na busca do json
         if(result.error){
             throw new Error(result.error);
         }
 
-        const aswAI = JSON.parse(result.data);
+        // Atualiza os textos com a resposta da IA
+        classification.textContent = result.data.classification;
+        suggestion.textContent = result.data.suggested;
 
-        classification.textContent = aswAI.classification;
-        suggestion.textContent = aswAI.suggested;
 
+        //Verifica se não houve outros erros no meio
     } catch(error){
         console.error('Falha ao analisar o e-mail', error);
         classification.textContent = 'Erro';

@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
+
+/* ESTILIZAÇÃO PRINCIPAL */
 * {
     margin: 0;
     padding: 0;
@@ -52,6 +54,8 @@ h2 {
     font-size: 1.8rem;
 }
 
+/* FORMULARIO DE ENTRADA */
+
 #form-input {
     display: flex;
     flex-direction: column;
@@ -59,18 +63,15 @@ h2 {
     width: 100%;
 }
 
-#output-section{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    width: 100%;
-}
+/* Area de texto e enexo por drag and drop */
 
+/* Area de texto */
 .textarea-wrapper{
     position: relative;
     width: 100%;
 }
 
+/* Caixa de texto para escrever */
 #email-text {
     width: 100%;
     min-height: 150px;
@@ -85,10 +86,10 @@ h2 {
     transition: border-color 0.3s, box-shadow 0.3s, background-color 0.3s;
 }
 
-#email-text:disabled{
+#email-text:read-only{
     background-color: #2a2a2a;
+    cursor: default;
 }
-
 
 #email-text:focus {
     outline: none;
@@ -102,15 +103,16 @@ h2 {
     background-color: #2a2a2a;
 }
 
+
+/* Arquivo na área do texto */
 #file-on-email-text{
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
     display: none; 
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: flex-start;
     padding: 20px;
 }
 
@@ -125,11 +127,20 @@ h2 {
     background-color: #0c8076;
     color: #fff;
     padding: 8px 15px;
-    border-radius: 20px; /* Bordas arredondadas */
+    border-radius: 20px; 
     font-size: 1rem;
     font-weight: 500;
+    user-select: none;
+    max-width: 100%;
 }
 
+#file-name-display {
+    white-space: nowrap;      
+    overflow: hidden;         
+    text-overflow: ellipsis;  
+}
+
+/* Pequeno botão de remoção do arquivo */
 #remove-file-btn {
     background: none;
     border: none;
@@ -141,18 +152,12 @@ h2 {
     line-height: 1;
 }
 
-
 #remove-file-btn:hover {
     color: #ffdddd;
 }
 
-.file-upload {
-    display: flex;
-    flex-direction: row;
-    gap: 13px;
-    align-items: center;
-}
 
+/* Botão de upload de arquivo (label representando o botão)*/
 #file-input {
     display: none;
 }
@@ -167,16 +172,17 @@ label[for="file-input"] {
     font-weight: 500;
     font-size: 0.85rem;
     transition: background-color 0.3s;
+    user-select: none;
 }
 
 label[for="file-input"]:hover {
     background-color: #074457;
 }
 
-
+/* Botão de analisar o input */
 #btn-input {
     background: linear-gradient(90deg, #074457, #15e4d3);
-    color: #fff;
+    color: #e7e7e7;
     border: none;
     padding: 15px;
     border-radius: 10px;
@@ -184,7 +190,7 @@ label[for="file-input"]:hover {
     font-weight: 700;
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.3s;
-    margin-top: 10px;
+    
 }
 
 #btn-input:hover {
@@ -192,6 +198,17 @@ label[for="file-input"]:hover {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 
+
+/* SEÇÃO DE SAÍDA */
+
+#output-section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+}
+
+/* Caixa de texto para saída do analisador */
 #result-output {
     color: #fff;
     width: 100%;
@@ -222,6 +239,8 @@ label[for="file-input"]:hover {
     word-wrap: break-word;
 }
 
+
+/* Ajustes simples de responsividade */
 @media (min-width: 900px){
     main{
         max-width: 1300px;

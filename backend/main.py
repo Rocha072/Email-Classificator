@@ -4,6 +4,7 @@
 import os 
 from dotenv import load_dotenv
 import re
+import json
 
 # Spacy para o nlp 
 import spacy
@@ -21,6 +22,8 @@ from typing import Optional
 #Biblioteca para extracao de texto de PDF
 import PyPDF2
 from io import BytesIO
+
+from prompt_gemini import prompt
 
 #Carrega os valores do .env
 load_dotenv()
@@ -77,19 +80,19 @@ def read_pdf_text(file_bytes):
 
 def preprocess_nlp(text):
     
-    text = re.sub(r"http\S+", "", text).lower()
+    text = re.sub(r"http\S+", "", text).lower() #Remove links
     text = " ".join(text.split())
 
-    doc = nlp(text)
+    doc = nlp(text)       #Realiza a lemmatização e retorna tokens
     
     processed_words = [
-        token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha
+        token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha    #Forma as palavras processadas, sem stop words e pontos, apenas palavras
     ]
     
     return " ".join(processed_words)
 
 
-#Decorador para a funcao post da fastAPI     
+#Funcao post da fastAPI com decorador
 @app.post("/analyze-email")
 async def analyze_email_endpoint(       #Funcao assincrona de endpoint para analise do email
     text: Optional[str] = Form(None),       #Se existir text será string, senão none
@@ -107,44 +110,38 @@ async def analyze_email_endpoint(       #Funcao assincrona de endpoint para anal
         else:
             raise HTTPException(status_code=400, detail="Tipo de arquivo não suportado. Somente .txt ou .pdf são aceitos")
     
+
     #Se for texto apenas coloca no email de analise
     elif text:
         email_to_analyze = text
     
 
+    #Se nao houver email para anisar, erro.
     if not email_to_analyze.strip():
         raise HTTPException(status_code=400, detail="Nenhum texto ou arquivo válido foi enviado")
 
 
-    #Realiza o pre processamento, manda o prompt para o modelo e retorna a resposta.
+    #Realiza o pre processamento, manda o prompt completo para o modelo e retorna a resposta.
     try:
 
         processedEmail = preprocess_nlp(email_to_analyze)
 
-        prompt = f"""
-        Você é um assistente de e-mail especialista e altamente eficiente. Sua tarefa é analisar o e-mail fornecido e retornar uma resposta em formato JSON.
+        finalPrompt = prompt + f"""
+                                ---
+                                {processedEmail}
+                                ---
+                                JSON:
+                                """ 
 
-        Sua resposta DEVE ser um objeto JSON válido, e nada mais, contendo duas chaves: "classification" e "suggested".
+        response = model.generate_content(finalPrompt)
 
-        1.  **classification**: Classifique o e-mail como 'Produtivo' ou 'Improdutivo'.
-            * 'Produtivo': E-mails que exigem uma ação ou resposta direta (dúvidas, solicitações, problemas técnicos, pedidos).
-            * 'Improdutivo': E-mails que são informativos ou sociais e não exigem ação (agradecimentos, felicitações, avisos de 'recebido', propagandas).
-
-        2.  **suggested**: Crie uma sugestão de resposta profissional, concisa e apropriada para o e-mail.
-            * Se for 'Produtivo', a resposta deve iniciar a ação ou acusar o recebimento de forma útil (ex: "Obrigado por nos contatar. Já estamos verificando o problema e retornaremos em breve.").
-            * Se for 'Improdutivo', a resposta pode ser um simples reconhecimento ou agradecimento (ex: "Obrigado pelo feedback!" ou "Fico feliz em ajudar!").
-
-        E-mail para análise (o texto abaixo foi pré-processado com lematização):
-        ---
-        {processedEmail}
-        ---
-
-        JSON:
-        """
-
-        response = model.generate_content(prompt)
+        #Caso tenha sido colocado ``` na resposta, retira-se para a saída sair devidamente.
         response_clean = response.text.strip().replace("```json", "").replace("```", "")
-        return {"data": response_clean}
+
+        #Converte a string json para objeto python
+        response_object = json.loads(response_clean)
+
+        return {"data": response_object}
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
