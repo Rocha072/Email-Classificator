@@ -4,22 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- Importacao do arquivo de estilizacao -->
     <link rel="stylesheet" href="./styles/main.css">
 
+    <!-- Titulo da pagina -->
     <title>Analisador de E-mail</title>
 </head>
 <body>
     <main>
+        <!-- Titulo na pagina -->
         <h1> Analisador de <span class="no-break">E-mail</span> </h1>
 
+        <!-- Conteudo principal -->
         <div class="content">
 
+            <!-- Formulario de entrada (lado esquerdo da pagina) -->
             <form id="form-input">
                 <h2> E-mail: </h2>
 
+                <!-- Wrapper para o text area (para poder colocar a tag do arquivo) -->
                 <div class="textarea-wrapper">
+                    
+                    <!-- Text area de entrada do email por texto ou drag and drop -->
                     <textarea id="email-text" placeholder="Escreva ou arraste o arquivo aqui"></textarea>
                     
+                    <!-- Div para sobrepor o textArea e colocar a tag do arquivo -->
                     <div id="file-on-email-text">
                         <div id="file-tag-name">
                             <span id="file-name-display"></span>
@@ -29,17 +38,22 @@
 
                 </div>
                 
+                <!-- Botão para anexar arquivo -->
                 <div class="file-upload">
                     <input type="file" id="file-input" accept=".txt,.pdf" >
                     <label for="file-input">Anexar arquivo (.txt ou .pdf)</label>
                 </div>
 
+                <!-- Botão para dar submit no formulário -->
                 <button type="submit" id = "btn-input"> Analisar <span class="no-break">E-mail</span></button>
                 
             </form>
 
+            <!-- Seção de saída da classificação -->
             <div id="output-section">
                 <h2> Resultado: </h2>
+
+                <!-- Conteudo da saída -->
                 <div id="result-output">
                     <p><span class="subtitle-output">Classificação:</span> <span id="classification-output">...</span></p>
                     <p><span class="subtitle-output">Sugestão de Resposta:</span></p>

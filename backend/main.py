@@ -23,6 +23,7 @@ from typing import Optional
 import PyPDF2
 from io import BytesIO
 
+#Prompt para o gemini
 from prompt_gemini import prompt
 
 #Carrega os valores do .env
@@ -84,9 +85,10 @@ def preprocess_nlp(text):
     text = " ".join(text.split())
 
     doc = nlp(text)       #Realiza a lemmatização e retorna tokens
-    
+
+    #Forma as palavras processadas, sem stop words e pontos 
     processed_words = [
-        token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha    #Forma as palavras processadas, sem stop words e pontos, apenas palavras
+        token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha    
     ]
     
     return " ".join(processed_words)
