@@ -150,4 +150,12 @@ async def analyze_email_endpoint(       #Funcao assincrona de endpoint para anal
 
 
 
+@app.post("/check-robot")
+def check():
+    """
+    Endpoint para retornar status 'OK' e manter API ativa
+    """
+    return {"status": "OK"}
+
+
 

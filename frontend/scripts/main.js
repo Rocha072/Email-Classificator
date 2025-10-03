@@ -6,6 +6,8 @@ const formulary = document.getElementById('form-input');
 const emailTextArea = document.getElementById('email-text');
 const fileOnEmailText = document.getElementById('file-on-email-text')
 const removeFileBtn = document.getElementById('remove-file-btn');
+const clearTextBtn = document.getElementById('clear-text-btn');
+const btnInput = document.getElementById('btn-input');
 
 const fileInput = document.getElementById('file-input');
 const fileNameDisplay = document.getElementById('file-name-display');
@@ -76,6 +78,20 @@ const selectAction_FileType = (file) => {
 //                  EVENT LISTENERS
 // ------------------------------------------------------
 
+//Tornar a lixeira visível
+emailTextArea.addEventListener('input', () => {
+    if (emailTextArea.value.length > 0) {
+        clearTextBtn.classList.add('visible');
+    } else {
+        clearTextBtn.classList.remove('visible');
+    }
+});
+
+//Limpar o texto
+clearTextBtn.addEventListener('click', () => {
+    emailTextArea.value = ''; 
+    clearTextBtn.classList.remove('visible'); 
+});
 
 //Listener pro botão de remoção da tag de arquivo
 removeFileBtn.addEventListener('click', removeFileFromText);
@@ -94,7 +110,7 @@ emailTextArea.addEventListener('dragleave', ()=>{
 });
 
 
-//Text area recebe arquivo soltado
+//Text area recebe arquivo solto
 emailTextArea.addEventListener('drop', (event)=>{
 
     event.preventDefault();
@@ -117,7 +133,7 @@ fileInput.addEventListener('change', ()=>{
     } 
 });
 
-
+//Botao de copiar o texto da sugestao
 copyBtn.addEventListener('click', async ()=>{
     
     const tempTextArea = document.createElement('textarea');
@@ -161,6 +177,8 @@ formulary.addEventListener('submit', async(event)=>{ //Evento deve ser assincron
     classification.textContent = 'Analisando...';
     suggestion.textContent = 'Aguarde...';
     copyBtn.classList.remove('visible');
+    btnInput.classList.add('loading');
+    btnInput.disabled = true;
 
     //Comunicacao com a API do python
     try{
@@ -196,6 +214,11 @@ formulary.addEventListener('submit', async(event)=>{ //Evento deve ser assincron
         console.error('Falha ao analisar o e-mail', error);
         classification.textContent = 'Erro';
         suggestion.textContent = `Ocorreu um erro ${error.message}`;
+
+        //Reativa o botão de envio
+    } finally {
+        btnInput.classList.remove('loading'); 
+        btnInput.disabled = false; 
     }
 
 });

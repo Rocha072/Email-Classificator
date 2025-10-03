@@ -157,6 +157,35 @@ h2 {
     color: #ffdddd;
 }
 
+/* Botao de limpar texto */
+#clear-text-btn {
+    display: none; 
+    position: absolute; 
+    bottom: 15px;
+    right: 20px;
+    background-color: #3a3a3a;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    user-select: none;
+    justify-content: center;
+    align-items: center;
+}
+
+#clear-text-btn.visible{
+    display: flex;
+}
+
+#clear-text-btn:hover{
+    background-color: #2a2a2a;
+}
+
+#clear-text-btn:active{
+    background-color: #1d1d1d;
+}
 
 /* Botão de upload de arquivo (label representando o botão)*/
 #file-input {
@@ -182,7 +211,9 @@ label[for="file-input"]:hover {
 
 /* Botão de analisar o input */
 #btn-input {
-    background: linear-gradient(90deg, #074457, #15e4d3);
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(90deg, #063746, #11a79a);
     color: #e7e7e7;
     border: none;
     padding: 15px;
@@ -199,6 +230,23 @@ label[for="file-input"]:hover {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 
+#btn-input.loading {
+    cursor: wait;
+    background-size: 200% 100%;
+    animation: gradient-animation 1.5s ease-in-out infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
 
 /* SEÇÃO DE SAÍDA */
 
@@ -242,6 +290,8 @@ label[for="file-input"]:hover {
     margin-bottom: 25px;
 }
 
+/* Botao de copiar sugestao */
+
 #copy-button{
     display: none;
     position: absolute;
@@ -253,7 +303,7 @@ label[for="file-input"]:hover {
     border-radius: 99%;
     padding: 5px;
     justify-content: center;
-    
+    user-select: none;
 }
 
 #copy-button.visible{
