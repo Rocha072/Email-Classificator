@@ -148,13 +148,10 @@ async def analyze_email_endpoint(       #Funcao assincrona de endpoint para anal
         raise HTTPException(status_code=500, detail=str(e))
 
 
+# Endpoint para retornar status 'OK' e manter API ativa
 
-
-@app.get("/check-robot")
-def check():
-    """
-    Endpoint para retornar status 'OK' e manter API ativa
-    """
+@app.api_route("/check-robot", methods=["GET", "HEAD"])
+def check(): 
     return {"status": "OK"}
 
 
