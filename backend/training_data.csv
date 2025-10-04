@@ -1,110 +1,1408 @@
 texto;rotulo
-"Assunto: Solicitação Urgente de Extrato Consolidado;Corpo: Prezados, bom dia. Necessito com urgência do extrato consolidado de todos os meus investimentos referente ao último trimestre para fins de declaração. Por favor, enviar para este e-mail.";Produtivo
-"Assunto: Dúvida sobre Taxa de Corretagem;Corpo: Boa tarde, identifiquei uma taxa de corretagem no valor de R$ 150,00 na minha nota de hoje que não compreendi. Poderiam detalhar a que se refere esta operação?";Produtivo
-"Assunto: Agendamento com Assessor de Investimentos;Corpo: Olá, gostaria de marcar uma reunião com meu assessor, o Sr. Carlos, para a próxima semana para reavaliar minha carteira de ações.";Produtivo
-"Assunto: Problema de Acesso ao Portal do Cliente;Corpo: Não estou conseguindo acessar o portal de investimentos desde ontem. A página de login apresenta um erro 503. Preciso de ajuda.";Produtivo
-"Assunto: Aplicação em Fundo de Renda Fixa;Corpo: Favor aplicar R$ 25.000,00 do saldo da minha conta corrente no fundo 'Tesouro Direto Simples FIC FI RF'.";Produtivo
-"Assunto: Análise de Mercado - Setor de Varejo;Corpo: Gostaria de solicitar ao time de análise um relatório atualizado sobre as perspectivas para o setor de varejo brasileiro nos próximos 6 meses.";Produtivo
-"Assunto: Atualização Cadastral;Corpo: Olá, mudei de endereço residencial e preciso atualizar meu cadastro. Qual o procedimento?";Produtivo
-"Assunto: Resgate de Previdência Privada;Corpo: Necessito de informações sobre as condições e o prazo para um resgate parcial do meu plano de previdência VGBL.";Produtivo
-"Assunto: Interesse em Abertura de Conta Offshore;Corpo: Fui recomendado por um amigo e gostaria de saber mais sobre as opções e os custos para abrir uma conta de investimentos no exterior.";Produtivo
-"Assunto: Cópia de Contrato de Câmbio;Corpo: Para fins de contabilidade, preciso da segunda via do contrato de câmbio da operação realizada na semana passada.";Produtivo
-"Assunto: Dúvida sobre Tributação de Ações;Corpo: Como funciona a tributação sobre o lucro na venda de ações? Preciso de orientação para não cometer erros.";Produtivo
-"Assunto: Ordem de Compra - PETR4;Corpo: Por favor, executar ordem de compra de 1000 ações de PETR4 a preço de mercado.";Produtivo
-"Assunto: Transferência de Custódia;Corpo: Estou trazendo meus ativos de outra corretora e preciso dos formulários para a transferência de custódia.";Produtivo
-"Assunto: Erro na plataforma de Home Broker;Corpo: A plataforma está travando sempre que tento abrir o book de ofertas. Não consigo operar.";Produtivo
-"Assunto: Relatório de Performance da Carteira;Corpo: Poderiam me enviar o relatório detalhado de performance da minha carteira consolidada em 2024?";Produtivo
-"Assunto: Agradecimento;Corpo: Apenas para agradecer o excelente atendimento do meu assessor, o Ricardo. Muito obrigado pela paciência e clareza.";Improdutivo
-"Assunto: Feliz Aniversário!;Corpo: Olá, passando para desejar um feliz aniversário para a Ana da mesa de operações! Tudo de bom.";Improdutivo
-"Assunto: Re: Reunião de ontem;Corpo: Ciente. Obrigado pelo resumo da reunião.";Improdutivo
-"Assunto: Confirmação de Leitura;Corpo: Este é um e-mail automático para confirmar que sua mensagem foi lida.";Improdutivo
-"Assunto: Pesquisa de Satisfação;Corpo: Gostaríamos de saber como foi sua experiência com nosso atendimento. Por favor, responda nossa breve pesquisa.";Improdutivo
-"Assunto: Oportunidade Imperdível de Investimento!;Corpo: Conheça o novo criptoativo que vai revolucionar o mercado! Invista agora e tenha retornos de até 500%!";Improdutivo
-"Assunto: Vaga de Emprego - Venha ser nosso parceiro;Corpo: Estamos com uma oportunidade para a vaga de consultor de investimentos. Envie seu currículo.";Improdutivo
-"Assunto: Convite para Webinar;Corpo: Participe do nosso webinar gratuito sobre as tendências do mercado para o próximo ano.";Improdutivo
-"Assunto: Sua fatura de cartão de crédito chegou;Corpo: Olá, a fatura do seu cartão com vencimento em 10/10 já está disponível para consulta.";Improdutivo
-"Assunto: AUSENTE DO ESCRITÓRIO;Corpo: Estarei fora do escritório até a próxima segunda-feira, com acesso limitado a e-mails.";Improdutivo
-"Assunto: Parabéns pelos resultados!;Corpo: Queria parabenizar toda a equipe de gestão do fundo multimercado pelos excelentes resultados deste mês.";Improdutivo
-"Assunto: Newsletter Semanal;Corpo: Confira os destaques da semana no mercado financeiro em nossa newsletter exclusiva.";Improdutivo
-"Assunto: Spam Teste;Corpo: Viagra, cialis, promoções imperdíveis, ganhe dinheiro fácil.";Improdutivo
-"Assunto: Olá;Corpo: Tudo bem?";Improdutivo
-"Assunto: Curiosidade;Corpo: Qual o horário de funcionamento da agência?";Improdutivo
-"Assunto: Pedido de cotação de seguro de vida;Corpo: Bom dia, gostaria de solicitar uma cotação para um seguro de vida no valor de R$ 1 milhão.";Produtivo
-"Assunto: Problema com o token de segurança;Corpo: Meu token físico parou de funcionar, não consigo autorizar as transações. Como proceder para solicitar um novo?";Produtivo
-"Assunto: Dúvidas sobre o IPO da Empresa X;Corpo: Quero participar da oferta pública inicial da Empresa X. Qual o prazo final para a reserva?";Produtivo
-"Assunto: Relatório de Sustentabilidade (ESG);Corpo: Vocês poderiam me enviar o último relatório de sustentabilidade dos fundos ESG disponíveis?";Produtivo
-"Assunto: Cadastro de conta para débito automático;Corpo: Quero cadastrar minha conta de energia em débito automático. Qual o procedimento pelo app?";Produtivo
-"Assunto: Fechamento de Câmbio para Viagem;Corpo: Preciso comprar 5 mil dólares para uma viagem. Qual a cotação de hoje e como posso efetivar a operação?";Produtivo
-"Assunto: Acesso à sala de análises ao vivo;Corpo: Sou cliente e gostaria de ter acesso à sala de análises ao vivo com os especialistas de mercado.";Produtivo
-"Assunto: Meu perfil de investidor mudou;Corpo: Gostaria de refazer meu teste de perfil de investidor, pois minha tolerância a risco aumentou.";Produtivo
-"Assunto: Pergunta sobre alocação de ativos;Corpo: Meu assessor sugeriu alocar 10% em ativos internacionais. Gostaria de entender melhor os riscos envolvidos.";Produtivo
-"Assunto: Problema ao gerar DARF para pagamento;Corpo: A plataforma não está gerando a DARF para o pagamento de imposto sobre o lucro com ações. Podem ajudar?";Produtivo
-"Assunto: Solicitação de extrato para Imposto de Renda;Corpo: Olá, necessito do extrato completo de 2023 para minha declaração de imposto de renda. Onde consigo?";Produtivo
-"Assunto: Cancelamento de ordem agendada;Corpo: Por favor, cancelar a ordem de venda de VALE3 que estava agendada para hoje.";Produtivo
-"Assunto: Dúvida sobre nota de corretagem;Corpo: Recebi minha nota de corretagem e não entendi o cálculo dos emolumentos. Podem me explicar?";Produtivo
-"Assunto: Aumento de limite para operar alavancado;Corpo: Gostaria de solicitar um aumento do meu limite operacional para BMF.";Produtivo
-"Assunto: Informações sobre fundos imobiliários (FIIs);Corpo: Quais são os melhores FIIs de tijolo para investir no momento, segundo a visão dos seus analistas?";Produtivo
-"Assunto: Desbloqueio de senha de acesso;Corpo: Esqueci minha senha e minha conta foi bloqueada. Como faço para redefinir?";Produtivo
-"Assunto: Obrigado pelo relatório!;Corpo: Apenas para confirmar o recebimento do relatório setorial. Muito obrigado, material excelente.";Improdutivo
-"Assunto: Boas Festas!;Corpo: Passando para desejar a toda a equipe um ótimo final de ano e um 2025 de muito sucesso.";Improdutivo
-"Assunto: Re: Follow-up;Corpo: Entendido. Manteremos o contato.";Improdutivo
-"Assunto: Seu resumo de investimentos;Corpo: Olá! Preparamos um resumo com a evolução da sua carteira este mês. Confira!";Improdutivo
-"Assunto: Fwd: Notícias interessantes;Corpo: Apenas compartilhando uma matéria que achei relevante para nossos investimentos.";Improdutivo
-"Assunto: Black Friday de Investimentos;Corpo: Aproveite nossa semana de corretagem zero para investir em ações. Não perca!";Improdutivo
-"Assunto: Vencedor do prêmio Top Gestores 2024;Corpo: É com orgulho que comunicamos que nosso fundo de ações foi eleito o melhor do ano pela revista ValorInveste.";Improdutivo
-"Assunto: Alteração no horário de atendimento;Corpo: Informamos que na próxima sexta-feira nosso atendimento será encerrado às 14h.";Improdutivo
-"Assunto: Compartilhamento de artigo;Corpo: Segue um artigo interessante sobre macroeconomia que li hoje.";Improdutivo
-"Assunto: Seu gerente de conta mudou;Corpo: Comunicamos que a partir de hoje seu novo gerente de conta será o Sr. Fernando Lima.";Improdutivo
-"Assunto: Fwd: Piada do dia;Corpo: Hahaha, achei essa muito boa!";Improdutivo
-"Assunto: Convite para evento de clientes;Corpo: Gostaríamos de convidá-lo para nosso evento exclusivo para clientes Private no dia 20/11.";Improdutivo
-"Assunto: Aviso de manutenção da plataforma;Corpo: Nossa plataforma passará por uma manutenção programada neste domingo, das 02h às 04h da manhã.";Improdutivo
-"Assunto: Feliz Páscoa;Corpo: Desejamos a você e sua família uma Feliz Páscoa!";Improdutivo
-"Assunto: Confirmação de agendamento;Corpo: Sua reunião com o assessor Carlos está confirmada para terça-feira às 15h.";Improdutivo
-"Assunto: Como declarar seus investimentos?;Corpo: Preparamos um guia completo para te ajudar na sua declaração de imposto de renda. Acesse nosso blog.";Improdutivo
-"Assunto: Dúvida sobre portabilidade de salário;Corpo: É possível fazer a portabilidade do meu salário para a conta de investimentos?";Produtivo
-"Assunto: Problema na emissão de nota de corretagem;Corpo: Realizei uma operação ontem e a nota de corretagem ainda não está disponível no sistema.";Produtivo
-"Assunto: Solicitação de TED;Corpo: Favor realizar uma TED no valor de 10.000 para a conta de mesma titularidade no Banco X, dados em anexo.";Produtivo
-"Assunto: Aplicação programada;Corpo: Gostaria de programar uma aplicação mensal de R$ 1.000 no fundo de previdência. Como faço?";Produtivo
-"Assunto: Perfil de risco desatualizado;Corpo: Recebi um aviso que meu perfil de investidor está desatualizado. Poderiam me enviar o link para refazer o teste?";Produtivo
-"Assunto: Informações sobre COE;Corpo: Gostaria de entender melhor como funciona o Certificado de Operações Estruturadas e quais as opções disponíveis.";Produtivo
-"Assunto: Erro ao tentar resgatar pontos do programa de fidelidade;Corpo: O site está dando erro quando tento resgatar meus pontos. Podem verificar?";Produtivo
-"Assunto: Inclusão de dependente na conta;Corpo: Como faço para incluir minha esposa como dependente na minha conta de investimentos?";Produtivo
-"Assunto: Dúvida sobre o app;Corpo: Onde encontro a funcionalidade de 'previsão de proventos' no novo aplicativo?";Produtivo
-"Assunto: Transferência de R$ 5.000;Corpo: Bom dia, por favor, transferir R$ 5.000 para a conta do meu filho, dados seguem em anexo. É urgente.";Produtivo
-"Assunto: Venda de Ativos;Corpo: Vender toda a minha posição em MGLU3 imediatamente, por favor.";Produtivo
-"Assunto: Acesso ao relatório de research;Corpo: Não estou conseguindo baixar o último relatório da equipe de análise. O link parece estar quebrado.";Produtivo
-"Assunto: Dúvida sobre aluguel de ações;Corpo: Gostaria de saber se minhas ações estão disponíveis para aluguel e como funciona a remuneração.";Produtivo
-"Assunto: Problema técnico - gráfico não carrega;Corpo: O gráfico de rentabilidade da minha carteira não está carregando no portal web.";Produtivo
-"Assunto: Reclamação sobre atendimento;Corpo: Gostaria de registrar uma reclamação sobre a demora no atendimento telefônico de hoje.";Produtivo
-"Assunto: Obrigado;Corpo: Apenas para agradecer. Problema resolvido.";Improdutivo
-"Assunto: Out of Office;Corpo: Estarei fora do escritório e retornarei na próxima semana. Para assuntos urgentes, contatar meu colega.";Improdutivo
-"Assunto: Seu feedback é importante para nós;Corpo: Participe da nossa pesquisa anual e nos ajude a melhorar nossos serviços.";Improdutivo
-"Assunto: Fwd: Oportunidade de negócio;Corpo: Achei que isso poderia te interessar.";Improdutivo
-"Assunto: Convite para o Jantar de Gala;Corpo: Temos o prazer de convidá-lo para nosso jantar anual de confraternização.";Improdutivo
-"Assunto: Comunicado de Imprensa;Corpo: A XPTO Investimentos anuncia aquisição da empresa ABC. Leia o comunicado na íntegra.";Improdutivo
-"Assunto: Votos de um feliz Dia das Mães;Corpo: Desejamos a todas as mães um dia repleto de alegrias.";Improdutivo
-"Assunto: Lembrete de senha;Corpo: Lembrete: sua senha irá expirar em 7 dias. Recomendamos a alteração.";Improdutivo
-"Assunto: Endereço de e-mail alterado;Corpo: Este é um e-mail automático para informar que o endereço de e-mail da sua conta foi alterado com sucesso.";Improdutivo
-"Assunto: Bem-vindo à nossa plataforma!;Corpo: Olá, seja bem-vindo! Estamos felizes em tê-lo conosco. Explore nossos recursos.";Improdutivo
-"Assunto: Parabéns, João!;Corpo: Toda a equipe te deseja um feliz aniversário!";Improdutivo
-"Assunto: Indique um amigo e ganhe benefícios;Corpo: Gostou dos nossos serviços? Indique um amigo e ambos ganham corretagem zero por um mês.";Improdutivo
-"Assunto: Fwd: Vídeo engraçado;Corpo: Você precisa ver isso kkkk";Improdutivo
-"Assunto: Confirmação de inscrição no evento;Corpo: Sua inscrição para o webinar 'Cenário Macroeconômico 2025' foi confirmada com sucesso.";Improdutivo
-"Assunto: Atualização de Política de Privacidade;Corpo: Estamos atualizando nossa política de privacidade. Leia os novos termos.";Improdutivo
-"Assunto: Acompanhe seu pedido;Corpo: Olá, seu novo cartão de crédito já foi enviado. Acompanhe a entrega pelo código de rastreio.";Improdutivo
-"Assunto: Erro no cálculo do preço médio;Corpo: Olá, o preço médio das minhas ações de ITUB4 está sendo exibido incorretamente na plataforma. Poderiam recalcular?";Produtivo
-"Assunto: Dúvida sobre subscrição de FII;Corpo: Recebi um e-mail sobre o direito de subscrição de um FII que possuo. Como faço para exercer esse direito?";Produtivo
-"Assunto: Problema ao salvar 'minha carteira';Corpo: Criei uma carteira modelo no site, mas as alterações não estão sendo salvas. Toda vez que atualizo a página, ela volta ao estado anterior.";Produtivo
-"Assunto: Liberação de saldo para investimento;Corpo: Fiz uma TED para a conta da corretora hoje de manhã e o saldo ainda não está liberado para operar. Houve algum problema?";Produtivo
-"Assunto: Relatório de alocação de ativos;Corpo: O relatório de alocação de ativos está mostrando uma porcentagem incorreta para a classe de renda fixa.";Produtivo
-"Assunto: Acesso multi-usuário para conta PJ;Corpo: Temos uma conta de pessoa jurídica e preciso cadastrar um novo sócio para ter acesso e operar. Qual o procedimento?";Produtivo
-"Assunto: Pergunta sobre o mercado de opções;Corpo: Gostaria de saber se minha conta está habilitada para operar no mercado de opções e quais os riscos envolvidos.";Produtivo
-"Assunto: Estorno de cobrança duplicada;Corpo: Verifiquei na minha fatura que a taxa de custódia foi cobrada duas vezes este mês. Solicito o estorno do valor duplicado.";Produtivo
-"Assunto: Dúvida sobre o app de desktop;Corpo: A nova versão do aplicativo para desktop está muito lenta no meu computador. Há alguma configuração que eu possa ajustar para melhorar o desempenho?";Produtivo
-"Assunto: Encaminhamento de comprovante;Corpo: Segue em anexo o comprovante de residência para a atualização cadastral que solicitei.";Produtivo
-"Assunto: Cópia da gravação da chamada;Corpo: Gostaria de solicitar a gravação da minha última chamada com a mesa de operações, realizada hoje por volta das 11h.";Produtivo
-"Assunto: Problema no login com certificado digital;Corpo: Não estou conseguindo acessar minha conta PJ utilizando o certificado digital. A página não reconhece o token.";Produtivo
-"Assunto: Esclarecimento sobre nota de corretagem;Corpo: A nota de corretagem de ontem veio com o campo 'Líquido para' zerado. Isso está correto?";Produtivo
-"Assunto: Alteração de assessor de investimentos;Corpo: Gostaria de solicitar a troca do meu assessor de investimentos. Com quem devo falar?";Produtivo
-"Assunto: Bloqueio de valor em conta;Corpo: Há um valor bloqueado na minha conta com a descrição 'Garantia BMF'. Gostaria de entender o motivo.";Produtivo
+"Solicitação Urgente de Extrato Consolidado;Prezados, bom dia. Necessito com urgência do extrato consolidado de todos os meus investimentos referente ao último trimestre para fins de declaração. Por favor, enviar para este e-mail.";Produtivo
+"Dúvida sobre Taxa de Corretagem;Boa tarde, identifiquei uma taxa de corretagem no valor de R$ 150,00 na minha nota de hoje que não compreendi. Poderiam detalhar a que se refere esta operação?";Produtivo
+"Agendamento com Assessor de Investimentos;Olá, gostaria de marcar uma reunião com meu assessor, o Sr. Carlos, para a próxima semana para reavaliar minha carteira de ações.";Produtivo
+"Problema de Acesso ao Portal do Cliente;Não estou conseguindo acessar o portal de investimentos desde ontem. A página de login apresenta um erro 503. Preciso de ajuda.";Produtivo
+"Aplicação em Fundo de Renda Fixa;Favor aplicar R$ 25.000,00 do saldo da minha conta corrente no fundo 'Tesouro Direto Simples FIC FI RF'.";Produtivo
+"Análise de Mercado - Setor de Varejo;Gostaria de solicitar ao time de análise um relatório atualizado sobre as perspectivas para o setor de varejo brasileiro nos próximos 6 meses.";Produtivo
+"Atualização Cadastral;Olá, mudei de endereço residencial e preciso atualizar meu cadastro. Qual o procedimento?";Produtivo
+"Resgate de Previdência Privada;Necessito de informações sobre as condições e o prazo para um resgate parcial do meu plano de previdência VGBL.";Produtivo
+"Interesse em Abertura de Conta Offshore;Fui recomendado por um amigo e gostaria de saber mais sobre as opções e os custos para abrir uma conta de investimentos no exterior.";Produtivo
+"Cópia de Contrato de Câmbio;Para fins de contabilidade, preciso da segunda via do contrato de câmbio da operação realizada na semana passada.";Produtivo
+"Ordem de Compra - PETR4;Por favor, executar ordem de compra de 1000 ações de PETR4 a preço de mercado.";Produtivo
+"Transferência de Custódia;Estou trazendo meus ativos de outra corretora e preciso dos formulários para a transferência de custódia.";Produtivo
+"Erro na plataforma de Home Broker;A plataforma está travando sempre que tento abrir o book de ofertas. Não consigo operar.";Produtivo
+"Relatório de Performance da Carteira;Poderiam me enviar o relatório detalhado de performance da minha carteira consolidada em 2024?";Produtivo
+"Agradecimento;Apenas para agradecer o excelente atendimento do meu assessor, o Ricardo. Muito obrigado pela paciência e clareza.";Improdutivo
+"Feliz Aniversário!;Olá, passando para desejar um feliz aniversário para a Ana da mesa de operações! Tudo de bom.";Improdutivo
+"Re: Reunião de ontem;Ciente. Obrigado pelo resumo da reunião.";Improdutivo
+"Pesquisa de Satisfação;Gostaríamos de saber como foi sua experiência com nosso atendimento. Por favor, responda nossa breve pesquisa.";Improdutivo
+"Oportunidade Imperdível de Investimento!;Conheça o novo criptoativo que vai revolucionar o mercado! Invista agora e tenha retornos de até 500%!";Improdutivo
+"Vaga de Emprego - Venha ser nosso parceiro;Estamos com uma oportunidade para a vaga de consultor de investimentos. Envie seu currículo.";Improdutivo
+"Convite para Webinar;Participe do nosso webinar gratuito sobre as tendências do mercado para o próximo ano.";Improdutivo
+"AUSENTE DO ESCRITÓRIO;Estarei fora do escritório até a próxima segunda-feira, com acesso limitado a e-mails.";Improdutivo
+"Parabéns pelos resultados!;Queria parabenizar toda a equipe de gestão do fundo multimercado pelos excelentes resultados deste mês.";Improdutivo
+"Newsletter Semanal;Confira os destaques da semana no mercado financeiro em nossa newsletter exclusiva.";Improdutivo
+"Spam Teste;Viagra, cialis, promoções imperdíveis, ganhe dinheiro fácil.";Improdutivo
+"Olá;Tudo bem?";Improdutivo
+"Curiosidade;Qual o horário de funcionamento da agência?";Improdutivo
+"Boas Festas!;Passando para desejar a toda a equipe um ótimo final de ano e um 2025 de muito sucesso.";Improdutivo
+"Fwd: Piada do dia;Hahaha, achei essa muito boa!";Improdutivo
+"Convite para evento de clientes;Gostaríamos de convidá-lo para nosso evento exclusivo para clientes Private no dia 20/11.";Improdutivo
+"Aviso de manutenção da plataforma;Nossa plataforma passará por uma manutenção programada neste domingo, das 02h às 04h da manhã.";Improdutivo
+"Feliz Páscoa;Desejamos a você e sua família uma Feliz Páscoa!";Improdutivo
+"FESTA;e ai vai ter festa hoje?? parabens dona rosangela";Improdutivo
+"Aniversário;FELIZ ANIVERSARIO!! tudo de bom muitos anos de vida";Improdutivo
+"Churrasco no Fim de Semana;Pessoal, só pra avisar que vai rolar um churrasco na minha casa no sábado. Quem vem?";Improdutivo
+"Pizza hoje?;E ai, vamos pedir uma pizza mais tarde?";Improdutivo
+"Bom dia grupo;Bom dia! Que todos tenham uma ótima semana de trabalho!";Improdutivo
+"Parabéns pelo bebê!;Acabei de saber da notícia, muitas felicidades para a família!";Improdutivo
+"Jogo de futebol hoje à noite;Vamos assistir ao jogo juntos no bar?";Improdutivo
+"Férias Coletivas;A empresa entrará em recesso coletivo a partir do dia 20/12.";Improdutivo
+"Convite para happy hour;Pessoal, vamos fazer um happy hour na sexta para comemorar o fim do trimestre?";Improdutivo
+"Feliz dia das mulheres!;Uma homenagem a todas as mulheres da nossa equipe.";Improdutivo
+"Bolão da Copa;Quem ainda não pagou o bolão, favor acertar comigo até amanhã.";Improdutivo
+"Votos de melhoras;Fiquei sabendo que você não está bem. Desejo uma rápida recuperação.";Improdutivo
+"Procurando vaga de estacionamento;Alguém tem uma vaga de estacionamento para alugar no prédio?";Improdutivo
+"Amigo secreto;O sorteio do amigo secreto será realizado na segunda-feira.";Improdutivo
+"Recomendações de restaurante;Alguém conhece um bom restaurante italiano para um jantar de equipe?";Improdutivo
+"Oferta exclusiva: 50% de desconto!;Clique aqui e aproveite esta promoção imperdível!";Improdutivo
+"Ganhe dinheiro rápido e fácil!;Trabalhe de casa e fature até 5 mil por semana. Saiba mais.";Improdutivo
+"Você foi selecionado para um prêmio!;Parabéns! Você ganhou um prêmio exclusivo. Resgate agora.";Improdutivo
+"Empréstimo pré-aprovado;Temos uma oferta de empréstimo com taxas especiais para você. Não perca!";Improdutivo
+"Aumente seus seguidores;Compre 10.000 seguidores para seu Instagram por um preço baixo.";Improdutivo
+"Sua conta foi comprometida;Detectamos atividade suspeita. Clique neste link para verificar sua conta (link malicioso).";Improdutivo
+"Perda de peso milagrosa;Perca 10kg em uma semana com nosso novo produto revolucionário.";Improdutivo
+"Fwd: Corrente da sorte;Repasse esta mensagem para 10 pessoas e terá boa sorte.";Improdutivo
+"Herança Inesperada;Um parente distante deixou uma herança milionária para você. Entre em contato para reclamar.";Improdutivo
+"Parabéns pelo novo carro!;Vi a foto do seu carro novo, muito bonito! Parabéns pela conquista.";Improdutivo
+"Proposta de parceria;Olá, somos da Empresa XYZ e gostaríamos de apresentar nosso software de contabilidade.";Improdutivo
+"E-mail enviado para o endereço errado;Prezado Sr. Silva, sobre a nossa reunião de amanhã... (e-mail claramente para outra pessoa)";Improdutivo
+"Currículo para Vaga;Segue meu currículo em anexo para a vaga de analista de sistemas.";Improdutivo
+"Teste;Apenas um e-mail de teste, favor desconsiderar.";Improdutivo
+"Comprar Viagra online;As melhores ofertas de Viagra e Cialis, entrega discreta.";Improdutivo
+"Qual o status do chamado {protocolo}?";Produtivo
+"Como resolver o problema de {problema_tecnico} no {sistema}?";Produtivo
+"Preciso de ajuda com a {funcionalidade} no {produto}.";Produtivo
+"Erro {codigo_erro} ao tentar {acao}.";Produtivo
+"Solicito a instalação do software {nome_software}.";Produtivo
+"Gostaria de um relatório sobre {metrica} do último {periodo}.";Produtivo
+"Falha na integração entre {sistema_A} e {sistema_B}.";Produtivo
+"Quando será implementada a correção do bug {numero_bug}?";Produtivo
+"Preciso de acesso ao {modulo} para {finalidade}.";Produtivo
+"A API está retornando {status_code} para o endpoint {endpoint}.";Produtivo
+"URGENTE: O sistema {nome_sistema} está fora do ar.";Produtivo
+"Bloqueador: Não consigo finalizar a {tarefa_critica} por causa de {impedimento}.";Produtivo
+"Prioridade alta: O cliente {nome_cliente} está reportando {problema_grave}.";Produtivo
+"Onde encontro a documentação para {funcionalidade_api}?";Produtivo
+"Como configuro o {parametro} no {ambiente}?";Produtivo
+"Desejo um feliz {feriado} a todos!";Improdutivo
+"Parabéns pela {conquista}!";Improdutivo
+"Muito obrigado pela {ajuda}.";Improdutivo
+"Tenham um ótimo {periodo_tempo}.";Improdutivo
+"Apenas para informar que estou ciente.";Improdutivo
+"Que a sua {evento} seja repleta de {sentimento_positivo}.";Improdutivo
+"Votos de {desejo_bom} para você e sua família.";Improdutivo
+"Celebrando junto com vocês o {marco_importante}.";Improdutivo
+"Que inspiração ver o {acontecimento_positivo}!";Improdutivo
+"Aproveitem o {evento_social} para relaxar.";Improdutivo
+"Obrigado por compartilhar o {link_ou_artigo}.";Improdutivo
+"Apenas um lembrete amigável sobre {assunto_qualquer}.";Improdutivo
+"Gostaria de expressar minha gratidão pelo {gesto_gentil}.";Improdutivo
+"Que alegria saber do {evento_feliz}!";Improdutivo
+"Enviando pensamentos positivos para a {situacao}.";Improdutivo
+"Solicitação de Relatório de Risco;Por favor, poderiam gerar um relatório de Value at Risk (VaR) para a minha carteira atualizada?";Produtivo
+"Dúvida sobre Derivativos;Gostaria de entender melhor a mecânica de uma operação de swap de taxas de juro.";Produtivo
+"Execução de Ordem de Opções;Favor executar a compra de 1000 opções de compra de VALE3 com strike a R$ 80,00 para o próximo vencimento.";Produtivo
+"Problema com a Plataforma de Derivativos;A plataforma não está a exibir o book de ofertas para os contratos futuros de dólar.";Produtivo
+"Análise Macroeconómica;Gostaria de receber a análise da vossa equipa sobre o impacto da última decisão do COPOM na inflação.";Produtivo
+"Alerta de Stop Loss;Recebi um alerta de que minha posição em ABEV3 atingiu o stop loss. A ordem foi executada?";Produtivo
+"Interesse em Private Equity;Gostaria de saber se há algum fundo de Private Equity aberto para captação no momento.";Produtivo
+"Compliance - Processo de KYC;Recebi um pedido de atualização de documentos para o processo de 'Know Your Customer'. A que se refere?";Produtivo
+"Erro na Liquidação Financeira;Verifiquei que a liquidação financeira da minha venda de ações de ontem ainda não ocorreu. Houve algum problema?";Produtivo
+"Consulta sobre Alavancagem;Qual o meu limite máximo de alavancagem para operar no mercado de mini-índice?";Produtivo
+"Proposta Comercial Irrelevante;Olá, somos uma agência de marketing digital e podemos triplicar seus leads.";Improdutivo
+"SPAM: Você ganhou na loteria!;Parabéns! Você é o ganhador de $1.000.000. Clique aqui para resgatar.";Improdutivo
+"Convite para evento não relacionado;Participe da nossa feira de artesanato local neste fim de semana.";Improdutivo
+"Fwd: Corrente de Oração;Repasse esta mensagem para 7 pessoas e terá uma semana abençoada.";Improdutivo
+"Venda de Produtos Diversos;Temos máscaras, álcool em gel e outros produtos com o melhor preço.";Improdutivo
+"Currículo para vaga inexistente;Prezados, segue meu currículo para a vaga de designer gráfico.";Improdutivo
+"Pedido de Orçamento para Serviço não relacionado;Gostaria de um orçamento para a pintura da minha casa.";Improdutivo
+"E-mail pessoal para funcionário;Oi, Ricardo, aqui é o João. Vamos marcar aquele futebol?";Improdutivo
+"Reclamação sobre outra empresa;Estou muito insfeito com os serviços da empresa de telefonia. Vocês podem me ajudar?";Improdutivo
+"Notificação de Rede Social;Maria comentou na sua foto.";Improdutivo
+"Confirmação de Pedido de Comida;Seu pedido do iFood está a caminho.";Improdutivo
+"Fatura do seu serviço de streaming;A fatura da sua Netflix já está disponível.";Improdutivo
+"Atualização de Jogo;Uma nova atualização para o seu jogo foi descarregada.";Improdutivo
+"Como faço para {acao_tecnica}?;Gostaria de saber como faço para emitir uma nota de corretagem no home broker.";Produtivo
+"Relatório de {tipo_relatorio} solicitado;Poderiam me enviar o relatório de proventos pagos no último ano?";Produtivo
+"Problema com {funcionalidade_plataforma};A funcionalidade de 'stop móvel' não está a funcionar corretamente.";Produtivo
+"Dúvida sobre o produto {nome_produto};Qual a rentabilidade alvo do fundo 'Global Equities FIC FIA'?";Produtivo
+"Erro ao tentar {acao_usuario};Estou a receber um erro de 'saldo insuficiente' ao tentar comprar ações, mas tenho saldo em conta.";Produtivo
+"Preciso de informações sobre {assunto_mercado};Gostaria de saber mais sobre os riscos de investir em mercados emergentes.";Produtivo
+"Agendar call para discutir {topico};Podemos agendar uma call para discutir a alocação da minha carteira de FIIs?";Produtivo
+"Falha na execução da {ordem};A minha ordem de venda de 100 ITSA4 não foi executada, mesmo com o mercado no preço que eu queria.";Produtivo
+"URGENTE: Problema na {operacao_critica};A minha transferência de custódia está parada há 3 dias, preciso de uma solução urgente.";Produtivo
+"Atualização sobre o {processo_interno};Qual o status da minha solicitação de enquadramento como investidor qualificado?";Produtivo
+"Votos de um excelente {evento_social};Desejo a todos um excelente happy hour de fim de ano!";Improdutivo
+"Parabéns pelo {marco_empresa}!;Fiquei muito feliz em saber do prêmio de melhor gestora do ano. Parabéns!";Improdutivo
+"Obrigado pela {ajuda_especifica};Muito obrigado pela ajuda com o imposto de renda, foi fundamental.";Improdutivo
+"Tenham um {descanso_merecido};Bom feriado prolongado a todos, descansem bastante.";Improdutivo
+"Apenas para seu conhecimento;FYI: Segue matéria sobre a mudança na diretoria da empresa X.";Improdutivo
+"Que legal o {evento_pessoal}!;Vi as fotos da festa de confraternização, parecia muito animada!";Improdutivo
+"Sua opinião sobre {assunto_aleatorio};O que você achou do jogo de ontem?";Improdutivo
+"Convite para {evento_nao_relacionado};Gostaria de convidá-lo para a inauguração da minha loja.";Improdutivo
+"Promoção de {produto_nao_relacionado};Aproveite os descontos de até 70% em nossa loja de roupas.";Improdutivo
+"Corrente de {tipo_corrente};Não quebre esta corrente, passe para 5 amigos.";Improdutivo
+"Dúvida sobre Tesouraria;Qual o procedimento para realizar uma operação de hedge cambial para a minha empresa?";Produtivo
+"Erro no book de ofertas;O book de ofertas para o mini dólar está congelado na minha tela, não atualiza.";Produtivo
+"Informações sobre Club Deal;Fiquei sabendo de um Club Deal no setor imobiliário e gostaria de mais informações.";Produtivo
+"Solicitação de Documento de Suitability;Poderiam me enviar a minha ficha de suitability preenchida e assinada?";Produtivo
+"Problema com o App de Trading;O aplicativo está a fechar sozinho toda vez que tento abrir um gráfico.";Produtivo
+"Consulta sobre Estrutura de COE;Como funciona a estrutura de capital protegido do COE 'Global Leaders'?";Produtivo
+"Necessito de ajuda com a declaração de BDRs;Tenho dúvidas sobre como declarar meus BDRs no imposto de renda.";Produtivo
+"Ordem de Zeragem de Posição;Por favor, zerar todas as minhas posições em aberto no mercado futuro imediatamente.";Produtivo
+"Atualização de Limite Operacional;Gostaria de solicitar um aumento do meu limite operacional para day trade.";Produtivo
+"Falha na Conexão com a B3;Estou a receber uma mensagem de 'falha na conexão com a B3' e não consigo enviar ordens.";Produtivo
+"SPAM: Ganhe um iPhone 15!;Responda a esta pesquisa e concorra a um iPhone 15 totalmente grátis!";Improdutivo
+"Proposta de SEO para o vosso site;Analisámos o vosso site e encontrámos oportunidades para melhorar o vosso ranking no Google.";Improdutivo
+"E-mail para o departamento errado;Prezados do RH, gostaria de enviar meu atestado médico. (Enviado para o e-mail de atendimento)";Improdutivo
+"Convite para formatura;Estou a enviar o convite para a minha formatura em Engenharia Civil.";Improdutivo
+"Comentário aleatório;Acho que o tempo vai virar hoje.";Improdutivo
+"Oportunidade de negócio MMN;Conheça uma oportunidade única de marketing multinível e alcance sua independência financeira.";Improdutivo
+"Sua fatura da internet vence hoje;Apenas um lembrete de que sua fatura de internet vence hoje.";Improdutivo
+"Confirmação de inscrição em academia;Sua inscrição na Academia SmartFit foi confirmada.";Improdutivo
+"Sua entrega da Amazon está a caminho;Seu pedido da Amazon será entregue hoje.";Improdutivo
+"Notificação do Facebook;Você tem 3 novas notificações.";Improdutivo
+"Consulta sobre mercado de balcão;Quais são os requisitos para operar no mercado de balcão organizado?";Produtivo
+"Problema com liquidez de ativo;Tentei vender um ativo de baixa liquidez e a ordem não foi executada. O que fazer?";Produtivo
+"Informações sobre debêntures incentivadas;Gostaria de uma lista das debêntures incentivadas disponíveis para investimento.";Produtivo
+"Erro na plataforma: gráfico de volatilidade;O gráfico de volatilidade implícita não está a carregar para opções de PETR4.";Produtivo
+"Solicitação de call com analista de ações;Seria possível agendar uma conversa com o analista responsável pelo setor de bancos?";Produtivo
+"Dúvida sobre Imposto de Renda em FIIs;Os rendimentos mensais dos Fundos Imobiliários são isentos de IR para pessoa física?";Produtivo
+"Alteração de conta bancária para retiradas;Preciso alterar a conta bancária cadastrada para a qual realizo os resgates. Como faço?";Produtivo
+"Problema no login via reconhecimento facial;O app não está a reconhecer meu rosto para fazer o login. Tentei várias vezes.";Produtivo
+"Consulta sobre investimentos ESG;Quais fundos com certificação ESG vocês oferecem na plataforma?";Produtivo
+"Ordem de Stop Móvel não funcionou;Programei um stop móvel para minha posição em BBDC4, mas ele não foi acionado quando o preço caiu.";Produtivo
+"SPAM: Oferta de Trading Automatizado;Nosso robô de trading garante 30% de lucro ao mês! Teste grátis.";Improdutivo
+"Proposta de permuta de publicidade;Olá, temos um portal de notícias financeiras e gostaríamos de propor uma parceria de permuta de banners.";Improdutivo
+"E-mail pessoal para um colega;Fernando, você viu o jogo ontem? Que virada!";Improdutivo
+"Reclamação sobre o serviço de café;O café da copa do 3º andar está muito fraco ultimamente.";Improdutivo
+"Convite para um evento de caridade;Gostaríamos de convidá-lo para nosso jantar beneficente anual.";Improdutivo
+"Sua subscrição da 'The Economist' está a expirar;Renove agora para continuar a receber as melhores análises económicas.";Improdutivo
+"Notificação de voo da GOL;Seu voo para São Paulo foi alterado. Confira os novos detalhes.";Improdutivo
+"Lembrete de consulta no dentista;Olá, apenas para lembrar da sua consulta com o Dr. Mário amanhã às 16h.";Improdutivo
+"Fwd: Fotos do fim de semana;Seguem as fotos do nosso passeio de barco.";Improdutivo
+"Sua encomenda dos Correios foi postada;O seu objeto foi postado. Código de rastreio: QB123456789BR.";Improdutivo
+"Relatório de crédito Serasa;Consulte grátis seu CPF e veja sua pontuação de crédito.";Improdutivo
+"Oportunidade de trabalho freelance;Estamos à procura de redatores para artigos sobre finanças. Tem interesse?";Improdutivo
+"Parabéns pelo noivado!;Fiquei muito feliz em saber do seu noivado, muitas felicidades ao casal!";Improdutivo
+"Sua assinatura do Office 365 foi renovada;Obrigado por ser nosso cliente. Sua assinatura foi renovada por mais um ano.";Improdutivo
+"Confirmação de reserva no Airbnb;Sua estadia em Florianópolis está confirmada. Veja os detalhes da sua viagem.";Improdutivo
+"Dúvida sobre o {procedimento_interno};Como faço para solicitar o reembolso de despesas de viagem?";Produtivo
+"Problema no {sistema_interno};O sistema de ponto não registou a minha entrada hoje.";Produtivo
+"Relatório de {area_negocio} solicitado;Preciso do relatório de inadimplência do último mês.";Produtivo
+"Erro ao acessar {recurso_rede};Não consigo aceder à pasta partilhada do departamento jurídico.";Produtivo
+"Agendamento de {tipo_reuniao};Gostaria de agendar a nossa reunião de feedback trimestral.";Produtivo
+"URGENTE: Falha no {servidor_critico};O servidor de produção da aplicação de clientes está a responder com erro 500.";Produtivo
+"Preciso de acesso à {ferramenta_dev};Poderiam me dar acesso de leitura ao banco de dados de homologação?";Produtivo
+"Status do deploy da versão {versao};Qual o status do deploy da versão 2.5.1 que estava agendado para hoje?";Produtivo
+"Consulta sobre {politica_empresa};Qual é a nossa política para trabalho remoto em feriados?";Produtivo
+"Bloqueador: {dependencia_externa} está indisponível;A API do nosso fornecedor de dados de mercado está fora do ar, o que impede a nossa análise.";Produtivo
+"Obrigado pelo {apoio_profissional};Queria agradecer o apoio de todos no lançamento do novo produto.";Improdutivo
+"Feliz Dia do Programador!;Parabéns a todos os colegas de TI pelo nosso dia!";Improdutivo
+"Votos de um ótimo {evento_corporativo};Desejo a todos um excelente treinamento de liderança.";Improdutivo
+"Apenas para alinhar;FYI: A apresentação para a diretoria foi reagendada para sexta-feira.";Improdutivo
+"Parabéns pela promoção!;Fiquei muito feliz em saber da sua promoção a gerente. Muito merecido!";Improdutivo
+"Que tal um {encontro_informal}?;Vamos marcar um almoço com a equipa na semana que vem?";Improdutivo
+"Sua opinião sobre a {decisao_recente};O que você achou da nova política de home office?";Improdutivo
+"Lembrete amigável sobre o {prazo_interno};Pessoal, só para lembrar que o prazo para o preenchimento da avaliação de desempenho é amanhã.";Improdutivo
+"Compartilhando um {recurso_util};Encontrei este ótimo artigo sobre performance de APIs, achei que seria útil.";Improdutivo
+"Boas-vindas ao novo {cargo};Gostaria de dar as boas-vindas ao nosso novo estagiário, o Pedro.";Improdutivo
+"Informação sobre benefício corporativo;Gostaria de saber como funciona o nosso plano de previdência privada.";Produtivo
+"Problema com o crachá de acesso;Meu crachá não está a abrir a catraca do estacionamento.";Produtivo
+"Solicitação de material de escritório;Preciso de um novo teclado e um mouse, o meu está com defeito.";Produtivo
+"Dúvida sobre a folha de pagamento;Notei uma diferença no valor do meu vale-refeição este mês, poderiam verificar?";Produtivo
+"Agendamento de férias;Gostaria de agendar minhas férias para a primeira quinzena de janeiro.";Produtivo
+"Erro no sistema de RH;O portal de RH não me deixa submeter minhas metas para este trimestre.";Produtivo
+"Relatório de horas extras;Por favor, poderiam me enviar um relatório das minhas horas extras no último mês?";Produtivo
+"Preciso de um novo monitor;O meu monitor está com uma linha de pixels queimados, preciso de um novo.";Produtivo
+"Consulta sobre plano de saúde;Gostaria de saber qual é a cobertura do nosso plano de saúde para fisioterapia.";Produtivo
+"Falha na impressora do 4º andar;A impressora do nosso andar está atolada com papel e ninguém consegue usar.";Produtivo
+"Despedida;Olá a todos, hoje é meu último dia na empresa. Queria agradecer a todos pela parceria.";Improdutivo
+"Convite para festa de casamento;É com muita alegria que convidamos você para a celebração do nosso casamento.";Improdutivo
+"Venda de rifa;Pessoal, estou a vender uma rifa para ajudar a formatura da minha filha. Quem se interessa?";Improdutivo
+"Assunto: Fofoca;Você não vai acreditar no que eu descobri sobre o novo projeto!";Improdutivo
+"Achados e perdidos;Encontrei um guarda-chuva preto na copa. Alguém perdeu?";Improdutivo
+"Alerta de trânsito;Pessoal, evitem a Marginal Pinheiros, há um grande congestionamento.";Improdutivo
+"Recomendação de série;Comecei a assistir uma série nova na Netflix, é muito boa!";Improdutivo
+"Classificados;Estou a vender meu carro, um Honda Civic 2018. Interessados, me procurem.";Improdutivo
+"Fwd: Meme engraçado;Olha isso kkkkk";Improdutivo
+"Pedido de doação de sangue;Um colega de outro departamento precisa de doações de sangue tipo O-. Quem puder ajudar...";Improdutivo
+"Problema com {equipamento_escritorio};A máquina de café não está a funcionar.";Produtivo
+"Solicitação de {acesso_sistema_interno};Preciso de acesso ao sistema de compliance para uma auditoria.";Produtivo
+"Dúvida sobre {beneficio_empresa};Como faço para me inscrever no programa de ginástica da empresa?";Produtivo
+"Relatório de {indicador_interno} mensal;Gostaria do relatório de absenteísmo da equipa no último mês.";Produtivo
+"Erro no {software_interno};O sistema de reserva de salas de reunião não está a mostrar a disponibilidade correta.";Produtivo
+"Agendamento de {treinamento_obrigatorio};Quando será o próximo treinamento obrigatório de segurança da informação?";Produtivo
+"URGENTE: Problema com a {infraestrutura_rede};A internet caiu em todo o 5º andar.";Produtivo
+"Consulta sobre a política de {assunto_rh};Qual é a política da empresa para licença-paternidade?";Produtivo
+"Falha no {servico_ti};O serviço de e-mail está muito lento esta manhã.";Produtivo
+"Atualização sobre o {projeto_estrategico};Gostaria de um status sobre o andamento do projeto de expansão para a América Latina.";Produtivo
+"Votos de um {feriado_nacional} tranquilo;Desejo a todos um ótimo feriado de 7 de Setembro.";Improdutivo
+"Parabéns pela {realizacao_pessoal}!;Fiquei sabendo que você concluiu sua maratona! Parabéns pela dedicação!";Improdutivo
+"Obrigado pelo {presente_corporativo};Adorei a cesta de Natal que a empresa enviou. Muito obrigado!";Improdutivo
+"Lembrete do {evento_empresa};Só para lembrar a todos da nossa festa de fim de ano na sexta-feira.";Improdutivo
+"Apenas para seu conhecimento geral;FYI: O relatório anual da concorrência foi publicado hoje.";Improdutivo
+"Organizando um {evento_informal_equipa};Pessoal, estou a organizar um amigo secreto para a nossa equipa. Quem quer participar?";Improdutivo
+"Sua opinião sobre o {topico_geral};O que vocês acham da nova cafeteria que abriu na rua de trás?";Improdutivo
+"Divulgação de {evento_externo};Gostaria de divulgar um workshop de finanças pessoais que vai acontecer na minha comunidade.";Improdutivo
+"Oferecendo {servico_pessoal};Sou fotógrafo nas horas vagas. Se alguém precisar de um ensaio, estou à disposição.";Improdutivo
+"Pedido de {favor_pessoal};Alguém vai para o centro da cidade depois do trabalho e pode me dar uma boleia?";Improdutivo
+"Solicitação de acesso VPN;Preciso trabalhar de casa amanhã e o meu acesso VPN expirou. Podem renová-lo?";Produtivo
+"Problema com o ar condicionado;O ar condicionado do nosso setor está muito forte, está toda a gente com frio.";Produtivo
+"Dúvida sobre o código de vestimenta;Qual é o código de vestimenta para o evento com clientes na próxima semana?";Produtivo
+"Agendamento de entrevista de desligamento;Gostaríamos de agendar a sua entrevista de desligamento para amanhã às 14h.";Produtivo
+"Erro ao submeter relatório de despesas;O sistema não está a aceitar o meu relatório de despesas, diz que o formato da data é inválido.";Produtivo
+"Relatório de bugs da aplicação;Segue em anexo uma planilha com os bugs que encontrámos na nova versão da aplicação.";Produtivo
+"Consulta sobre participação nos lucros (PLR);Quando será paga a primeira parcela da PLR este ano?";Produtivo
+"Falha no acesso ao e-mail no celular;Não consigo mais aceder ao meu e-mail corporativo pelo celular desde hoje de manhã.";Produtivo
+"Solicitação de segunda via de holerite;Perdi meu holerite do mês passado, poderiam me enviar uma segunda via?";Produtivo
+"URGENTE: Vazamento de água no 2º andar;Há um vazamento de água vindo do teto da nossa sala, perto da copa.";Produtivo
+"Convite para almoço de equipa;Vamos almoçar juntos hoje para comemorar os resultados?";Improdutivo
+"Resultado do bolão;Saiu o resultado do bolão da Mega-Sena que fizemos. Ninguém ganhou.";Improdutivo
+"Notícia interessante sobre o mercado;Vejam esta matéria sobre a alta das commodities.";Improdutivo
+"Venda de ingressos para show;Estou a vender dois ingressos para o show da Taylor Swift. Alguém se interessa?";Improdutivo
+"Procurando indicações de um bom médico;Alguém pode me indicar um bom ortopedista em São Paulo?";Improdutivo
+"Fwd: Imagens de gatinhos;Olha que fofos!";Improdutivo
+"Organizando carona para o trabalho;Moro na Zona Leste. Alguém que more perto e queira dividir uma carona?";Improdutivo
+"Lembrete: hoje é o dia da pizza!;Pessoal, só para lembrar que hoje é a nossa sexta-feira da pizza.";Improdutivo
+"Feliz dia do amigo!;Um abraço a todos os amigos que fiz aqui na empresa.";Improdutivo
+"Comentário sobre o refeitório;A comida do refeitório estava especialmente boa hoje. Parabéns ao chef!";Improdutivo
+"Consulta sobre Swap Cambial;Gostaria de cotar uma operação de NDF para proteção cambial da nossa próxima importação.";Produtivo
+"Erro na Posição de Custódia;Minha posição de custódia em WEGE3 está a exibir uma quantidade incorreta de ações.";Produtivo
+"Informações sobre Fundos de Crédito Privado;Quais são os fundos de crédito privado com rating AA disponíveis na plataforma?";Produtivo
+"Problema com a Assinatura Digital;Não estou a conseguir usar minha assinatura digital para aprovar a transferência de recursos.";Produtivo
+"Relatório de Risco de Contraparte;Poderiam gerar um relatório de risco de contraparte para nossas operações com o Banco Y?";Produtivo
+"Dúvida sobre o Teste de Suitability;Refiz meu teste de suitability e o resultado foi 'moderado'. Gostaria de entender os critérios.";Produtivo
+"Aplicação em LCI/LCA;Quero aplicar R$ 100.000 em uma LCI com prazo de 2 anos. Quais as opções?";Produtivo
+"Falha no Envio de Ordem OCO;A minha ordem 'One-Cancels-the-Other' (OCO) não foi acionada corretamente hoje.";Produtivo
+"Solicitação de Acesso via API;Somos um gestor de fortunas e gostaríamos de ter acesso via API para consultar as carteiras dos nossos clientes.";Produtivo
+"Problema com a Calculadora de IR;A calculadora de imposto de renda da plataforma parece não estar a considerar os custos de corretagem.";Produtivo
+"SPAM: Seu nome foi mencionado online!;Descubra o que estão a dizer sobre si. Clique para ver.";Improdutivo
+"Proposta de Consultoria de RH;Podemos ajudar sua empresa a otimizar a gestão de talentos e a folha de pagamento.";Improdutivo
+"E-mail enviado para o departamento errado;Prezados do Jurídico, sobre o contrato de aluguer... (Enviado para o atendimento)";Improdutivo
+"Convite para Testar Novo Software;Gostaríamos de convidá-lo para ser um dos primeiros a testar nosso novo software de gestão de projetos.";Improdutivo
+"Reclamação sobre o ar condicionado;O ar condicionado da sala de reuniões 5 não está a funcionar.";Improdutivo
+"Assunto: Sorteio!;Participe do nosso sorteio de fim de ano e concorra a um carro 0km!";Improdutivo
+"Notificação de Entrega da Loggi;Sua encomenda está a caminho e deve chegar hoje.";Improdutivo
+"Sua fatura do Nubank fechou;Confira os detalhes da sua fatura do cartão de crédito.";Improdutivo
+"Lembrete de Reunião no Google Calendar;Lembrete: Reunião de Alinhamento Semanal em 30 minutos.";Improdutivo
+"Você tem uma nova conexão no LinkedIn;Ana Silva aceitou seu convite para se conectar.";Improdutivo
+"Problema com {tipo_problema_tecnico} na {plataforma};Estou com um problema de latência na plataforma de trading.";Produtivo
+"Solicitação de {documento_financeiro};Poderiam me enviar a lâmina de informações essenciais do fundo {nome_fundo}?";Produtivo
+"Erro ao executar {acao_financeira};O sistema deu erro ao tentar executar o resgate da minha previdência.";Produtivo
+"Dúvida sobre a {politica_interna} da empresa;Gostaria de saber qual a política para reembolso de cursos e certificações.";Produtivo
+"Agendamento de {tipo_reuniao_corporativa};Preciso agendar a reunião do conselho para a próxima terça-feira.";Produtivo
+"URGENTE: Falha de segurança no {sistema_critico};Recebemos um alerta de tentativa de acesso não autorizado no sistema de contas a pagar.";Produtivo
+"Preciso de acesso de {nivel_acesso} ao {servidor};Poderiam liberar meu acesso de administrador ao servidor de testes?";Produtivo
+"Qual o status do {processo_de_negocio}?;Gostaria de saber o status do processo de abertura de conta da nossa empresa.";Produtivo
+"Consulta sobre a integração com {software_terceiro};A nossa integração com o sistema da Receita Federal está a falhar.";Produtivo
+"Bloqueador: {problema_especifico} impede a {tarefa_importante};A falta do relatório de compliance está a impedir o fecho do balanço trimestral.";Produtivo
+"Parabéns pelo {aniversario_empresa}!;Feliz 25 anos de empresa! Uma trajetória de muito sucesso.";Improdutivo
+"Obrigado pelo {gesto_corporativo};Gostaria de agradecer o bónus de fim de ano. Fiquei muito feliz.";Improdutivo
+"Tenham um {feriado_prolongado} excelente;Desejo a todos um ótimo feriado de Corpus Christi.";Improdutivo
+"Apenas para documentar;FYI: A ata da última reunião já está disponível na pasta partilhada.";Improdutivo
+"Que ótima {noticia_positiva}!;Fiquei sabendo que batemos a meta do semestre! Parabéns a todos!";Improdutivo
+"Vamos organizar um {evento_de_equipa}?;Que tal organizarmos um bowling com a equipa para descontrair?";Improdutivo
+"Sua opinião sobre a {mudanca_recente};O que vocês acharam da mudança do nosso escritório para o novo prédio?";Improdutivo
+"Lembrete amigável sobre a {tarefa_nao_urgente};Pessoal, não se esqueçam de responder à pesquisa de clima organizacional.";Improdutivo
+"Compartilhando um {material_interessante};Encontrei este documentário sobre o mercado de capitais, muito bom.";Improdutivo
+"Boas-vindas ao novo {membro_equipa};Gostaria de dar as boas-vindas à nossa nova analista, a Sofia.";Improdutivo
+"Consulta sobre Staking de Criptoativos;Vocês oferecem serviços de staking para Ethereum (ETH)?";Produtivo
+"Erro na Execução de Ordem a Termo;Minha ordem a termo para compra de B3SA3 não foi liquidada na data correta.";Produtivo
+"Informações sobre ETF de Renda Fixa;Gostaria de saber mais sobre o ETF 'IMAB11' e como ele se compara ao Tesouro IPCA+.";Produtivo
+"Problema com a API de Cotações;A API de cotações em tempo real está com um atraso de mais de 5 minutos.";Produtivo
+"Solicitação de Análise de Crédito para Alavancagem;Gostaria de solicitar uma análise de crédito para aumentar meu limite de alavancagem em R$ 100.000.";Produtivo
+"Dúvida sobre a Estrutura de um FIDC;Poderiam me explicar como funciona a estrutura de cotas sénior e subordinada de um FIDC?";Produtivo
+"Alteração de Assessor;Por motivos pessoais, gostaria de solicitar a troca do meu assessor de investimentos.";Produtivo
+"Problema com a Plataforma de Câmbio;Não estou a conseguir fechar uma operação de câmbio para Euro, o sistema apresenta 'serviço indisponível'.";Produtivo
+"Consulta sobre Investimento no Exterior via Spreads;Como funciona a tributação para investimentos feitos via BDRs vs. investimento direto no exterior?";Produtivo
+"Falha no Cálculo de Margem de Garantia;O sistema está a calcular incorretamente a minha margem de garantia para operações com mini-contratos.";Produtivo
+"SPAM: Seu CPF será negativado!;Detectamos uma dívida em seu nome. Clique aqui para negociar e evitar a negativação.";Improdutivo
+"Proposta de Fornecimento de Café;Somos fornecedores de café gourmet para escritórios. Gostariam de uma amostra?";Improdutivo
+"E-mail enviado para o funcionário errado;Olá, Joana, sobre o nosso projeto... (Enviado para o João)";Improdutivo
+"Reclamação sobre o estacionamento;O portão do estacionamento do subsolo está com defeito há uma semana.";Improdutivo
+"Convite para Show de Stand-up;Estou com um ingresso a mais para um show de comédia hoje. Alguém quer?";Improdutivo
+"Sua conta do iCloud está quase cheia;Faça o upgrade do seu plano de armazenamento para continuar a guardar suas fotos.";Improdutivo
+"Confirmação de Inscrição na Corrida;Sua inscrição para a 'Corrida da Cidade' foi confirmada.";Improdutivo
+"Seu resumo da Uber chegou;Veja como você usou a Uber no último mês.";Improdutivo
+"Notificação do iFood: Avalie seu pedido;O que você achou do seu pedido no restaurante 'Pizza Boa'?";Improdutivo
+"Você tem novos memories no Google Photos;Relembre seus melhores momentos de um ano atrás.";Improdutivo
+"Relatório de {tipo_relatorio_interno} solicitado;Preciso do relatório de turnover de funcionários do último semestre.";Produtivo
+"Problema com o {software_corporativo};O Salesforce está a apresentar lentidão para carregar os dashboards.";Produtivo
+"Dúvida sobre a {politica_de_compliance};Qual é a nossa política sobre o recebimento de presentes de parceiros comerciais?";Produtivo
+"Erro ao acessar a {base_de_dados};Não consigo conectar-me à base de dados de clientes, está a dar erro de autenticação.";Produtivo
+"Agendamento da {cerimonia_interna};Gostaria de agendar a cerimónia de premiação dos funcionários do ano.";Produtivo
+"URGENTE: Falha no {servico_de_comunicacao};O nosso sistema de e-mail marketing não está a enviar as campanhas agendadas.";Produtivo
+"Preciso de permissão para {acao_administrativa};Poderiam me dar permissão para criar novos utilizadores no sistema de RH?";Produtivo
+"Qual o status do {projeto_de_infraestrutura}?;Gostaria de saber como está o andamento da migração do nosso servidor para a nuvem.";Produtivo
+"Consulta sobre a licença do {software_pago};A nossa licença do Microsoft Office está prestes a expirar?";Produtivo
+"Bloqueador: O {ambiente_de_teste} não está a funcionar;O ambiente de homologação está fora do ar, o que impede os testes da nova versão.";Produtivo
+"Obrigado pelo {feedback_construtivo};Queria agradecer o feedback detalhado sobre a minha apresentação. Foi muito útil.";Improdutivo
+"Feliz Dia do Trabalho!;Um reconhecimento a todos que constroem esta empresa com seu esforço diário.";Improdutivo
+"Votos de um excelente {retiro_de_equipa};Desejo a todos um ótimo retiro de planeamento estratégico.";Improdutivo
+"Apenas para manter todos na mesma página;FYI: O cliente aprovou o orçamento. Podemos iniciar o projeto.";Improdutivo
+"Parabéns pelo {sucesso_academico}!;Fiquei sabendo que você concluiu seu MBA! Parabéns pela conquista!";Improdutivo
+"Vamos organizar um {desporto_em_equipa}?;Que tal montarmos uma equipa para o campeonato de futebol da empresa?";Improdutivo
+"Sua opinião sobre a {nova_ferramenta_interna};O que vocês estão a achar do novo sistema de comunicação interna?";Improdutivo
+"Lembrete sobre a {campanha_interna};Pessoal, não se esqueçam de participar da nossa campanha de doação de agasalhos.";Improdutivo
+"Compartilhando um {podcast_interessante};Ouvi este podcast sobre liderança e achei que vocês iam gostar.";Improdutivo
+"Boas-vindas ao novo {diretor};Gostaria de dar as boas-vindas ao nosso novo Diretor Financeiro, o Sr. Martins.";Improdutivo
+"Dúvida sobre o Código de Ética;Onde posso encontrar a versão mais recente do nosso código de ética?";Produtivo
+"Problema com a reserva da sala de reunião;Reservei a sala 'São Paulo' para as 15h, mas ela aparece como ocupada.";Produtivo
+"Solicitação de um novo notebook;O meu notebook está muito lento e a travar. Acredito que preciso de um novo para continuar a trabalhar eficientemente.";Produtivo
+"Erro no reembolso de despesas;Submeti minhas despesas de viagem há duas semanas e o reembolso ainda não foi processado.";Produtivo
+"Agendamento de treinamento de compliance;Quando será o próximo treinamento obrigatório sobre prevenção à lavagem de dinheiro?";Produtivo
+"Falha no sistema de videoconferência;Não consigo iniciar uma videoconferência na sala de reuniões principal. O sistema não liga.";Produtivo
+"Relatório de utilização de recursos;Poderiam me enviar um relatório sobre a utilização dos nossos créditos na AWS no último mês?";Produtivo
+"Preciso de um headset novo;O meu headset quebrou o microfone, preciso de um novo para as calls.";Produtivo
+"Consulta sobre o programa de mentoria;Gostaria de saber como posso me inscrever para ser um mentor no programa interno.";Produtivo
+"URGENTE: Acesso ao prédio bloqueado;O meu cartão de acesso não está a funcionar e estou preso do lado de fora do escritório.";Produtivo
+"Pedido de pizza para a equipa;Pessoal, vamos pedir pizza para o almoço hoje? Quem quer?";Improdutivo
+"Resultado do jogo de ontem;Alguém viu o jogo ontem? Que golaço no final!";Improdutivo
+"Procurando por recomendações de viagem;Estou a planear minhas férias para o Nordeste. Alguém tem dicas de lugares para visitar?";Improdutivo
+"Fwd: Artigo sobre produtividade;Achei este artigo interessante sobre como melhorar o foco no trabalho.";Improdutivo
+"Venda de doces;Estou a vender brigadeiros para ajudar na formatura da minha irmã. Tabela de preços em anexo.";Improdutivo
+"Perdi minhas chaves;Pessoal, acho que perdi minhas chaves em algum lugar na copa. Alguém viu?";Improdutivo
+"Boato sobre o novo CEO;Ficaram a saber dos rumores sobre quem será o novo CEO?";Improdutivo
+"Lembrete: Aniversariantes do Mês;Vamos celebrar os aniversariantes do mês com um bolo na copa às 16h!";Improdutivo
+"Feliz Sexta-feira!;Sextou! Bom fim de semana a todos!";Improdutivo
+"Comentário sobre o trânsito;O trânsito está impossível hoje de manhã.";Improdutivo
+"Como faço para {acao_plataforma_trading}?;Como configuro um alerta de preço para uma ação específica na plataforma?";Produtivo
+"Relatório de {tipo_relatorio_mercado} solicitado;Poderiam me enviar o último relatório de análise técnica para o Ibovespa?";Produtivo
+"Problema com o {indicador_tecnico};O indicador de 'Bandas de Bollinger' não está a ser exibido corretamente no gráfico.";Produtivo
+"Dúvida sobre o produto {instrumento_financeiro};Qual o lote mínimo para operar mini-contratos de índice?";Produtivo
+"Erro ao tentar {acao_ordem};Estou a tentar cancelar uma ordem, mas o sistema diz que a ordem não pode ser encontrada.";Produtivo
+"Preciso de informações sobre {evento_mercado};Qual o impacto esperado da divulgação do payroll americano nos mercados hoje?";Produtivo
+"Agendar call para discutir {estrategia_trading};Podemos agendar uma call para discutir uma estratégia de long & short com ações?";Produtivo
+"Falha na execução da {ordem_complexa};A minha ordem 'trailing stop' não acompanhou a subida do preço do ativo.";Produtivo
+"URGENTE: Problema na {conta_margem};A minha conta de margem está a exibir um valor negativo, mas eu não operei alavancado.";Produtivo
+"Atualização sobre o {limite_risco};Gostaria de saber qual o meu limite de perda diária configurado na plataforma.";Produtivo
+"Votos de um excelente {congresso_mercado};Desejo a todos que vão ao congresso de finanças uma ótima experiência e muito networking.";Improdutivo
+"Parabéns pela {analise_assertiva}!;A sua análise sobre a alta do dólar na semana passada foi certeira. Parabéns!";Improdutivo
+"Obrigado pela {dica_operacional};Aquela dica sobre usar o VWAP para day trade foi muito útil. Obrigado!";Improdutivo
+"Tenham um {pregao_produtivo};Bom dia e um ótimo pregão a todos!";Improdutivo
+"Apenas para seu conhecimento de mercado;FYI: A empresa Z anunciou um desdobramento de ações.";Improdutivo
+"Que interessante essa {estrategia_nova}!;Li sobre a estratégia de 'risk parity' e achei muito interessante. Já estudaram sobre isso?";Improdutivo
+"Sua opinião sobre o {ativo_especifico};O que vocês acham do potencial de valorização das ações da empresa X?";Improdutivo
+"Convite para {grupo_de_estudos};Estou a montar um grupo de estudos sobre análise quantitativa. Quem tem interesse?";Improdutivo
+"Promoção de {curso_financeiro};Aprenda a investir na bolsa com nosso curso completo para iniciantes.";Improdutivo
+"Corrente sobre {teoria_conspiracao_mercado};Repasse: dizem que os grandes bancos manipulam o preço do ouro.";Improdutivo
+"Consulta sobre a estrutura de um CRA/CRI;Qual a diferença de risco entre um CRA e um CRI?";Produtivo
+"Problema na visualização de proventos;A agenda de proventos não está a exibir os dividendos que serão pagos este mês.";Produtivo
+"Informações sobre o mercado de opções a seco;Quais os riscos de operar opções a seco, sem uma trava?";Produtivo
+"Erro no cálculo do preço médio;O sistema calculou o preço médio das minhas ações de forma errada após a última subscrição.";Produtivo
+"Solicitação de acesso ao mercado de futuros;Gostaria de solicitar a liberação do meu acesso para operar no mercado de futuros da B3.";Produtivo
+"Dúvida sobre a rolagem de contratos futuros;Como funciona o processo de rolagem de um contrato futuro de milho?";Produtivo
+"Alteração de perfil de risco para agressivo;Gostaria de alterar meu perfil de investidor para 'agressivo' para poder operar com mais alavancagem.";Produtivo
+"Problema com o gráfico de candlesticks;Os gráficos de velas não estão a exibir os pavios corretamente na plataforma.";Produtivo
+"Consulta sobre o 'circuit breaker';Gostaria de entender as regras de acionamento do circuit breaker no Ibovespa.";Produtivo
+"Falha na conexão com o DMA;A minha conexão via DMA (Direct Market Access) está a cair intermitentemente.";Produtivo
+"SPAM: Fique rico com day trade!;Com nosso método infalível, você pode largar seu emprego e viver de day trade. Saiba mais.";Improdutivo
+"Proposta de parceria com influenciador;Olá, sou um influenciador de finanças e gostaria de propor uma parceria para divulgar vossa corretora.";Improdutivo
+"E-mail com assunto pessoal;Lembrete: Jantar de família no sábado.";Improdutivo
+"Reclamação sobre o barulho no escritório;O pessoal do comercial está a falar muito alto e está a atrapalhar a concentração.";Improdutivo
+"Convite para um evento de networking;Gostaria de convidá-lo para nosso próximo evento de networking para profissionais do mercado financeiro.";Improdutivo
+"Sua assinatura do 'Valor Econômico' foi ativada;Comece agora a ler as principais notícias económicas do país.";Improdutivo
+"Notificação da sua corretora no exterior;Sua ordem de compra de ações da Apple foi executada.";Improdutivo
+"Lembrete de pagamento do seu cartão de crédito;A fatura do seu cartão corporativo vence amanhã.";Improdutivo
+"Fwd: Análise de mercado interessante;Achei esta análise do Morgan Stanley sobre a China muito boa.";Improdutivo
+"Sua viagem para Nova York está confirmada;Confira os detalhes da sua passagem e hotel para a conferência.";Improdutivo
+"Consulta sobre Swap Cambial;Gostaria de cotar uma operação de NDF para proteção cambial da nossa próxima importação.";Produtivo
+"Erro na Posição de Custódia;Minha posição de custódia em WEGE3 está a exibir uma quantidade incorreta de ações.";Produtivo
+"Informações sobre Fundos de Crédito Privado;Quais são os fundos de crédito privado com rating AA disponíveis na plataforma?";Produtivo
+"Problema com a Assinatura Digital;Não estou a conseguir usar minha assinatura digital para aprovar a transferência de recursos.";Produtivo
+"Relatório de Risco de Contraparte;Poderiam gerar um relatório de risco de contraparte para nossas operações com o Banco Y?";Produtivo
+"Dúvida sobre o Teste de Suitability;Refiz meu teste de suitability e o resultado foi 'moderado'. Gostaria de entender os critérios.";Produtivo
+"Aplicação em LCI/LCA;Quero aplicar R$ 100.000 em uma LCI com prazo de 2 anos. Quais as opções?";Produtivo
+"Falha no Envio de Ordem OCO;A minha ordem 'One-Cancels-the-Other' (OCO) não foi acionada corretamente hoje.";Produtivo
+"Solicitação de Acesso via API;Somos um gestor de fortunas e gostaríamos de ter acesso via API para consultar as carteiras dos nossos clientes.";Produtivo
+"Problema com a Calculadora de IR;A calculadora de imposto de renda da plataforma parece não estar a considerar os custos de corretagem.";Produtivo
+"SPAM: Seu nome foi mencionado online!;Descubra o que estão a dizer sobre si. Clique para ver.";Improdutivo
+"Proposta de Consultoria de RH;Podemos ajudar sua empresa a otimizar a gestão de talentos e a folha de pagamento.";Improdutivo
+"E-mail enviado para o departamento errado;Prezados do Jurídico, sobre o contrato de aluguer... (Enviado para o atendimento)";Improdutivo
+"Convite para Testar Novo Software;Gostaríamos de convidá-lo para ser um dos primeiros a testar nosso novo software de gestão de projetos.";Improdutivo
+"Reclamação sobre o ar condicionado;O ar condicionado da sala de reuniões 5 não está a funcionar.";Improdutivo
+"Assunto: Sorteio!;Participe do nosso sorteio de fim de ano e concorra a um carro 0km!";Improdutivo
+"Notificação de Entrega da Loggi;Sua encomenda está a caminho e deve chegar hoje.";Improdutivo
+"Sua fatura do Nubank fechou;Confira os detalhes da sua fatura do cartão de crédito.";Improdutivo
+"Lembrete de Reunião no Google Calendar;Lembrete: Reunião de Alinhamento Semanal em 30 minutos.";Improdutivo
+"Você tem uma nova conexão no LinkedIn;Ana Silva aceitou seu convite para se conectar.";Improdutivo
+"Problema com {tipo_problema_tecnico} na {plataforma};Estou com um problema de latência na plataforma de trading.";Produtivo
+"Solicitação de {documento_financeiro};Poderiam me enviar a lâmina de informações essenciais do fundo {nome_fundo}?";Produtivo
+"Erro ao executar {acao_financeira};O sistema deu erro ao tentar executar o resgate da minha previdência.";Produtivo
+"Dúvida sobre a {politica_interna} da empresa;Gostaria de saber qual a política para reembolso de cursos e certificações.";Produtivo
+"Agendamento de {tipo_reuniao_corporativa};Preciso agendar a reunião do conselho para a próxima terça-feira.";Produtivo
+"URGENTE: Falha de segurança no {sistema_critico};Recebemos um alerta de tentativa de acesso não autorizado no sistema de contas a pagar.";Produtivo
+"Preciso de acesso de {nivel_acesso} ao {servidor};Poderiam liberar meu acesso de administrador ao servidor de testes?";Produtivo
+"Qual o status do {processo_de_negocio}?;Gostaria de saber o status do processo de abertura de conta da nossa empresa.";Produtivo
+"Consulta sobre a integração com {software_terceiro};A nossa integração com o sistema da Receita Federal está a falhar.";Produtivo
+"Bloqueador: {problema_especifico} impede a {tarefa_importante};A falta do relatório de compliance está a impedir o fecho do balanço trimestral.";Produtivo
+"Parabéns pelo {aniversario_empresa}!;Feliz 25 anos de empresa! Uma trajetória de muito sucesso.";Improdutivo
+"Obrigado pelo {gesto_corporativo};Gostaria de agradecer o bónus de fim de ano. Fiquei muito feliz.";Improdutivo
+"Tenham um {feriado_prolongado} excelente;Desejo a todos um ótimo feriado de Corpus Christi.";Improdutivo
+"Apenas para documentar;FYI: A ata da última reunião já está disponível na pasta partilhada.";Improdutivo
+"Que ótima {noticia_positiva}!;Fiquei sabendo que batemos a meta do semestre! Parabéns a todos!";Improdutivo
+"Vamos organizar um {evento_de_equipa}?;Que tal organizarmos um bowling com a equipa para descontrair?";Improdutivo
+"Sua opinião sobre a {mudanca_recente};O que vocês acharam da mudança do nosso escritório para o novo prédio?";Improdutivo
+"Lembrete amigável sobre a {tarefa_nao_urgente};Pessoal, não se esqueçam de responder à pesquisa de clima organizacional.";Improdutivo
+"Compartilhando um {material_interessante};Encontrei este documentário sobre o mercado de capitais, muito bom.";Improdutivo
+"Boas-vindas ao novo {membro_equipa};Gostaria de dar as boas-vindas à nossa nova analista, a Sofia.";Improdutivo
+"Consulta sobre Staking de Criptoativos;Vocês oferecem serviços de staking para Ethereum (ETH)?";Produtivo
+"Erro na Execução de Ordem a Termo;Minha ordem a termo para compra de B3SA3 não foi liquidada na data correta.";Produtivo
+"Informações sobre ETF de Renda Fixa;Gostaria de saber mais sobre o ETF 'IMAB11' e como ele se compara ao Tesouro IPCA+.";Produtivo
+"Problema com a API de Cotações;A API de cotações em tempo real está com um atraso de mais de 5 minutos.";Produtivo
+"Solicitação de Análise de Crédito para Alavancagem;Gostaria de solicitar uma análise de crédito para aumentar meu limite de alavancagem em R$ 100.000.";Produtivo
+"Dúvida sobre a Estrutura de um FIDC;Poderiam me explicar como funciona a estrutura de cotas sénior e subordinada de um FIDC?";Produtivo
+"Alteração de Assessor;Por motivos pessoais, gostaria de solicitar a troca do meu assessor de investimentos.";Produtivo
+"Problema com a Plataforma de Câmbio;Não estou a conseguir fechar uma operação de câmbio para Euro, o sistema apresenta 'serviço indisponível'.";Produtivo
+"Consulta sobre Investimento no Exterior via Spreads;Como funciona a tributação para investimentos feitos via BDRs vs. investimento direto no exterior?";Produtivo
+"Falha no Cálculo de Margem de Garantia;O sistema está a calcular incorretamente a minha margem de garantia para operações com mini-contratos.";Produtivo
+"SPAM: Seu CPF será negativado!;Detectamos uma dívida em seu nome. Clique aqui para negociar e evitar a negativação.";Improdutivo
+"Proposta de Fornecimento de Café;Somos fornecedores de café gourmet para escritórios. Gostariam de uma amostra?";Improdutivo
+"E-mail enviado para o funcionário errado;Olá, Joana, sobre o nosso projeto... (Enviado para o João)";Improdutivo
+"Reclamação sobre o estacionamento;O portão do estacionamento do subsolo está com defeito há uma semana.";Improdutivo
+"Convite para Show de Stand-up;Estou com um ingresso a mais para um show de comédia hoje. Alguém quer?";Improdutivo
+"Sua conta do iCloud está quase cheia;Faça o upgrade do seu plano de armazenamento para continuar a guardar suas fotos.";Improdutivo
+"Confirmação de Inscrição na Corrida;Sua inscrição para a 'Corrida da Cidade' foi confirmada.";Improdutivo
+"Seu resumo da Uber chegou;Veja como você usou a Uber no último mês.";Improdutivo
+"Notificação do iFood: Avalie seu pedido;O que você achou do seu pedido no restaurante 'Pizza Boa'?";Improdutivo
+"Você tem novos memories no Google Photos;Relembre seus melhores momentos de um ano atrás.";Improdutivo
+"Relatório de {tipo_relatorio_interno} solicitado;Preciso do relatório de turnover de funcionários do último semestre.";Produtivo
+"Problema com o {software_corporativo};O Salesforce está a apresentar lentidão para carregar os dashboards.";Produtivo
+"Dúvida sobre a {politica_de_compliance};Qual é a nossa política sobre o recebimento de presentes de parceiros comerciais?";Produtivo
+"Erro ao acessar a {base_de_dados};Não consigo conectar-me à base de dados de clientes, está a dar erro de autenticação.";Produtivo
+"Agendamento da {cerimonia_interna};Gostaria de agendar a cerimónia de premiação dos funcionários do ano.";Produtivo
+"URGENTE: Falha no {servico_de_comunicacao};O nosso sistema de e-mail marketing não está a enviar as campanhas agendadas.";Produtivo
+"Preciso de permissão para {acao_administrativa};Poderiam me dar permissão para criar novos utilizadores no sistema de RH?";Produtivo
+"Qual o status do {projeto_de_infraestrutura}?;Gostaria de saber como está o andamento da migração do nosso servidor para a nuvem.";Produtivo
+"Consulta sobre a licença do {software_pago};A nossa licença do Microsoft Office está prestes a expirar?";Produtivo
+"Bloqueador: O {ambiente_de_teste} não está a funcionar;O ambiente de homologação está fora do ar, o que impede os testes da nova versão.";Produtivo
+"Obrigado pelo {feedback_construtivo};Queria agradecer o feedback detalhado sobre a minha apresentação. Foi muito útil.";Improdutivo
+"Feliz Dia do Trabalho!;Um reconhecimento a todos que constroem esta empresa com seu esforço diário.";Improdutivo
+"Votos de um excelente {retiro_de_equipa};Desejo a todos um ótimo retiro de planeamento estratégico.";Improdutivo
+"Apenas para manter todos na mesma página;FYI: O cliente aprovou o orçamento. Podemos iniciar o projeto.";Improdutivo
+"Parabéns pelo {sucesso_academico}!;Fiquei sabendo que você concluiu seu MBA! Parabéns pela conquista!";Improdutivo
+"Vamos organizar um {desporto_em_equipa}?;Que tal montarmos uma equipa para o campeonato de futebol da empresa?";Improdutivo
+"Sua opinião sobre a {nova_ferramenta_interna};O que vocês estão a achar do novo sistema de comunicação interna?";Improdutivo
+"Lembrete sobre a {campanha_interna};Pessoal, não se esqueçam de participar da nossa campanha de doação de agasalhos.";Improdutivo
+"Compartilhando um {podcast_interessante};Ouvi este podcast sobre liderança e achei que vocês iam gostar.";Improdutivo
+"Boas-vindas ao novo {diretor};Gostaria de dar as boas-vindas ao nosso novo Diretor Financeiro, o Sr. Martins.";Improdutivo
+"Dúvida sobre o Código de Ética;Onde posso encontrar a versão mais recente do nosso código de ética?";Produtivo
+"Problema com a reserva da sala de reunião;Reservei a sala 'São Paulo' para as 15h, mas ela aparece como ocupada.";Produtivo
+"Solicitação de um novo notebook;O meu notebook está muito lento e a travar. Acredito que preciso de um novo para continuar a trabalhar eficientemente.";Produtivo
+"Erro no reembolso de despesas;Submeti minhas despesas de viagem há duas semanas e o reembolso ainda não foi processado.";Produtivo
+"Agendamento de treinamento de compliance;Quando será o próximo treinamento obrigatório sobre prevenção à lavagem de dinheiro?";Produtivo
+"Falha no sistema de videoconferência;Não consigo iniciar uma videoconferência na sala de reuniões principal. O sistema não liga.";Produtivo
+"Relatório de utilização de recursos;Poderiam me enviar um relatório sobre a utilização dos nossos créditos na AWS no último mês?";Produtivo
+"Preciso de um headset novo;O meu headset quebrou o microfone, preciso de um novo para as calls.";Produtivo
+"Consulta sobre o programa de mentoria;Gostaria de saber como posso me inscrever para ser um mentor no programa interno.";Produtivo
+"URGENTE: Acesso ao prédio bloqueado;O meu cartão de acesso não está a funcionar e estou preso do lado de fora do escritório.";Produtivo
+"Pedido de pizza para a equipa;Pessoal, vamos pedir pizza para o almoço hoje? Quem quer?";Improdutivo
+"Resultado do jogo de ontem;Alguém viu o jogo ontem? Que golaço no final!";Improdutivo
+"Procurando por recomendações de viagem;Estou a planear minhas férias para o Nordeste. Alguém tem dicas de lugares para visitar?";Improdutivo
+"Fwd: Artigo sobre produtividade;Achei este artigo interessante sobre como melhorar o foco no trabalho.";Improdutivo
+"Venda de doces;Estou a vender brigadeiros para ajudar na formatura da minha irmã. Tabela de preços em anexo.";Improdutivo
+"Perdi minhas chaves;Pessoal, acho que perdi minhas chaves em algum lugar na copa. Alguém viu?";Improdutivo
+"Boato sobre o novo CEO;Ficaram a saber dos rumores sobre quem será o novo CEO?";Improdutivo
+"Lembrete: Aniversariantes do Mês;Vamos celebrar os aniversariantes do mês com um bolo na copa às 16h!";Improdutivo
+"Feliz Sexta-feira!;Sextou! Bom fim de semana a todos!";Improdutivo
+"Comentário sobre o trânsito;O trânsito está impossível hoje de manhã.";Improdutivo
+"Como faço para {acao_plataforma_trading}?;Como configuro um alerta de preço para uma ação específica na plataforma?";Produtivo
+"Relatório de {tipo_relatorio_mercado} solicitado;Poderiam me enviar o último relatório de análise técnica para o Ibovespa?";Produtivo
+"Problema com o {indicador_tecnico};O indicador de 'Bandas de Bollinger' não está a ser exibido corretamente no gráfico.";Produtivo
+"Dúvida sobre o produto {instrumento_financeiro};Qual o lote mínimo para operar mini-contratos de índice?";Produtivo
+"Erro ao tentar {acao_ordem};Estou a tentar cancelar uma ordem, mas o sistema diz que a ordem não pode ser encontrada.";Produtivo
+"Preciso de informações sobre {evento_mercado};Qual o impacto esperado da divulgação do payroll americano nos mercados hoje?";Produtivo
+"Agendar call para discutir {estrategia_trading};Podemos agendar uma call para discutir uma estratégia de long & short com ações?";Produtivo
+"Falha na execução da {ordem_complexa};A minha ordem 'trailing stop' não acompanhou a subida do preço do ativo.";Produtivo
+"URGENTE: Problema na {conta_margem};A minha conta de margem está a exibir um valor negativo, mas eu não operei alavancado.";Produtivo
+"Atualização sobre o {limite_risco};Gostaria de saber qual o meu limite de perda diária configurado na plataforma.";Produtivo
+"Votos de um excelente {congresso_mercado};Desejo a todos que vão ao congresso de finanças uma ótima experiência e muito networking.";Improdutivo
+"Parabéns pela {analise_assertiva}!;A sua análise sobre a alta do dólar na semana passada foi certeira. Parabéns!";Improdutivo
+"Obrigado pela {dica_operacional};Aquela dica sobre usar o VWAP para day trade foi muito útil. Obrigado!";Improdutivo
+"Tenham um {pregao_produtivo};Bom dia e um ótimo pregão a todos!";Improdutivo
+"Apenas para seu conhecimento de mercado;FYI: A empresa Z anunciou um desdobramento de ações.";Improdutivo
+"Que interessante essa {estrategia_nova}!;Li sobre a estratégia de 'risk parity' e achei muito interessante. Já estudaram sobre isso?";Improdutivo
+"Sua opinião sobre o {ativo_especifico};O que vocês acham do potencial de valorização das ações da empresa X?";Improdutivo
+"Convite para {grupo_de_estudos};Estou a montar um grupo de estudos sobre análise quantitativa. Quem tem interesse?";Improdutivo
+"Promoção de {curso_financeiro};Aprenda a investir na bolsa com nosso curso completo para iniciantes.";Improdutivo
+"Corrente sobre {teoria_conspiracao_mercado};Repasse: dizem que os grandes bancos manipulam o preço do ouro.";Improdutivo
+"Consulta sobre a estrutura de um CRA/CRI;Qual a diferença de risco entre um CRA e um CRI?";Produtivo
+"Problema na visualização de proventos;A agenda de proventos não está a exibir os dividendos que serão pagos este mês.";Produtivo
+"Informações sobre o mercado de opções a seco;Quais os riscos de operar opções a seco, sem uma trava?";Produtivo
+"Erro no cálculo do preço médio;O sistema calculou o preço médio das minhas ações de forma errada após a última subscrição.";Produtivo
+"Solicitação de acesso ao mercado de futuros;Gostaria de solicitar a liberação do meu acesso para operar no mercado de futuros da B3.";Produtivo
+"Dúvida sobre a rolagem de contratos futuros;Como funciona o processo de rolagem de um contrato futuro de milho?";Produtivo
+"Alteração de perfil de risco para agressivo;Gostaria de alterar meu perfil de investidor para 'agressivo' para poder operar com mais alavancagem.";Produtivo
+"Problema com o gráfico de candlesticks;Os gráficos de velas não estão a exibir os pavios corretamente na plataforma.";Produtivo
+"Consulta sobre o 'circuit breaker';Gostaria de entender as regras de acionamento do circuit breaker no Ibovespa.";Produtivo
+"Falha na conexão com o DMA;A minha conexão via DMA (Direct Market Access) está a cair intermitentemente.";Produtivo
+"SPAM: Fique rico com day trade!;Com nosso método infalível, você pode largar seu emprego e viver de day trade. Saiba mais.";Improdutivo
+"Proposta de parceria com influenciador;Olá, sou um influenciador de finanças e gostaria de propor uma parceria para divulgar vossa corretora.";Improdutivo
+"E-mail com assunto pessoal;Lembrete: Jantar de família no sábado.";Improdutivo
+"Reclamação sobre o barulho no escritório;O pessoal do comercial está a falar muito alto e está a atrapalhar a concentração.";Improdutivo
+"Convite para um evento de networking;Gostaria de convidá-lo para nosso próximo evento de networking para profissionais do mercado financeiro.";Improdutivo
+"Sua assinatura do 'Valor Econômico' foi ativada;Comece agora a ler as principais notícias económicas do país.";Improdutivo
+"Notificação da sua corretora no exterior;Sua ordem de compra de ações da Apple foi executada.";Improdutivo
+"Lembrete de pagamento do seu cartão de crédito;A fatura do seu cartão corporativo vence amanhã.";Improdutivo
+"Fwd: Análise de mercado interessante;Achei esta análise do Morgan Stanley sobre a China muito boa.";Improdutivo
+"Sua viagem para Nova York está confirmada;Confira os detalhes da sua passagem e hotel para a conferência.";Improdutivo
+"Dúvida sobre Certificado de Depósito Bancário;Qual é a taxa do CDB que oferecem para um prazo de 3 anos?";Produtivo
+"Problema com a transferência de fundos;Tentei transferir fundos para a minha conta noutra corretora e a operação foi recusada.";Produtivo
+"Informações sobre Fundos de Investimento Imobiliário;Poderiam enviar-me uma lista dos FIIs recomendados pela vossa equipa de análise?";Produtivo
+"Erro na plataforma: Cotações em tempo real;As cotações de todos os ativos estão congeladas há mais de 15 minutos.";Produtivo
+"Solicitação de reunião com especialista em câmbio;Preciso de orientação sobre operações de hedge cambial para a minha empresa de importação.";Produtivo
+"Dúvida sobre a Declaração de Saída Definitiva do País;Estou a mudar-me para o exterior e preciso de saber como fazer a Declaração de Saída Definitiva.";Produtivo
+"Aplicação em Tesouro Direto;Por favor, aplicar R$ 15.000 no Tesouro Selic 2029.";Produtivo
+"Falha no login com 2FA (Autenticação de Dois Fatores);Não estou a receber o código de autenticação no meu telemóvel para conseguir fazer o login.";Produtivo
+"Solicitação de Análise de Perfil de Risco (API);Gostaria de saber se o meu perfil de investidor (suitability) está atualizado.";Produtivo
+"Problema com o Home Broker em horário de pico;O Home Broker fica extremamente lento e instável durante a primeira hora do pregão.";Produtivo
+"SPAM: Seu computador está em risco!;Detetámos 5 vírus no seu computador. Clique aqui para limpar agora.";Improdutivo
+"Proposta de serviço de limpeza;Oferecemos serviços de limpeza comercial com os melhores preços da região.";Improdutivo
+"E-mail enviado para o departamento errado;Prezados do Marketing, sobre a campanha de Natal... (Enviado para o suporte técnico)";Improdutivo
+"Convite para um webinar sobre culinária;Aprenda a fazer o melhor pão de fermentação natural no nosso próximo webinar.";Improdutivo
+"Reclamação sobre a temperatura da sala;A nossa sala está muito quente, o ar condicionado parece não estar a funcionar direito.";Improdutivo
+"Assunto: Oportunidade de Carreira;Vimos o seu perfil e temos uma oportunidade que pode ser do seu interesse.";Improdutivo
+"Notificação de atualização de software do telemóvel;Uma nova atualização do Android está disponível para o seu dispositivo.";Improdutivo
+"Sua conta da Netflix foi suspensa;Houve um problema com o seu pagamento. Atualize suas informações para continuar a assistir.";Improdutivo
+"Lembrete de aniversário no Facebook;É o aniversário do seu amigo João hoje. Envie-lhe uma mensagem!";Improdutivo
+"Você recebeu um novo e-mail no Gmail;Este é um alerta de que uma nova mensagem chegou à sua caixa de entrada.";Improdutivo
+"Relatório de {indicador_financeiro} mensal solicitado;Preciso do relatório de P&L (Lucros e Perdas) da minha carteira no último mês.";Produtivo
+"Problema com a {ferramenta_de_analise} na plataforma;A ferramenta de análise de correlação entre ativos não está a carregar.";Produtivo
+"Dúvida sobre a {regulamentacao_mercado};Gostaria de entender as novas regras da CVM para fundos de investimento.";Produtivo
+"Erro ao tentar {operacao_conta};Estou a tentar cadastrar um novo beneficiário para transferências e o sistema dá erro.";Produtivo
+"Agendamento da {reuniao_comite};Gostaria de agendar a reunião mensal do comité de investimentos.";Produtivo
+"URGENTE: Falha no {sistema_de_risco};O nosso sistema de controlo de risco de mercado está offline.";Produtivo
+"Preciso de acesso de {perfil_usuario} ao {sistema_compliance};Poderiam criar um perfil de 'auditor' para mim no sistema de compliance?";Produtivo
+"Qual o status do {processo_onboarding}?;Gostaria de saber como está o andamento do processo de onboarding do novo cliente PJ.";Produtivo
+"Consulta sobre a integração com a {plataforma_contabil};A nossa integração com o sistema SAP não está a sincronizar as notas de corretagem.";Produtivo
+"Bloqueador: A {validacao_documento} está a falhar;A validação automática de documentos está a falhar e a impedir a abertura de novas contas.";Produtivo
+"Parabéns pela {certificacao_profissional}!;Fiquei muito feliz em saber que você tirou a certificação CEA! Parabéns!";Improdutivo
+"Obrigado pelo {convite_evento_social};Agradeço o convite para o jantar de fim de ano, mas infelizmente não poderei comparecer.";Improdutivo
+"Tenham um {feriado_religioso} abençoado;Desejo a todos uma ótima Sexta-feira Santa e um bom descanso.";Improdutivo
+"Apenas para manter no radar;FYI: O Banco Central sinalizou uma possível alta de juros na próxima reunião.";Improdutivo
+"Que ótima {conquista_equipa}!;Parabéns à equipa de análise pela recomendação certeira da semana passada!";Improdutivo
+"Vamos organizar um {cafe_da_manha_equipa}?;Que tal organizarmos um café da manhã na sexta para comemorar as metas batidas?";Improdutivo
+"Sua opinião sobre a {mudanca_mercado};O que vocês acham do impacto da nova regulação de criptoativos?";Improdutivo
+"Lembrete amigável sobre o {relatorio_interno};Pessoal, só para lembrar que o relatório de atividades da semana precisa de ser preenchido até o final do dia.";Improdutivo
+"Compartilhando uma {planilha_util};Criei uma planilha para calcular o preço médio de ações, estou a compartilhar caso seja útil.";Improdutivo
+"Boas-vindas ao novo {fornecedor};Gostaria de dar as boas-vindas ao nosso novo fornecedor de dados de mercado, a Refinitiv.";Improdutivo
+"Consulta sobre Letras de Câmbio;Quais são as opções de Letras de Câmbio (LC) disponíveis e qual a garantia do FGC?";Produtivo
+"Problema com a sincronização do calendário de dividendos;O calendário de dividendos da minha carteira não está a ser atualizado com as novas datas.";Produtivo
+"Informações sobre Tesouro RendA+;Gostaria de entender melhor como funciona o novo título do Tesouro Direto para aposentadoria.";Produtivo
+"Erro na plataforma: Alertas de notícias;Os alertas de notícias por e-mail para os ativos que eu sigo não estão a chegar.";Produtivo
+"Solicitação de reunião com especialista em renda variável;Preciso de ajuda para montar uma estratégia de investimento focada em dividendos.";Produtivo
+"Dúvida sobre a declaração de ETFs no exterior;Como declaro no Imposto de Renda os ETFs que possuo numa corretora americana?";Produtivo
+"Aplicação em CRI/CRA;Por favor, alocar R$ 50.000 no CRA 'Safra Agronegócio', se disponível.";Produtivo
+"Falha no login com o e-mail corporativo (SSO);Não estou a conseguir fazer o login usando a opção 'Entrar com Google', o sistema não reconhece meu e-mail.";Produtivo
+"Solicitação de relatório de risco cambial;Poderiam gerar um relatório de exposição cambial da nossa carteira de investimentos global?";Produtivo
+"Problema com a plataforma de fundos;A lâmina de informações dos fundos não está a ser exibida quando clico nos detalhes.";Produtivo
+"SPAM: Parabéns! Você foi aprovado para um cartão de crédito sem anuidade!;Seu cartão de crédito com limite de R$ 20.000 está pré-aprovado. Peça já!";Improdutivo
+"Proposta de parceria para conteúdo;Somos um portal de educação financeira e gostaríamos de propor uma parceria de conteúdo com o vosso blog.";Improdutivo
+"E-mail com assunto familiar;Lembrete: reunião de pais e mestres na escola do Lucas amanhã.";Improdutivo
+"Reclamação sobre a limpeza dos banheiros;O banheiro masculino do 2º andar está consistentemente sujo.";Improdutivo
+"Convite para um grupo de corrida;Estou a montar um grupo de corrida com o pessoal do escritório. Quem quer participar?";Improdutivo
+"Sua assinatura do Spotify Premium foi confirmada;Obrigado por se juntar ao Premium. Curta suas músicas sem anúncios.";Improdutivo
+"Notificação de voo da LATAM;Informamos que o seu voo sofreu uma alteração de horário.";Improdutivo
+"Lembrete de pagamento do condomínio;A fatura do condomínio deste mês já está disponível para pagamento.";Improdutivo
+"Fwd: Notícia sobre o trânsito;Evitem a Av. Paulista, está fechada para um evento.";Improdutivo
+"Sua encomenda da Shopee foi entregue;O seu pedido foi entregue com sucesso no seu endereço.";Improdutivo
+"Relatório de {indicador_desempenho} da equipa;Preciso do relatório de KPIs da equipa de atendimento do último trimestre.";Produtivo
+"Problema com o {sistema_comunicacao_interna};O chat interno (Slack/Teams) não está a enviar notificações para o telemóvel.";Produtivo
+"Dúvida sobre a {politica_ferias};É possível vender 10 dias de férias este ano?";Produtivo
+"Erro ao aceder à {intranet};A intranet da empresa está a apresentar uma página de erro.";Produtivo
+"Agendamento da {reuniao_estrategica};Gostaria de agendar a reunião de planeamento estratégico para o próximo mês.";Produtivo
+"URGENTE: Falha no {servidor_autenticacao};Ninguém está a conseguir fazer login em nenhum sistema da empresa. O servidor de autenticação parece estar fora.";Produtivo
+"Preciso de acesso de {perfil_leitura} ao {repositorio_codigo};Poderiam me dar acesso de leitura ao repositório do projeto Alfa no GitLab?";Produtivo
+"Qual o status do {processo_de_compra}?;Gostaria de saber o status do processo de compra dos novos computadores para a equipa.";Produtivo
+"Consulta sobre a integração com a {ferramenta_bi};A nossa integração com o Power BI não está a atualizar os dados.";Produtivo
+"Bloqueador: A {licenca_software} expirou;A licença do software de análise de dados expirou e não conseguimos trabalhar.";Produtivo
+"Obrigado pela {mentoria_profissional};Queria agradecer pelas dicas de carreira na nossa conversa de ontem. Foram muito valiosas.";Improdutivo
+"Feliz Dia da Secretária!;Um agradecimento especial a todas as secretárias que mantêm nosso dia a dia organizado.";Improdutivo
+"Votos de um excelente {treinamento_externo};Desejo a todos que vão para o treinamento em São Paulo uma ótima viagem e muito aprendizado.";Improdutivo
+"Apenas para alinhar as expectativas;FYI: O cliente pediu uma alteração de escopo no projeto. Enviarei os detalhes em breve.";Improdutivo
+"Parabéns pelo {aniversario_de_casamento}!;Fiquei sabendo que é seu aniversário de casamento! Muitas felicidades!";Improdutivo
+"Vamos organizar um {almoço_de_despedida}?;Vamos organizar um almoço de despedida para o Marcos na sexta-feira?";Improdutivo
+"Sua opinião sobre o {novo_beneficio};O que vocês acharam do novo benefício de auxílio-creche?";Improdutivo
+"Lembrete amigável sobre a {entrega_relatorio};Pessoal, só para lembrar que o relatório de horas do projeto precisa de ser entregue até amanhã.";Improdutivo
+"Compartilhando um {template_util};Criei um template de apresentação que pode ser útil para todos. Está na pasta partilhada.";Improdutivo
+"Boas-vindas ao novo {parceiro_de_negocios};Gostaria de dar as boas-vindas à nova consultoria que nos ajudará no projeto de compliance.";Improdutivo
+"Consulta sobre volatilidade histórica;Poderiam fornecer a volatilidade histórica de 30 dias para o ativo VALE3?";Produtivo
+"Problema na emissão de ordem via API;Estou a tentar enviar uma ordem de compra via API e estou a receber um erro 401 Unauthorized, mesmo com o token correto.";Produtivo
+"Informações sobre ETF de Ouro;Qual o ticker do ETF que replica o preço do ouro na B3?";Produtivo
+"Erro na plataforma: Gráfico de Renko;Os gráficos de Renko não estão a ser desenhados corretamente, os tijolos estão sobrepostos.";Produtivo
+"Solicitação de reunião com analista de Macroeconomia;Gostaria de agendar uma conversa com o economista-chefe para discutir o cenário de juros nos EUA.";Produtivo
+"Dúvida sobre declaração de criptoativos no IR;Como devo declarar a posse de Bitcoin e Ethereum no meu imposto de renda?";Produtivo
+"Aplicação em Fundo Cambial;Por favor, aplicar R$ 50.000 no fundo cambial atrelado ao Dólar.";Produtivo
+"Falha no login com Face ID;O aplicativo mobile não está a reconhecer o meu Face ID para login desde a última atualização.";Produtivo
+"Solicitação de relatório de performance atribuída;Gostaria de um relatório de atribuição de performance para entender o que mais contribuiu para a rentabilidade da minha carteira.";Produtivo
+"Problema com o extrato de derivativos;O meu extrato de operações com derivativos não está a exibir o ajuste diário corretamente.";Produtivo
+"SPAM: A sua oportunidade de ficar milionário!;Descubra o segredo que os bancos não querem que você saiba para ficar rico em 30 dias.";Improdutivo
+"Proposta de serviço de TI;Somos uma consultoria de TI e podemos reduzir os vossos custos com infraestrutura em nuvem.";Improdutivo
+"E-mail enviado para o departamento errado;Prezados do Financeiro, gostaria de reportar um bug na plataforma... (Enviado para o departamento Financeiro)";Improdutivo
+"Convite para um evento de vinhos;Gostaria de convidá-lo para a nossa noite de degustação de vinhos portugueses.";Improdutivo
+"Reclamação sobre o colega de trabalho;Gostaria de formalizar uma reclamação sobre o comportamento do meu colega de baia.";Improdutivo
+"Assunto: Sorteio de uma viagem!;Participe do nosso sorteio e concorra a uma viagem para as Maldivas!";Improdutivo
+"Notificação de atualização do WhatsApp;Novos termos de serviço do WhatsApp. Clique para aceitar.";Improdutivo
+"Sua fatura da conta de luz chegou;A fatura da sua conta de eletricidade deste mês já está disponível.";Improdutivo
+"Lembrete de compromisso pessoal;Lembrete no seu calendário: Levar o cão ao veterinário.";Improdutivo
+"Você tem uma nova mensagem no Instagram;João respondeu ao seu story.";Improdutivo
+"Relatório de {tipo_relatorio_compliance} solicitado;Preciso do relatório de 'insider trading' do último trimestre.";Produtivo
+"Problema com a {ferramenta_juridica} interna;O sistema de gestão de contratos não está a permitir o upload de novos documentos.";Produtivo
+"Dúvida sobre a {lei_especifica};Gostaria de entender como a nova lei de proteção de dados afeta nossos investimentos.";Produtivo
+"Erro ao executar {processo_auditoria};O script de auditoria de logs está a falhar com um erro de permissão.";Produtivo
+"Agendamento da {reuniao_regulatoria};Preciso agendar a reunião com o auditor do Banco Central para a próxima semana.";Produtivo
+"URGENTE: Falha no {sistema_de_prevencao};O nosso sistema de prevenção à lavagem de dinheiro (PLD) está offline.";Produtivo
+"Preciso de acesso de {perfil_compliance} ao {sistema_financeiro};Poderiam me dar acesso de 'revisor' ao sistema de tesouraria?";Produtivo
+"Qual o status do {processo_de_certificacao}?;Gostaria de saber como está o andamento da nossa certificação ISO 27001.";Produtivo
+"Consulta sobre a integração com a {entidade_regulatoria};A nossa integração com o sistema da CVM está a apresentar instabilidade.";Produtivo
+"Bloqueador: A {aprovacao_juridica} está pendente;A aprovação do departamento jurídico está pendente e a impedir o lançamento do novo fundo.";Produtivo
+"Parabéns pelo {prêmio_de_mercado}!;Fiquei muito feliz em saber que a empresa ganhou o prêmio de melhor gestora de fundos do ano!";Improdutivo
+"Obrigado pelo {apoio_no_projeto};Queria agradecer a toda a equipa pelo apoio no projeto de adequação à LGPD.";Improdutivo
+"Tenham um {feriado_local} excelente;Desejo a todos um ótimo feriado da Consciência Negra.";Improdutivo
+"Apenas para registar;FYI: A nova circular do Banco Central foi publicada hoje.";Improdutivo
+"Que ótima {noticia_interna}!;Fiquei sabendo que o nosso programa de compliance foi elogiado na auditoria! Parabéns a todos!";Improdutivo
+"Vamos organizar um {evento_de_integracao}?;Que tal organizarmos um café da manhã para integrar os novos membros da equipa?";Improdutivo
+"Sua opinião sobre a {mudanca_na_empresa};O que vocês acharam da nova estrutura do departamento de compliance?";Improdutivo
+"Lembrete amigável sobre o {treinamento_obrigatorio};Pessoal, não se esqueçam de concluir o treinamento obrigatório de ética até sexta-feira.";Improdutivo
+"Compartilhando um {artigo_sobre_regulacao};Encontrei este ótimo artigo sobre as novas regras de suitability, achei que seria útil.";Improdutivo
+"Boas-vindas ao novo {analista_de_risco};Gostaria de dar as boas-vindas ao nosso novo analista de risco, o Marcos.";Improdutivo
+"Consulta sobre Marcação a Mercado (MaM);Como a marcação a mercado afeta a rentabilidade diária dos fundos de crédito privado?";Produtivo
+"Problema com a plataforma de aluguer de ações (BTC);Não consigo registar um contrato de aluguer de ações, o sistema retorna um erro genérico.";Produtivo
+"Informações sobre Fundos Exclusivos;Quais são os requisitos e o investimento mínimo para a criação de um fundo de investimento exclusivo?";Produtivo
+"Erro na plataforma: Volatilidade Implícita;O cálculo da volatilidade implícita para as opções de IBOV está claramente errado.";Produtivo
+"Solicitação de reunião com a mesa de operações;Preciso de alinhar uma estratégia de execução para uma ordem de grande volume.";Produtivo
+"Dúvida sobre a tributação de doações;Estou a planear fazer uma doação para meus filhos. Como funciona o ITCMD sobre os ativos financeiros?";Produtivo
+"Aplicação em Fundo de Ações Internacionais;Por favor, aplicar R$ 200.000 no fundo que investe em ações de tecnologia nos EUA.";Produtivo
+"Falha no acesso biométrico ao cofre;A minha biometria não está a ser reconhecida para aceder ao cofre de documentos.";Produtivo
+"Solicitação de relatório de duration da carteira;Poderiam gerar um relatório com a duration e a convexidade da minha carteira de renda fixa?";Produtivo
+"Problema com o home broker no leilão de abertura;O home broker não me permitiu enviar ordens durante o leilão de abertura do mercado hoje.";Produtivo
+"SPAM: Aumente o seu pénis!;Produto revolucionário com resultados garantidos. Discreto e seguro.";Improdutivo
+"Proposta de patrocínio para evento desportivo;Somos organizadores de um torneio de golfe e gostaríamos de apresentar uma proposta de patrocínio.";Improdutivo
+"E-mail com piada;Qual é o cúmulo da sorte? Um cego encontrar uma nota de 100 reais no escuro.";Improdutivo
+"Reclamação sobre o colega (assunto pessoal);Não aguento mais o perfume forte que a Joana usa, está a dar-me dor de cabeça.";Improdutivo
+"Convite para o meu aniversário;Pessoal, vou comemorar meu aniversário no bar da esquina na sexta-feira. Apareçam!";Improdutivo
+"Sua conta do Twitter foi suspensa;Detectámos atividade que viola nossas regras. Sua conta foi suspensa temporariamente.";Improdutivo
+"Notificação do Rappi;O seu pedido no supermercado já saiu para entrega.";Improdutivo
+"Sua fatura da Vivo venceu;Detectámos que sua fatura venceu. Pague agora para evitar juros.";Improdutivo
+"Lembrete do Google Fotos;Você tem novas recordações para ver.";Improdutivo
+"Você recebeu um Pix;Maria enviou um Pix de R$ 50,00 para você.";Improdutivo
+"Relatório de {tipo_relatorio_auditoria} solicitado;Preciso do relatório de acessos ao sistema de tesouraria do último mês.";Produtivo
+"Problema com o {software_de_gestao_de_risco};O sistema de cálculo de risco de crédito (credit scoring) está a demorar muito para processar.";Produtivo
+"Dúvida sobre a {norma_contabil_ifrs};Como a norma IFRS 9 se aplica aos nossos instrumentos financeiros?";Produtivo
+"Erro ao executar a {rotina_de_backup};A rotina de backup do banco de dados de produção falhou esta noite.";Produtivo
+"Agendamento da {reuniao_de_comite_de_risco};Gostaria de agendar a reunião mensal do comité de risco para discutir a exposição da carteira.";Produtivo
+"URGENTE: Falha no {firewall_de_rede};O firewall principal da nossa rede caiu, estamos expostos.";Produtivo
+"Preciso de acesso de {perfil_auditor} ao {sistema_de_logs};Poderiam me dar acesso de auditoria ao sistema de logs de transações?";Produtivo
+"Qual o status do {processo_de_due_diligence}?;Gostaria de saber como está o andamento da due diligence para a aquisição da empresa Alfa.";Produtivo
+"Consulta sobre a integração com o {sistema_de_compliance};A nossa integração com o sistema de monitoramento de 'insider trading' não está a funcionar.";Produtivo
+"Bloqueador: A {certificacao_digital_a3} expirou;O certificado digital A3 do nosso diretor expirou e ele não consegue assinar os relatórios.";Produtivo
+"Parabéns pela {conquista_certificacao_anbima}!;Parabéns a toda a equipa pela obtenção da certificação de gestão da ANBIMA!";Improdutivo
+"Obrigado pelo {apoio_na_auditoria};Queria agradecer a ajuda de todos durante a auditoria do Banco Central. Foi um sucesso.";Improdutivo
+"Tenham um {feriado_bancario} tranquilo;Desejo a todos um bom descanso no feriado bancário.";Improdutivo
+"Apenas para formalizar;FYI: A nova política de gestão de risco foi aprovada pelo conselho e já está em vigor.";Improdutivo
+"Que ótima {noticia_economica}!;Fiquei feliz em ver que a inflação finalmente cedeu. Ótima notícia para os mercados!";Improdutivo
+"Vamos organizar um {almoço_de_negocios}?;Que tal marcarmos um almoço com o cliente X para estreitar o relacionamento?";Improdutivo
+"Sua opinião sobre a {nova_regulamentacao_cvm};O que vocês acharam da nova regra da CVM sobre fundos de investimento?";Improdutivo
+"Lembrete amigável sobre o {relatorio_de_compliance};Pessoal, só para lembrar que o relatório de conformidade mensal precisa de ser entregue até amanhã.";Improdutivo
+"Compartilhando um {estudo_de_caso_interessante};Encontrei este estudo de caso sobre a crise de 2008, vale a pena a leitura.";Improdutivo
+"Boas-vindas ao novo {membro_do_conselho};Gostaria de dar as boas-vindas ao nosso novo membro do conselho de administração.";Improdutivo
+"Dúvida sobre a Política de Barreira de Informação (Chinese Wall);Como a política de 'Chinese Wall' se aplica entre a área de gestão de recursos e a de M&A?";Produtivo
+"Problema com o sistema de gravação de chamadas;O sistema não gravou minha chamada com o cliente hoje, preciso do registo.";Produtivo
+"Solicitação de acesso ao terminal da Bloomberg;Preciso de um login para o terminal da Bloomberg para fazer uma análise de mercado.";Produtivo
+"Erro no cálculo de imposto de renda sobre day trade;O sistema está a calcular 20% de IR sobre meu lucro em day trade, mas a alíquota é diferente.";Produtivo
+"Agendamento de treinamento sobre a nova regulação de fundos;Quando será o treinamento sobre a nova Resolução 175 da CVM?";Produtivo
+"Falha no sistema de envio de ordens para a B3;Nenhuma ordem enviada pela nossa plataforma está a chegar à B3. Problema geral.";Produtivo
+"Relatório de exposição por setor;Poderiam me enviar um relatório da exposição da nossa carteira de ações por setor económico?";Produtivo
+"Preciso de um segundo monitor para operar;Com um único monitor não consigo acompanhar o mercado e executar ordens com eficiência.";Produtivo
+"Consulta sobre o Fundo Garantidor de Créditos (FGC);Qual a cobertura do FGC para investimentos em CDBs e LCIs?";Produtivo
+"URGENTE: Ordem executada com preço errado;A minha ordem de compra de ITUB4 foi executada a um preço muito acima do mercado. Preciso que verifiquem.";Produtivo
+"Perdi o meu cartão de acesso;Deixei meu cartão de acesso em casa hoje. Como faço para entrar no escritório?";Improdutivo
+"Resultado do nosso amigo secreto;Saiu o resultado do amigo secreto da equipa! Eu tirei a Maria.";Improdutivo
+"Procurando por indicações de um bom restaurante para almoço;Alguém conhece um bom restaurante por quilo aqui perto do escritório?";Improdutivo
+"Fwd: Artigo motivacional;Achei este artigo muito inspirador e queria compartilhar com a equipa.";Improdutivo
+"Venda de bolo de pote;Pessoal, minha filha está a vender bolo de pote para a viagem de formatura. Quem quer encomendar?";Improdutivo
+"Achei um par de óculos na copa;Alguém perdeu um óculos de grau preto na copa?";Improdutivo
+"Boato sobre fusão da empresa;Ouvi dizer que a nossa empresa vai se fundir com o concorrente. É verdade?";Improdutivo
+"Lembrete: Vacinação contra a gripe;A campanha de vacinação contra a gripe acontece amanhã no ambulatório da empresa.";Improdutivo
+"Feliz Dia do Estagiário!;Um parabéns a todos os nossos estagiários pelo seu dia!";Improdutivo
+"Comentário sobre o novo sistema;O novo sistema de RH ficou muito confuso de usar.";Improdutivo
+"Dúvida sobre a {estrutura_de_capital} da empresa;Gostaria de entender a estrutura de dívida e capital próprio da empresa X.";Produtivo
+"Relatório de {tipo_analise_fundamentalista} solicitado;Poderiam me enviar uma análise de fluxo de caixa descontado (DCF) para a empresa Y?";Produtivo
+"Problema com o {software_de_modelagem_financeira};O meu software de modelagem financeira (ex: Excel com plugins) está a travar com planilhas grandes.";Produtivo
+"Dúvida sobre o produto {titulo_publico_especifico};Qual a diferença entre a NTN-B e a NTN-F no Tesouro Direto?";Produtivo
+"Erro ao tentar {acao_emissao_debito};Estou a tentar emitir uma nota de débito e o sistema apresenta erro.";Produtivo
+"Preciso de informações sobre {mercado_especifico};Qual a vossa visão sobre o mercado de crédito de carbono?";Produtivo
+"Agendar call para discutir {analise_de_cenarios};Podemos agendar uma call para discutir a análise de cenários de stress para a carteira?";Produtivo
+"Falha na execução da {ordem_casada};A minha ordem casada de compra de PETR4 e venda de PETR3 não foi executada.";Produtivo
+"URGENTE: Problema na {conta_de_garantias};As minhas garantias para operar no mercado futuro não estão a ser reconhecidas pela B3.";Produtivo
+"Atualização sobre o {limite_de_concentracao};Qual o limite máximo de concentração por emissor na nossa carteira de crédito?";Produtivo
+"Votos de um excelente {evento_de_networking};Desejo a todos um ótimo congresso da APIMEC. Façam bons contatos.";Improdutivo
+"Parabéns pela {call_de_mercado}!;A sua call sobre a queda do minério de ferro foi muito precisa. Parabéns pela análise.";Improdutivo
+"Obrigado pela {aula_sobre_mercado};Aquela sua explicação sobre o mercado de opções foi uma verdadeira aula. Obrigado!";Improdutivo
+"Tenham um {dia_de_trabalho} produtivo;Bom dia e um ótimo dia de trabalho a todos.";Improdutivo
+"Apenas para seu acompanhamento;FYI: A agência de rating S&P elevou a nota de crédito da empresa Z.";Improdutivo
+"Que interessante essa {tese_de_investimento}!;Li a vossa tese de investimento para o setor de saneamento e achei muito bem fundamentada.";Improdutivo
+"Sua opinião sobre o {cenario_politico_economico};O que vocês acham do impacto da reforma tributária nos investimentos?";Improdutivo
+"Convite para {grupo_de_discussao_mercado};Estou a montar um grupo no WhatsApp para discutir ideias de investimento. Quem quer entrar?";Improdutivo
+"Promoção de {relatorio_de_analise_pago};Assine nosso relatório de análise e receba as melhores recomendações de ações.";Improdutivo
+"Corrente sobre {crise_financeira_iminente};Repasse: um famoso analista previu uma nova crise financeira global para o próximo mês.";Improdutivo
+"Consulta sobre a estrutura de um FIP;Como funciona a estrutura de governança de um Fundo de Investimento em Participações (FIP)?";Produtivo
+"Problema na visualização de JCP;A plataforma não está a exibir o valor correto de Juros sobre Capital Próprio a ser pago pela empresa X.";Produtivo
+"Informações sobre o mercado de balcão;Quais são os principais riscos de se investir em ativos negociados no mercado de balcão?";Produtivo
+"Erro no cálculo do preço de exercício de opções;O preço de exercício das minhas opções está a ser exibido com o valor errado após o desdobramento da ação.";Produtivo
+"Solicitação de acesso ao sistema de research;Gostaria de ter acesso à plataforma onde os relatórios de research são publicados.";Produtivo
+"Dúvida sobre a rolagem de opções;Como funciona o processo de 'rolagem' de uma estratégia de venda coberta de opções?";Produtivo
+"Alteração de perfil para Investidor Profissional;Já possuo mais de R$ 10 milhões em investimentos. Gostaria de solicitar o enquadramento como Investidor Profissional.";Produtivo
+"Problema com o gráfico de performance;O gráfico 'cota contra benchmark' não está a carregar na minha tela de performance.";Produtivo
+"Consulta sobre o 'come-cotas';Gostaria de entender como funciona a antecipação semestral do imposto de renda (come-cotas) nos fundos.";Produtivo
+"Falha na conexão com o RLP;O meu RLP (Retail Liquidity Provider) não está ativo hoje, as minhas ordens estão a ir para o book normal.";Produtivo
+"SPAM: Invista em imóveis na Flórida!;Ótima oportunidade de investimento com retorno em dólar. Fale com nossos corretores.";Improdutivo
+"Proposta de parceria com escritório de advocacia;Somos um escritório especializado em direito tributário para o mercado financeiro. Gostaríamos de nos apresentar.";Improdutivo
+"E-mail com assunto pessoal;Lembrete: Comprar o presente de aniversário da mamãe.";Improdutivo
+"Reclamação sobre a vaga de estacionamento;Tem um carro parado na minha vaga de estacionamento designada.";Improdutivo
+"Convite para um happy hour de ex-colegas;Pessoal da antiga equipa, vamos marcar um happy hour para colocar o papo em dia?";Improdutivo
+"Sua assinatura da 'Bloomberg Businessweek' está ativa;Acesse agora as melhores análises de negócio do mundo.";Improdutivo
+"Notificação da sua conta no Itaú;Uma nova transferência foi agendada na sua conta.";Improdutivo
+"Lembrete de pagamento do IPVA;O IPVA do seu veículo vence na próxima semana.";Improdutivo
+"Fwd: Análise setorial que pode interessar;Achei esta análise do Goldman Sachs sobre o setor de saúde muito boa.";Improdutivo
+"Sua reserva de hotel para a Faria Lima Expo está confirmada;Confira os detalhes da sua estadia.";Improdutivo
+"Consulta sobre a estrutura de um FIP;Como funciona a estrutura de governança de um Fundo de Investimento em Participações (FIP)?";Produtivo
+"Problema na visualização de JCP;A plataforma não está a exibir o valor correto de Juros sobre Capital Próprio a ser pago pela empresa X.";Produtivo
+"Informações sobre o mercado de balcão;Quais são os principais riscos de se investir em ativos negociados no mercado de balcão?";Produtivo
+"Erro no cálculo do preço de exercício de opções;O preço de exercício das minhas opções está a ser exibido com o valor errado após o desdobramento da ação.";Produtivo
+"Solicitação de acesso ao sistema de research;Gostaria de ter acesso à plataforma onde os relatórios de research são publicados.";Produtivo
+"Dúvida sobre a rolagem de opções;Como funciona o processo de 'rolagem' de uma estratégia de venda coberta de opções?";Produtivo
+"Alteração de perfil para Investidor Profissional;Já possuo mais de R$ 10 milhões em investimentos. Gostaria de solicitar o enquadramento como Investidor Profissional.";Produtivo
+"Problema com o gráfico de performance;O gráfico 'cota contra benchmark' não está a carregar na minha tela de performance.";Produtivo
+"Consulta sobre o 'come-cotas';Gostaria de entender como funciona a antecipação semestral do imposto de renda (come-cotas) nos fundos.";Produtivo
+"Falha na conexão com o RLP;O meu RLP (Retail Liquidity Provider) não está ativo hoje, as minhas ordens estão a ir para o book normal.";Produtivo
+"SPAM: Invista em imóveis na Flórida!;Ótima oportunidade de investimento com retorno em dólar. Fale com nossos corretores.";Improdutivo
+"Proposta de parceria com escritório de advocacia;Somos um escritório especializado em direito tributário para o mercado financeiro. Gostaríamos de nos apresentar.";Improdutivo
+"E-mail com assunto pessoal;Lembrete: Comprar o presente de aniversário da mamãe.";Improdutivo
+"Reclamação sobre a vaga de estacionamento;Tem um carro parado na minha vaga de estacionamento designada.";Improdutivo
+"Convite para um happy hour de ex-colegas;Pessoal da antiga equipa, vamos marcar um happy hour para colocar o papo em dia?";Improdutivo
+"Sua assinatura da 'Bloomberg Businessweek' está ativa;Acesse agora as melhores análises de negócio do mundo.";Improdutivo
+"Notificação da sua conta no Itaú;Uma nova transferência foi agendada na sua conta.";Improdutivo
+"Lembrete de pagamento do IPVA;O IPVA do seu veículo vence na próxima semana.";Improdutivo
+"Fwd: Análise setorial que pode interessar;Achei esta análise do Goldman Sachs sobre o setor de saúde muito boa.";Improdutivo
+"Sua reserva de hotel para a Faria Lima Expo está confirmada;Confira os detalhes da sua estadia.";Improdutivo
+"Dúvida sobre Certificado de Depósito Bancário;Qual é a taxa do CDB que oferecem para um prazo de 3 anos?";Produtivo
+"Problema com a transferência de fundos;Tentei transferir fundos para a minha conta noutra corretora e a operação foi recusada.";Produtivo
+"Informações sobre Fundos de Investimento Imobiliário;Poderiam enviar-me uma lista dos FIIs recomendados pela vossa equipa de análise?";Produtivo
+"Erro na plataforma: Cotações em tempo real;As cotações de todos os ativos estão congeladas há mais de 15 minutos.";Produtivo
+"Solicitação de reunião com especialista em câmbio;Preciso de orientação sobre operações de hedge cambial para a minha empresa de importação.";Produtivo
+"Dúvida sobre a Declaração de Saída Definitiva do País;Estou a mudar-me para o exterior e preciso de saber como fazer a Declaração de Saída Definitiva.";Produtivo
+"Aplicação em Tesouro Direto;Por favor, aplicar R$ 15.000 no Tesouro Selic 2029.";Produtivo
+"Falha no login com 2FA (Autenticação de Dois Fatores);Não estou a receber o código de autenticação no meu telemóvel para conseguir fazer o login.";Produtivo
+"Solicitação de Análise de Perfil de Risco (API);Gostaria de saber se o meu perfil de investidor (suitability) está atualizado.";Produtivo
+"Problema com o Home Broker em horário de pico;O Home Broker fica extremamente lento e instável durante a primeira hora do pregão.";Produtivo
+"SPAM: Seu computador está em risco!;Detectámos 5 vírus no seu computador. Clique aqui para limpar agora.";Improdutivo
+"Proposta de serviço de limpeza;Oferecemos serviços de limpeza comercial com os melhores preços da região.";Improdutivo
+"E-mail enviado para o departamento errado;Prezados do Marketing, sobre a campanha de Natal... (Enviado para o suporte técnico)";Improdutivo
+"Convite para um webinar sobre culinária;Aprenda a fazer o melhor pão de fermentação natural no nosso próximo webinar.";Improdutivo
+"Reclamação sobre a temperatura da sala;A nossa sala está muito quente, o ar condicionado parece não estar a funcionar direito.";Improdutivo
+"Assunto: Oportunidade de Carreira;Vimos o seu perfil e temos uma oportunidade que pode ser do seu interesse.";Improdutivo
+"Notificação de atualização de software do telemóvel;Uma nova atualização do Android está disponível para o seu dispositivo.";Improdutivo
+"Sua conta da Netflix foi suspensa;Houve um problema com o seu pagamento. Atualize suas informações para continuar a assistir.";Improdutivo
+"Lembrete de aniversário no Facebook;É o aniversário do seu amigo João hoje. Envie-lhe uma mensagem!";Improdutivo
+"Você recebeu um novo e-mail no Gmail;Este é um alerta de que uma nova mensagem chegou à sua caixa de entrada.";Improdutivo
+"Relatório de {indicador_financeiro} mensal solicitado;Preciso do relatório de P&L (Lucros e Perdas) da minha carteira no último mês.";Produtivo
+"Problema com a {ferramenta_de_analise} na plataforma;A ferramenta de análise de correlação entre ativos não está a carregar.";Produtivo
+"Dúvida sobre a {regulamentacao_mercado};Gostaria de entender as novas regras da CVM para fundos de investimento.";Produtivo
+"Erro ao tentar {operacao_conta};Estou a tentar cadastrar um novo beneficiário para transferências e o sistema dá erro.";Produtivo
+"Agendamento da {reuniao_comite};Gostaria de agendar a reunião mensal do comité de investimentos.";Produtivo
+"URGENTE: Falha no {sistema_de_risco};O nosso sistema de controlo de risco de mercado está offline.";Produtivo
+"Preciso de acesso de {perfil_usuario} ao {sistema_compliance};Poderiam criar um perfil de 'auditor' para mim no sistema de compliance?";Produtivo
+"Qual o status do {processo_onboarding}?;Gostaria de saber como está o andamento do processo de onboarding do novo cliente PJ.";Produtivo
+"Consulta sobre a integração com a {plataforma_contabil};A nossa integração com o sistema SAP não está a sincronizar as notas de corretagem.";Produtivo
+"Bloqueador: A {validacao_documento} está a falhar;A validação automática de documentos está a falhar e a impedir a abertura de novas contas.";Produtivo
+"Parabéns pela {certificacao_profissional}!;Fiquei muito feliz em saber que você tirou a certificação CEA! Parabéns!";Improdutivo
+"Obrigado pelo {convite_evento_social};Agradeço o convite para o jantar de fim de ano, mas infelizmente não poderei comparecer.";Improdutivo
+"Tenham um {feriado_religioso} abençoado;Desejo a todos uma ótima Sexta-feira Santa e um bom descanso.";Improdutivo
+"Apenas para manter no radar;FYI: O Banco Central sinalizou uma possível alta de juros na próxima reunião.";Improdutivo
+"Que ótima {conquista_equipa}!;Parabéns à equipa de análise pela recomendação certeira da semana passada!";Improdutivo
+"Vamos organizar um {cafe_da_manha_equipa}?;Que tal organizarmos um café da manhã na sexta para comemorar as metas batidas?";Improdutivo
+"Sua opinião sobre a {mudanca_mercado};O que vocês acham do impacto da nova regulação de criptoativos?";Improdutivo
+"Lembrete amigável sobre o {relatorio_interno};Pessoal, só para lembrar que o relatório de atividades da semana precisa de ser preenchido até o final do dia.";Improdutivo
+"Compartilhando uma {planilha_util};Criei uma planilha para calcular o preço médio de ações, estou a compartilhar caso seja útil.";Improdutivo
+"Boas-vindas ao novo {fornecedor};Gostaria de dar as boas-vindas ao nosso novo fornecedor de dados de mercado, a Refinitiv.";Improdutivo
+"Consulta sobre Letras de Câmbio;Quais são as opções de Letras de Câmbio (LC) disponíveis e qual a garantia do FGC?";Produtivo
+"Problema com a sincronização do calendário de dividendos;O calendário de dividendos da minha carteira não está a ser atualizado com as novas datas.";Produtivo
+"Informações sobre Tesouro RendA+;Gostaria de entender melhor como funciona o novo título do Tesouro Direto para aposentadoria.";Produtivo
+"Erro na plataforma: Alertas de notícias;Os alertas de notícias por e-mail para os ativos que eu sigo não estão a chegar.";Produtivo
+"Solicitação de reunião com especialista em renda variável;Preciso de ajuda para montar uma estratégia de investimento focada em dividendos.";Produtivo
+"Dúvida sobre a declaração de ETFs no exterior;Como declaro no Imposto de Renda os ETFs que possuo numa corretora americana?";Produtivo
+"Aplicação em CRI/CRA;Por favor, alocar R$ 50.000 no CRA 'Safra Agronegócio', se disponível.";Produtivo
+"Falha no login com o e-mail corporativo (SSO);Não estou a conseguir fazer o login usando a opção 'Entrar com Google', o sistema não reconhece meu e-mail.";Produtivo
+"Solicitação de relatório de risco cambial;Poderiam gerar um relatório de exposição cambial da nossa carteira de investimentos global?";Produtivo
+"Problema com a plataforma de fundos;A lâmina de informações dos fundos não está a ser exibida quando clico nos detalhes.";Produtivo
+"SPAM: Parabéns! Você foi aprovado para um cartão de crédito sem anuidade!;Seu cartão de crédito com limite de R$ 20.000 está pré-aprovado. Peça já!";Improdutivo
+"Proposta de parceria para conteúdo;Somos um portal de educação financeira e gostaríamos de propor uma parceria de conteúdo com o vosso blog.";Improdutivo
+"E-mail com assunto familiar;Lembrete: reunião de pais e mestres na escola do Lucas amanhã.";Improdutivo
+"Reclamação sobre a limpeza dos banheiros;O banheiro masculino do 2º andar está consistentemente sujo.";Improdutivo
+"Convite para um grupo de corrida;Estou a montar um grupo de corrida com o pessoal do escritório. Quem quer participar?";Improdutivo
+"Sua assinatura do Spotify Premium foi confirmada;Obrigado por se juntar ao Premium. Curta suas músicas sem anúncios.";Improdutivo
+"Notificação de voo da LATAM;Informamos que o seu voo sofreu uma alteração de horário.";Improdutivo
+"Lembrete de pagamento do condomínio;A fatura do condomínio deste mês já está disponível para pagamento.";Improdutivo
+"Fwd: Notícia sobre o trânsito;Evitem a Av. Paulista, está fechada para um evento.";Improdutivo
+"Sua encomenda da Shopee foi entregue;O seu pedido foi entregue com sucesso no seu endereço.";Improdutivo
+"Relatório de {indicador_desempenho} da equipa;Preciso do relatório de KPIs da equipa de atendimento do último trimestre.";Produtivo
+"Problema com o {sistema_comunicacao_interna};O chat interno (Slack/Teams) não está a enviar notificações para o telemóvel.";Produtivo
+"Dúvida sobre a {politica_ferias};É possível vender 10 dias de férias este ano?";Produtivo
+"Erro ao aceder à {intranet};A intranet da empresa está a apresentar uma página de erro.";Produtivo
+"Agendamento da {reuniao_estrategica};Gostaria de agendar a reunião de planeamento estratégico para o próximo mês.";Produtivo
+"URGENTE: Falha no {servidor_autenticacao};Ninguém está a conseguir fazer login em nenhum sistema da empresa. O servidor de autenticação parece estar fora.";Produtivo
+"Preciso de acesso de {perfil_leitura} ao {repositorio_codigo};Poderiam me dar acesso de leitura ao repositório do projeto Alfa no GitLab?";Produtivo
+"Qual o status do {processo_de_compra}?;Gostaria de saber o status do processo de compra dos novos computadores para a equipa.";Produtivo
+"Consulta sobre a integração com a {ferramenta_bi};A nossa integração com o Power BI não está a atualizar os dados.";Produtivo
+"Bloqueador: A {licenca_software} expirou;A licença do software de análise de dados expirou e não conseguimos trabalhar.";Produtivo
+"Obrigado pela {mentoria_profissional};Queria agradecer pelas dicas de carreira na nossa conversa de ontem. Foram muito valiosas.";Improdutivo
+"Feliz Dia da Secretária!;Um agradecimento especial a todas as secretárias que mantêm nosso dia a dia organizado.";Improdutivo
+"Votos de um excelente {treinamento_externo};Desejo a todos que vão para o treinamento em São Paulo uma ótima viagem e muito aprendizado.";Improdutivo
+"Apenas para alinhar as expectativas;FYI: O cliente pediu uma alteração de escopo no projeto. Enviarei os detalhes em breve.";Improdutivo
+"Parabéns pelo {aniversario_de_casamento}!;Fiquei sabendo que é seu aniversário de casamento! Muitas felicidades!";Improdutivo
+"Vamos organizar um {almoço_de_despedida}?;Vamos organizar um almoço de despedida para o Marcos na sexta-feira?";Improdutivo
+"Sua opinião sobre o {novo_beneficio};O que vocês acharam do novo benefício de auxílio-creche?";Improdutivo
+"Lembrete amigável sobre a {entrega_relatorio};Pessoal, só para lembrar que o relatório de horas do projeto precisa de ser entregue até amanhã.";Improdutivo
+"Compartilhando um {template_util};Criei um template de apresentação que pode ser útil para todos. Está na pasta partilhada.";Improdutivo
+"Boas-vindas ao novo {parceiro_de_negocios};Gostaria de dar as boas-vindas à nova consultoria que nos ajudará no projeto de compliance.";Improdutivo
+"Consulta sobre o imposto de renda retido na fonte (IRRF) em aplicações de renda fixa.;Como funciona a 'tabela regressiva' do IR para investimentos em CDBs?";Produtivo
+"Problema ao tentar gerar o informe de rendimentos.;A plataforma está a dar um erro ao tentar gerar o informe de rendimentos para a minha declaração anual.";Produtivo
+"Solicitação de alteração de custodiante.;Gostaria de iniciar o processo de portabilidade dos meus ativos para outra instituição.";Produtivo
+"Dúvida sobre a liquidação de uma operação de venda a termo.;Vendi umas ações a termo e gostaria de saber quando o valor será liquidado na minha conta.";Produtivo
+"Minha ordem 'iceberg' não foi executada como esperado.;Configurei uma ordem iceberg para não impactar o mercado, mas ela foi executada de uma só vez.";Produtivo
+"Como faço para habilitar o RLP (Retail Liquidity Provider) na minha conta?;Quero ter acesso a melhores condições de corretagem para mini-contratos.";Produtivo
+"Relatório de performance ajustado ao risco (Índice de Sharpe) da carteira.;Poderiam gerar um relatório com o Índice de Sharpe da minha carteira nos últimos 12 meses?";Produtivo
+"Problema com a importação de notas de corretagem para o software de IR.;O ficheiro exportado pela plataforma não é compatível com o meu software de declaração de IR.";Produtivo
+"Agendamento de reunião para discutir sucessão patrimonial.;Gostaria de agendar uma reunião com um especialista para discutir o planeamento sucessório da minha família.";Produtivo
+"URGENTE: Chamada de margem na minha conta de futuros.;Recebi uma notificação de chamada de margem, mas não entendi qual posição está a exigir mais garantia. Preciso de detalhes.";Produtivo
+"Fwd: Oportunidade de franquia de sucesso.;Achei que poderia se interessar por este modelo de negócio.";Improdutivo
+"Sua assinatura da revista 'Caras' foi renovada.;Sua assinatura foi renovada e a próxima edição chegará em breve.";Improdutivo
+"Notificação de segurança: seu email foi visto numa lista de vazamento de dados.;Recomendamos que você altere sua senha como medida de precaução.";Improdutivo
+"Convite para o batizado do meu filho.;Gostaríamos de convidá-lo para o batizado do nosso filho no próximo mês.";Improdutivo
+"Recomendação de podcast sobre história.;Comecei a ouvir um podcast sobre a história do Brasil e estou a adorar.";Improdutivo
+"SPAM: Curso de PNL e Coaching para o sucesso.;Transforme sua vida e carreira com nosso curso de Programação Neurolinguística.";Improdutivo
+"Alerta de voo da Azul: check-in disponível.;O check-in para o seu voo para Recife já está aberto.";Improdutivo
+"Você tem pontos expirando no programa de fidelidade.;Seus 5.000 pontos do programa 'Sempre Presente' expiram no final do mês.";Improdutivo
+"Lembrete: Reunião do condomínio hoje à noite.;Lembrete da reunião extraordinária do condomínio hoje às 19h no salão de festas.";Improdutivo
+"Feliz Dia do Gaúcho!;Um abraço a todos os nossos colegas e clientes do Rio Grande do Sul.";Improdutivo
+"Dúvida sobre a {norma_bacen};Gostaria de entender como a nova norma do Banco Central sobre pagamentos instantâneos nos afeta.";Produtivo
+"Erro na {plataforma_legado};O sistema legado de contas correntes está a apresentar o erro 'X-25' intermitentemente.";Produtivo
+"Solicitação de {relatorio_regulatorio};Precisamos do relatório de Basiléia III consolidado do último trimestre para enviar ao regulador.";Produtivo
+"Agendamento de {auditoria_interna};Gostaria de agendar a auditoria interna dos processos da mesa de operações.";Produtivo
+"URGENTE: Inconsistência no {sistema_contabil};O balancete gerado pelo sistema não está a bater com os nossos controlos manuais.";Produtivo
+"Preciso de acesso de {perfil_gestor} ao {dashboard_de_risco};Poderiam me dar acesso de gestor ao dashboard de risco de liquidez?";Produtivo
+"Qual o status do {processo_de_fechamento_mensal}?;Gostaria de saber como está o andamento do processo de fecho contabilístico do mês.";Produtivo
+"Consulta sobre a integração com o {fornecedor_de_dados};A nossa integração com a B3 para receber os dados de mercado está com atraso.";Produtivo
+"Bloqueador: A {aprovacao_do_comite_de_credito} está atrasada;A aprovação do comité de crédito para a operação XYZ está pendente e a segurar o processo.";Produtivo
+"Dúvida sobre o {calculo_de_imposto};O cálculo do imposto de renda sobre o ganho de capital na venda de um imóvel está correto?";Produtivo
+"Parabéns pelo {resultado_trimestral}!;Os resultados do último trimestre foram excelentes! Parabéns a toda a equipa pela dedicação.";Improdutivo
+"Obrigado pelo {treinamento_oferecido};O treinamento sobre a nova plataforma de investimentos foi muito esclarecedor. Obrigado!";Improdutivo
+"Tenham um {feriado_municipal} ótimo;Desejo a todos um ótimo feriado de aniversário da cidade.";Improdutivo
+"Apenas para registo formal;FYI: Conforme nossa conversa, a proposta foi enviada ao cliente.";Improdutivo
+"Que ótima {noticia_setorial}!;Fiquei feliz em ver que o nosso setor foi destaque positivo no relatório de emprego.";Improdutivo
+"Vamos organizar um {grupo_de_estudo_interno}?;Que tal montarmos um grupo de estudos para a certificação CFP?";Improdutivo
+"Sua opinião sobre a {nova_plataforma_concorrente};O que vocês acharam da nova plataforma de investimentos que o concorrente lançou?";Improdutivo
+"Lembrete amigável sobre o {preenchimento_de_formulario};Pessoal, só para lembrar que o formulário de avaliação de desempenho 360 deve ser preenchido até hoje.";Improdutivo
+"Compartilhando um {whitepaper_relevante};Encontrei este whitepaper do FMI sobre o futuro das moedas digitais.";Improdutivo
+"Boas-vindas ao novo {programa_de_estagio};Gostaria de dar as boas-vindas à nossa nova turma de estagiários.";Improdutivo
+"Consulta sobre a portabilidade de um plano de previdência;É possível fazer a portabilidade do meu PGBL de outra instituição para vocês?";Produtivo
+"Problema com a amortização do meu financiamento imobiliário;Paguei uma parcela extra para amortizar meu financiamento, mas o valor não foi abatido do saldo devedor.";Produtivo
+"Informações sobre o mercado de crédito de carbono;Gostaria de saber se vocês oferecem algum fundo que invista em créditos de carbono (CBIOs).";Produtivo
+"Erro na plataforma: o stop loss não foi acionado;Minha ordem de stop loss em PETR4 não foi disparada hoje, mesmo com o preço a cair abaixo do meu gatilho.";Produtivo
+"Solicitação de reunião com o gestor do fundo multimercado;Gostaria de agendar uma conversa com o gestor do fundo 'Alpha Multimercado' para entender a estratégia atual.";Produtivo
+"Dúvida sobre a declaração de stock options;Recebi stock options da minha empresa. Como devo declarar isso no imposto de renda?";Produtivo
+"Aplicação em fundo de infraestrutura;Por favor, aplicar R$ 75.000 no fundo de investimento em infraestrutura 'Infra Brasil FIP'.";Produtivo
+"Falha no reconhecimento de assinatura eletrónica;Estou a tentar assinar um documento eletronicamente, mas a plataforma não está a reconhecer meu certificado digital.";Produtivo
+"Solicitação de relatório de tracking error;Poderiam gerar um relatório com o tracking error do meu fundo de ações em relação ao Ibovespa?";Produtivo
+"Problema com o home broker em dia de alta volatilidade;Em dias de alta volatilidade, o home broker fica instável e as ordens demoram a ser executadas.";Produtivo
+"SPAM: Ganhe um Rolex!;Você foi selecionado para uma oferta exclusiva. Responda e ganhe um Rolex.";Improdutivo
+"Proposta de serviço de catering;Oferecemos serviços de catering para eventos corporativos. Gostariam de receber um orçamento?";Improdutivo
+"E-mail com uma receita;Segue a receita daquele bolo de cenoura que você me pediu.";Improdutivo
+"Reclamação sobre o barulho da obra ao lado;A obra no prédio vizinho está a fazer um barulho insuportável.";Improdutivo
+"Convite para um jogo de padel;Vamos marcar um jogo de padel na quarta-feira depois do trabalho?";Improdutivo
+"Sua conta do LinkedIn foi visualizada;Descubra quem viu seu perfil na última semana.";Improdutivo
+"Notificação do Bradesco;Sua transferência agendada foi efetuada com sucesso.";Improdutivo
+"Sua fatura da Claro vence amanhã;Evite multas, pague sua fatura da Claro em dia.";Improdutivo
+"Lembrete do Duolingo;É hora da sua lição de espanhol! Não perca sua ofensiva.";Improdutivo
+"Você tem um novo match no Tinder;Alguém curtiu você. Veja quem é!";Improdutivo
+"Dúvida sobre o {procedimento_de_compliance};Qual é o procedimento para reportar uma potencial situação de conflito de interesses?";Produtivo
+"Problema no {sistema_de_relatorios_regulatorios};O sistema não está a gerar o relatório para a CVM no formato exigido.";Produtivo
+"Relatório de {analise_de_risco_de_liquidez} solicitado;Preciso do relatório de stress de liquidez da carteira do fundo de renda fixa.";Produtivo
+"Erro ao aceder ao {ambiente_de_desenvolvimento};O ambiente de desenvolvimento para a nova API está fora do ar.";Produtivo
+"Agendamento do {teste_de_continuidade_de_negocios};Gostaria de agendar o teste anual de continuidade de negócios (BCP) para o próximo mês.";Produtivo
+"URGENTE: Falha no {link_de_comunicacao_com_a_b3};O nosso link principal de comunicação com a B3 caiu. Estamos a operar pelo link de contingência.";Produtivo
+"Preciso de acesso de {perfil_de_seguranca} ao {firewall};Poderiam me dar acesso para visualizar as regras do firewall da rede de produção?";Produtivo
+"Qual o status do {processo_de_homologacao}?;Gostaria de saber como está o andamento da homologação da nova versão do home broker.";Produtivo
+"Consulta sobre a integração com a {plataforma_de_gestao_de_risco};A nossa integração com o sistema da BlackRock (Aladdin) está a apresentar erros de sincronização.";Produtivo
+"Bloqueador: A {renovacao_de_licenca} está pendente;A renovação da licença do nosso banco de dados Oracle está pendente e o sistema pode parar de funcionar.";Produtivo
+"Parabéns pelo {artigo_publicado}!;Vi seu artigo sobre finanças comportamentais publicado na revista. Excelente trabalho!";Improdutivo
+"Obrigado pela {ajuda_com_o_cliente};Queria agradecer a ajuda para resolver aquele problema complexo do cliente XPTO. Foi fundamental.";Improdutivo
+"Tenham um {feriado_prolongado_com_ponte} excelente;Desejo a todos um ótimo feriado de 1º de Maio e um bom descanso na ponte.";Improdutivo
+"Apenas para sua informação e ação;FYI: O cliente solicitou a alteração do seu perfil de risco. Por favor, processar.";Produtivo
+"Que ótima {noticia_sobre_o_mercado}!;Fiquei feliz em ver que o investment grade do Brasil foi elevado. Ótima notícia para todos nós!";Improdutivo
+"Vamos organizar um {campeonato_de_xadrez}?;Estou a pensar em organizar um pequeno campeonato de xadrez no escritório. Quem se anima?";Improdutivo
+"Sua opinião sobre a {nova_ferramenta_de_ia};O que vocês acharam da nova ferramenta de IA que a empresa licenciou para análise de dados?";Improdutivo
+"Lembrete amigável sobre o {evento_de_caridade};Pessoal, não se esqueçam de trazer suas doações para a nossa campanha do agasalho até amanhã.";Improdutivo
+"Compartilhando um {video_inspirador};Encontrei este vídeo do TED Talk sobre resiliência, muito bom.";Improdutivo
+"Boas-vindas ao novo {chefe_de_departamento};Gostaria de dar as boas-vindas ao nosso novo Head de Renda Variável, o Sr. Oliveira.";Improdutivo
+"Consulta sobre a estrutura de um FIDC-NP;Como funciona a estrutura e quais os riscos de um Fundo de Investimento em Direitos Creditórios Não Padronizados?";Produtivo
+"Problema na plataforma de Tesouro Direto;Não consigo investir no Tesouro Direto, a plataforma diz que minha conta não está habilitada para esta operação.";Produtivo
+"Informações sobre o mercado de small caps;Gostaria de receber a lista de small caps recomendadas pela vossa equipa de análise.";Produtivo
+"Erro na plataforma: o SuperDOM não funciona;A ferramenta SuperDOM para day trade não está a carregar na minha plataforma.";Produtivo
+"Solicitação de reunião com a equipa de produtos estruturados;Preciso de ajuda para montar uma operação com opções para proteger minha carteira de ações.";Produtivo
+"Dúvida sobre a tributação de fundos de previdência;Como funciona a escolha entre a tabela progressiva e regressiva no meu plano de previdência PGBL?";Produtivo
+"Aplicação em ETF de S&P 500;Por favor, aplicar R$ 30.000 no ETF IVVB11 que replica o S&P 500.";Produtivo
+"Falha no envio de TED/DOC;Estou a tentar fazer uma transferência para outra titularidade e o sistema não permite, mesmo eu tendo a permissão.";Produtivo
+"Solicitação de relatório de rentabilidade real;Poderiam gerar um relatório com a rentabilidade real (descontada a inflação) da minha carteira nos últimos 5 anos?";Produtivo
+"Problema com o home broker em dias de vencimento de opções;Nos dias de vencimento de opções, a plataforma fica muito instável e lenta.";Produtivo
+"SPAM: Seu parente deixou uma herança!;Um parente distante no exterior deixou uma fortuna para você. Entre em contato para reclamar.";Improdutivo
+"Proposta de parceria para desenvolvimento de software;Somos uma software house e podemos desenvolver soluções personalizadas para a vossa empresa.";Improdutivo
+"E-mail com uma lista de compras;Lembrete para mim mesmo: comprar leite, pão e ovos.";Improdutivo
+"Reclamação sobre a falta de vagas no bicicletário;O bicicletário está sempre cheio, precisamos de mais vagas.";Improdutivo
+"Convite para um piquenique no parque;Pessoal, vamos organizar um piquenique com as famílias no Parque Ibirapuera no próximo mês?";Improdutivo
+"Sua conta do Dropbox está a 90% da capacidade;Considere fazer o upgrade para um plano com mais espaço.";Improdutivo
+"Notificação do Waze;Trânsito intenso na sua rota para o trabalho. Considere um caminho alternativo.";Improdutivo
+"Sua fatura do Sem Parar está disponível;Acesse o aplicativo para ver os detalhes da sua fatura de pedágio e estacionamento.";Improdutivo
+"Lembrete do LinkedIn: Aniversário de trabalho;Parabéns pelo seu 5º aniversário de trabalho na empresa!";Improdutivo
+"Você tem uma nova mensagem no WhatsApp;Maria enviou uma mensagem para você.";Improdutivo
+"Como faço para {acao_relacionada_a_beneficios}?;Gostaria de saber como incluir um dependente no meu plano de saúde.";Produtivo
+"Relatório de {tipo_relatorio_de_pessoal} solicitado;Preciso do relatório de headcount por departamento para o planeamento orçamental.";Produtivo
+"Problema com o {sistema_de_ponto_eletronico};O sistema de ponto não registou a minha saída de ontem.";Produtivo
+"Dúvida sobre a {politica_de_reembolso};Qual o limite de valor para reembolso de despesas com almoço com clientes?";Produtivo
+"Erro ao tentar {acao_no_portal_rh};Estou a tentar submeter meu pedido de férias no portal de RH e o sistema está a dar erro.";Produtivo
+"Preciso de informações sobre o {programa_de_participacao_nos_lucros};Como funciona o cálculo da nossa PLR (Participação nos Lucros e Resultados)?";Produtivo
+"Agendar call para discutir a {avaliacao_de_desempenho};Podemos agendar uma call para discutir a minha avaliação de desempenho deste semestre?";Produtivo
+"Falha no {servico_de_impressao};A impressora colorida do nosso andar não está a funcionar.";Produtivo
+"URGENTE: Problema com a {folha_de_pagamento};Detectei um erro no valor do meu adiantamento salarial. Preciso de uma correção urgente.";Produtivo
+"Atualização sobre a {vaga_interna};Gostaria de saber o status do processo seletivo interno para a vaga de gerente de projetos.";Produtivo
+"Votos de um excelente {congresso_profissional}!;Desejo a todos que vão para o congresso de RH uma ótima experiência e muito aprendizado.";Improdutivo
+"Parabéns pelo {nascimento_do_filho}!;Fiquei muito feliz em saber do nascimento do seu filho! Muitas felicidades para a família!";Improdutivo
+"Obrigado pelo {presente_de_casamento};Adoramos o presente de casamento que a equipa nos deu. Muito obrigado pelo carinho.";Improdutivo
+"Tenham um {feriado_estadual} ótimo;Bom feriado a todos os nossos colegas de São Paulo.";Improdutivo
+"Apenas para seu conhecimento interno;FYI: A nova política de trabalho remoto entra em vigor no próximo mês.";Improdutivo
+"Que interessante essa {palestra_interna}!;A palestra sobre comunicação não-violenta de ontem foi excelente.";Improdutivo
+"Sua opinião sobre o {novo_fornecedor_de_cafe};O que vocês acharam do novo café que colocaram na copa?";Improdutivo
+"Convite para {grupo_de_voluntariado};Estou a organizar um grupo para o dia de voluntariado da empresa. Quem tem interesse?";Improdutivo
+"Promoção de {restaurante_local};O restaurante da esquina está com uma promoção de almoço executivo esta semana.";Improdutivo
+"Corrente de {boato_interno};Repasse: dizem que a empresa vai dar um bónus extra no final do ano.";Improdutivo
+"Consulta sobre a estrutura de um FIP;Como funciona a estrutura de governança de um Fundo de Investimento em Participações (FIP)?";Produtivo
+"Problema na visualização de JCP;A plataforma não está a exibir o valor correto de Juros sobre Capital Próprio a ser pago pela empresa X.";Produtivo
+"Informações sobre o mercado de balcão;Quais são os principais riscos de se investir em ativos negociados no mercado de balcão?";Produtivo
+"Erro no cálculo do preço de exercício de opções;O preço de exercício das minhas opções está a ser exibido com o valor errado após o desdobramento da ação.";Produtivo
+"Solicitação de acesso ao sistema de research;Gostaria de ter acesso à plataforma onde os relatórios de research são publicados.";Produtivo
+"Dúvida sobre a rolagem de opções;Como funciona o processo de 'rolagem' de uma estratégia de venda coberta de opções?";Produtivo
+"Alteração de perfil para Investidor Profissional;Já possuo mais de R$ 10 milhões em investimentos. Gostaria de solicitar o enquadramento como Investidor Profissional.";Produtivo
+"Problema com o gráfico de performance;O gráfico 'cota contra benchmark' não está a carregar na minha tela de performance.";Produtivo
+"Consulta sobre o 'come-cotas';Gostaria de entender como funciona a antecipação semestral do imposto de renda (come-cotas) nos fundos.";Produtivo
+"Falha na conexão com o RLP;O meu RLP (Retail Liquidity Provider) não está ativo hoje, as minhas ordens estão a ir para o book normal.";Produtivo
+"SPAM: Invista em imóveis na Flórida!;Ótima oportunidade de investimento com retorno em dólar. Fale com nossos corretores.";Improdutivo
+"Proposta de parceria com escritório de advocacia;Somos um escritório especializado em direito tributário para o mercado financeiro. Gostaríamos de nos apresentar.";Improdutivo
+"E-mail com assunto pessoal;Lembrete: Comprar o presente de aniversário da mamãe.";Improdutivo
+"Reclamação sobre a vaga de estacionamento;Tem um carro parado na minha vaga de estacionamento designada.";Improdutivo
+"Convite para um happy hour de ex-colegas;Pessoal da antiga equipa, vamos marcar um happy hour para colocar o papo em dia?";Improdutivo
+"Sua assinatura da 'Bloomberg Businessweek' está ativa;Acesse agora as melhores análises de negócio do mundo.";Improdutivo
+"Notificação da sua conta no Itaú;Uma nova transferência foi agendada na sua conta.";Improdutivo
+"Lembrete de pagamento do IPVA;O IPVA do seu veículo vence na próxima semana.";Improdutivo
+"Fwd: Análise setorial que pode interessar;Achei esta análise do Goldman Sachs sobre o setor de saúde muito boa.";Improdutivo
+"Sua reserva de hotel para a Faria Lima Expo está confirmada;Confira os detalhes da sua estadia.";Improdutivo
+"Dúvida sobre Certificado de Depósito Bancário;Qual é a taxa do CDB que oferecem para um prazo de 3 anos?";Produtivo
+"Problema com a transferência de fundos;Tentei transferir fundos para a minha conta noutra corretora e a operação foi recusada.";Produtivo
+"Informações sobre Fundos de Investimento Imobiliário;Poderiam enviar-me uma lista dos FIIs recomendados pela vossa equipa de análise?";Produtivo
+"Erro na plataforma: Cotações em tempo real;As cotações de todos os ativos estão congeladas há mais de 15 minutos.";Produtivo
+"Solicitação de reunião com especialista em câmbio;Preciso de orientação sobre operações de hedge cambial para a minha empresa de importação.";Produtivo
+"Dúvida sobre a Declaração de Saída Definitiva do País;Estou a mudar-me para o exterior e preciso de saber como fazer a Declaração de Saída Definitiva.";Produtivo
+"Aplicação em Tesouro Direto;Por favor, aplicar R$ 15.000 no Tesouro Selic 2029.";Produtivo
+"Falha no login com 2FA (Autenticação de Dois Fatores);Não estou a receber o código de autenticação no meu telemóvel para conseguir fazer o login.";Produtivo
+"Solicitação de Análise de Perfil de Risco (API);Gostaria de saber se o meu perfil de investidor (suitability) está atualizado.";Produtivo
+"Problema com o Home Broker em horário de pico;O Home Broker fica extremamente lento e instável durante a primeira hora do pregão.";Produtivo
+"SPAM: Seu computador está em risco!;Detectámos 5 vírus no seu computador. Clique aqui para limpar agora.";Improdutivo
+"Proposta de serviço de limpeza;Oferecemos serviços de limpeza comercial com os melhores preços da região.";Improdutivo
+"E-mail enviado para o departamento errado;Prezados do Marketing, sobre a campanha de Natal... (Enviado para o suporte técnico)";Improdutivo
+"Convite para um webinar sobre culinária;Aprenda a fazer o melhor pão de fermentação natural no nosso próximo webinar.";Improdutivo
+"Reclamação sobre a temperatura da sala;A nossa sala está muito quente, o ar condicionado parece não estar a funcionar direito.";Improdutivo
+"Assunto: Oportunidade de Carreira;Vimos o seu perfil e temos uma oportunidade que pode ser do seu interesse.";Improdutivo
+"Notificação de atualização de software do telemóvel;Uma nova atualização do Android está disponível para o seu dispositivo.";Improdutivo
+"Sua conta da Netflix foi suspensa;Houve um problema com o seu pagamento. Atualize suas informações para continuar a assistir.";Improdutivo
+"Lembrete de aniversário no Facebook;É o aniversário do seu amigo João hoje. Envie-lhe uma mensagem!";Improdutivo
+"Você recebeu um novo e-mail no Gmail;Este é um alerta de que uma nova mensagem chegou à sua caixa de entrada.";Improdutivo
+"Relatório de {indicador_financeiro} mensal solicitado;Preciso do relatório de P&L (Lucros e Perdas) da minha carteira no último mês.";Produtivo
+"Problema com a {ferramenta_de_analise} na plataforma;A ferramenta de análise de correlação entre ativos não está a carregar.";Produtivo
+"Dúvida sobre a {regulamentacao_mercado};Gostaria de entender as novas regras da CVM para fundos de investimento.";Produtivo
+"Erro ao tentar {operacao_conta};Estou a tentar cadastrar um novo beneficiário para transferências e o sistema dá erro.";Produtivo
+"Agendamento da {reuniao_comite};Gostaria de agendar a reunião mensal do comité de investimentos.";Produtivo
+"URGENTE: Falha no {sistema_de_risco};O nosso sistema de controlo de risco de mercado está offline.";Produtivo
+"Preciso de acesso de {perfil_usuario} ao {sistema_compliance};Poderiam criar um perfil de 'auditor' para mim no sistema de compliance?";Produtivo
+"Qual o status do {processo_onboarding}?;Gostaria de saber como está o andamento do processo de onboarding do novo cliente PJ.";Produtivo
+"Consulta sobre a integração com a {plataforma_contabil};A nossa integração com o sistema SAP não está a sincronizar as notas de corretagem.";Produtivo
+"Bloqueador: A {validacao_documento} está a falhar;A validação automática de documentos está a falhar e a impedir a abertura de novas contas.";Produtivo
+"Parabéns pela {certificacao_profissional}!;Fiquei muito feliz em saber que você tirou a certificação CEA! Parabéns!";Improdutivo
+"Obrigado pelo {convite_evento_social};Agradeço o convite para o jantar de fim de ano, mas infelizmente não poderei comparecer.";Improdutivo
+"Tenham um {feriado_religioso} abençoado;Desejo a todos uma ótima Sexta-feira Santa e um bom descanso.";Improdutivo
+"Apenas para manter no radar;FYI: O Banco Central sinalizou uma possível alta de juros na próxima reunião.";Improdutivo
+"Que ótima {conquista_equipa}!;Parabéns à equipa de análise pela recomendação certeira da semana passada!";Improdutivo
+"Vamos organizar um {cafe_da_manha_equipa}?;Que tal organizarmos um café da manhã na sexta para comemorar as metas batidas?";Improdutivo
+"Sua opinião sobre a {mudanca_mercado};O que vocês acham do impacto da nova regulação de criptoativos?";Improdutivo
+"Lembrete amigável sobre o {relatorio_interno};Pessoal, só para lembrar que o relatório de atividades da semana precisa de ser preenchido até o final do dia.";Improdutivo
+"Compartilhando uma {planilha_util};Criei uma planilha para calcular o preço médio de ações, estou a compartilhar caso seja útil.";Improdutivo
+"Boas-vindas ao novo {fornecedor};Gostaria de dar as boas-vindas ao nosso novo fornecedor de dados de mercado, a Refinitiv.";Improdutivo
+"Consulta sobre Letras de Câmbio;Quais são as opções de Letras de Câmbio (LC) disponíveis e qual a garantia do FGC?";Produtivo
+"Problema com a sincronização do calendário de dividendos;O calendário de dividendos da minha carteira não está a ser atualizado com as novas datas.";Produtivo
+"Informações sobre Tesouro RendA+;Gostaria de entender melhor como funciona o novo título do Tesouro Direto para aposentadoria.";Produtivo
+"Erro na plataforma: Alertas de notícias;Os alertas de notícias por e-mail para os ativos que eu sigo não estão a chegar.";Produtivo
+"Solicitação de reunião com especialista em renda variável;Preciso de ajuda para montar uma estratégia de investimento focada em dividendos.";Produtivo
+"Dúvida sobre a declaração de ETFs no exterior;Como declaro no Imposto de Renda os ETFs que possuo numa corretora americana?";Produtivo
+"Aplicação em CRI/CRA;Por favor, alocar R$ 50.000 no CRA 'Safra Agronegócio', se disponível.";Produtivo
+"Falha no login com o e-mail corporativo (SSO);Não estou a conseguir fazer o login usando a opção 'Entrar com Google', o sistema não reconhece meu e-mail.";Produtivo
+"Solicitação de relatório de risco cambial;Poderiam gerar um relatório de exposição cambial da nossa carteira de investimentos global?";Produtivo
+"Problema com a plataforma de fundos;A lâmina de informações dos fundos não está a ser exibida quando clico nos detalhes.";Produtivo
+"SPAM: Parabéns! Você foi aprovado para um cartão de crédito sem anuidade!;Seu cartão de crédito com limite de R$ 20.000 está pré-aprovado. Peça já!";Improdutivo
+"Proposta de parceria para conteúdo;Somos um portal de educação financeira e gostaríamos de propor uma parceria de conteúdo com o vosso blog.";Improdutivo
+"E-mail com assunto familiar;Lembrete: reunião de pais e mestres na escola do Lucas amanhã.";Improdutivo
+"Reclamação sobre a limpeza dos banheiros;O banheiro masculino do 2º andar está consistentemente sujo.";Improdutivo
+"Convite para um grupo de corrida;Estou a montar um grupo de corrida com o pessoal do escritório. Quem quer participar?";Improdutivo
+"Sua assinatura do Spotify Premium foi confirmada;Obrigado por se juntar ao Premium. Curta suas músicas sem anúncios.";Improdutivo
+"Notificação de voo da LATAM;Informamos que o seu voo sofreu uma alteração de horário.";Improdutivo
+"Lembrete de pagamento do condomínio;A fatura do condomínio deste mês já está disponível para pagamento.";Improdutivo
+"Fwd: Notícia sobre o trânsito;Evitem a Av. Paulista, está fechada para um evento.";Improdutivo
+"Sua encomenda da Shopee foi entregue;O seu pedido foi entregue com sucesso no seu endereço.";Improdutivo
+"Relatório de {indicador_desempenho} da equipa;Preciso do relatório de KPIs da equipa de atendimento do último trimestre.";Produtivo
+"Problema com o {sistema_comunicacao_interna};O chat interno (Slack/Teams) não está a enviar notificações para o telemóvel.";Produtivo
+"Dúvida sobre a {politica_ferias};É possível vender 10 dias de férias este ano?";Produtivo
+"Erro ao aceder à {intranet};A intranet da empresa está a apresentar uma página de erro.";Produtivo
+"Agendamento da {reuniao_estrategica};Gostaria de agendar a reunião de planeamento estratégico para o próximo mês.";Produtivo
+"URGENTE: Falha no {servidor_autenticacao};Ninguém está a conseguir fazer login em nenhum sistema da empresa. O servidor de autenticação parece estar fora.";Produtivo
+"Preciso de acesso de {perfil_leitura} ao {repositorio_codigo};Poderiam me dar acesso de leitura ao repositório do projeto Alfa no GitLab?";Produtivo
+"Qual o status do {processo_de_compra}?;Gostaria de saber o status do processo de compra dos novos computadores para a equipa.";Produtivo
+"Consulta sobre a integração com a {ferramenta_bi};A nossa integração com o Power BI não está a atualizar os dados.";Produtivo
+"Bloqueador: A {licenca_software} expirou;A licença do software de análise de dados expirou e não conseguimos trabalhar.";Produtivo
+"Obrigado pela {mentoria_profissional};Queria agradecer pelas dicas de carreira na nossa conversa de ontem. Foram muito valiosas.";Improdutivo
+"Feliz Dia da Secretária!;Um agradecimento especial a todas as secretárias que mantêm nosso dia a dia organizado.";Improdutivo
+"Votos de um excelente {treinamento_externo};Desejo a todos que vão para o treinamento em São Paulo uma ótima viagem e muito aprendizado.";Improdutivo
+"Apenas para alinhar as expectativas;FYI: O cliente pediu uma alteração de escopo no projeto. Enviarei os detalhes em breve.";Improdutivo
+"Parabéns pelo {aniversario_de_casamento}!;Fiquei sabendo que é seu aniversário de casamento! Muitas felicidades!";Improdutivo
+"Vamos organizar um {almoço_de_despedida}?;Vamos organizar um almoço de despedida para o Marcos na sexta-feira?";Improdutivo
+"Sua opinião sobre o {novo_beneficio};O que vocês acharam do novo benefício de auxílio-creche?";Improdutivo
+"Lembrete amigável sobre a {entrega_relatorio};Pessoal, só para lembrar que o relatório de horas do projeto precisa de ser entregue até amanhã.";Improdutivo
+"Compartilhando um {template_util};Criei um template de apresentação que pode ser útil para todos. Está na pasta partilhada.";Improdutivo
+"Boas-vindas ao novo {parceiro_de_negocios};Gostaria de dar as boas-vindas à nova consultoria que nos ajudará no projeto de compliance.";Improdutivo
+"Consulta sobre o imposto de renda retido na fonte (IRRF) em aplicações de renda fixa.;Como funciona a 'tabela regressiva' do IR para investimentos em CDBs?";Produtivo
+"Problema ao tentar gerar o informe de rendimentos.;A plataforma está a dar um erro ao tentar gerar o informe de rendimentos para a minha declaração anual.";Produtivo
+"Solicitação de alteração de custodiante.;Gostaria de iniciar o processo de portabilidade dos meus ativos para outra instituição.";Produtivo
+"Dúvida sobre a liquidação de uma operação de venda a termo.;Vendi umas ações a termo e gostaria de saber quando o valor será liquidado na minha conta.";Produtivo
+"Minha ordem 'iceberg' não foi executada como esperado.;Configurei uma ordem iceberg para não impactar o mercado, mas ela foi executada de uma só vez.";Produtivo
+"Como faço para habilitar o RLP (Retail Liquidity Provider) na minha conta?;Quero ter acesso a melhores condições de corretagem para mini-contratos.";Produtivo
+"Relatório de performance ajustado ao risco (Índice de Sharpe) da carteira.;Poderiam gerar um relatório com o Índice de Sharpe da minha carteira nos últimos 12 meses?";Produtivo
+"Problema com a importação de notas de corretagem para o software de IR.;O ficheiro exportado pela plataforma não é compatível com o meu software de declaração de IR.";Produtivo
+"Agendamento de reunião para discutir sucessão patrimonial.;Gostaria de agendar uma reunião com um especialista para discutir o planeamento sucessório da minha família.";Produtivo
+"URGENTE: Chamada de margem na minha conta de futuros.;Recebi uma notificação de chamada de margem, mas não entendi qual posição está a exigir mais garantia. Preciso de detalhes.";Produtivo
+"Fwd: Oportunidade de franquia de sucesso.;Achei que poderia se interessar por este modelo de negócio.";Improdutivo
+"Sua assinatura da revista 'Caras' foi renovada.;Sua assinatura foi renovada e a próxima edição chegará em breve.";Improdutivo
+"Notificação de segurança: seu email foi visto numa lista de vazamento de dados.;Recomendamos que você altere sua senha como medida de precaução.";Improdutivo
+"Convite para o batizado do meu filho.;Gostaríamos de convidá-lo para o batizado do nosso filho no próximo mês.";Improdutivo
+"Recomendação de podcast sobre história.;Comecei a ouvir um podcast sobre a história do Brasil e estou a adorar.";Improdutivo
+"SPAM: Curso de PNL e Coaching para o sucesso.;Transforme sua vida e carreira com nosso curso de Programação Neurolinguística.";Improdutivo
+"Alerta de voo da Azul: check-in disponível.;O check-in para o seu voo para Recife já está aberto.";Improdutivo
+"Você tem pontos expirando no programa de fidelidade.;Seus 5.000 pontos do programa 'Sempre Presente' expiram no final do mês.";Improdutivo
+"Lembrete: Reunião do condomínio hoje à noite.;Lembrete da reunião extraordinária do condomínio hoje às 19h no salão de festas.";Improdutivo
+"Feliz Dia do Gaúcho!;Um abraço a todos os nossos colegas e clientes do Rio Grande do Sul.";Improdutivo
+"Dúvida sobre a {norma_bacen};Gostaria de entender como a nova norma do Banco Central sobre pagamentos instantâneos nos afeta.";Produtivo
+"Erro na {plataforma_legado};O sistema legado de contas correntes está a apresentar o erro 'X-25' intermitentemente.";Produtivo
+"Solicitação de {relatorio_regulatorio};Precisamos do relatório de Basiléia III consolidado do último trimestre para enviar ao regulador.";Produtivo
+"Agendamento de {auditoria_interna};Gostaria de agendar a auditoria interna dos processos da mesa de operações.";Produtivo
+"URGENTE: Inconsistência no {sistema_contabil};O balancete gerado pelo sistema não está a bater com os nossos controlos manuais.";Produtivo
+"Preciso de acesso de {perfil_gestor} ao {dashboard_de_risco};Poderiam me dar acesso de gestor ao dashboard de risco de liquidez?";Produtivo
+"Qual o status do {processo_de_fechamento_mensal}?;Gostaria de saber como está o andamento do processo de fecho contabilístico do mês.";Produtivo
+"Consulta sobre a integração com o {fornecedor_de_dados};A nossa integração com a B3 para receber os dados de mercado está com atraso.";Produtivo
+"Bloqueador: A {aprovacao_do_comite_de_credito} está atrasada;A aprovação do comité de crédito para a operação XYZ está pendente e a segurar o processo.";Produtivo
+"Dúvida sobre o {calculo_de_imposto};O cálculo do imposto de renda sobre o ganho de capital na venda de um imóvel está correto?";Produtivo
+"Parabéns pelo {resultado_trimestral}!;Os resultados do último trimestre foram excelentes! Parabéns a toda a equipa pela dedicação.";Improdutivo
+"Obrigado pelo {treinamento_oferecido};O treinamento sobre a nova plataforma de investimentos foi muito esclarecedor. Obrigado!";Improdutivo
+"Tenham um {feriado_municipal} ótimo;Desejo a todos um ótimo feriado de aniversário da cidade.";Improdutivo
+"Apenas para registo formal;FYI: Conforme nossa conversa, a proposta foi enviada ao cliente.";Improdutivo
+"Que ótima {noticia_setorial}!;Fiquei feliz em ver que o nosso setor foi destaque positivo no relatório de emprego.";Improdutivo
+"Vamos organizar um {grupo_de_estudo_interno}?;Que tal montarmos um grupo de estudos para a certificação CFP?";Improdutivo
+"Sua opinião sobre a {nova_plataforma_concorrente};O que vocês acharam da nova plataforma de investimentos que o concorrente lançou?";Improdutivo
+"Lembrete amigável sobre o {preenchimento_de_formulario};Pessoal, só para lembrar que o formulário de avaliação de desempenho 360 deve ser preenchido até hoje.";Improdutivo
+"Compartilhando um {whitepaper_relevante};Encontrei este whitepaper do FMI sobre o futuro das moedas digitais.";Improdutivo
+"Boas-vindas ao novo {programa_de_estagio};Gostaria de dar as boas-vindas à nossa nova turma de estagiários.";Improdutivo
+"Consulta sobre a portabilidade de um plano de previdência;É possível fazer a portabilidade do meu PGBL de outra instituição para vocês?";Produtivo
+"Problema com a amortização do meu financiamento imobiliário;Paguei uma parcela extra para amortizar meu financiamento, mas o valor não foi abatido do saldo devedor.";Produtivo
+"Informações sobre o mercado de crédito de carbono;Gostaria de saber se vocês oferecem algum fundo que invista em créditos de carbono (CBIOs).";Produtivo
+"Erro na plataforma: o stop loss não foi acionado;Minha ordem de stop loss em PETR4 não foi disparada hoje, mesmo com o preço a cair abaixo do meu gatilho.";Produtivo
+"Solicitação de reunião com o gestor do fundo multimercado;Gostaria de agendar uma conversa com o gestor do fundo 'Alpha Multimercado' para entender a estratégia atual.";Produtivo
+"Dúvida sobre a declaração de stock options;Recebi stock options da minha empresa. Como devo declarar isso no imposto de renda?";Produtivo
+"Aplicação em fundo de infraestrutura;Por favor, aplicar R$ 75.000 no fundo de investimento em infraestrutura 'Infra Brasil FIP'.";Produtivo
+"Falha no reconhecimento de assinatura eletrónica;Estou a tentar assinar um documento eletronicamente, mas a plataforma não está a reconhecer meu certificado digital.";Produtivo
+"Solicitação de relatório de tracking error;Poderiam gerar um relatório com o tracking error do meu fundo de ações em relação ao Ibovespa?";Produtivo
+"Problema com o home broker em dia de alta volatilidade;Em dias de alta volatilidade, o home broker fica instável e as ordens demoram a ser executadas.";Produtivo
+"SPAM: Ganhe um Rolex!;Você foi selecionado para uma oferta exclusiva. Responda e ganhe um Rolex.";Improdutivo
+"Proposta de serviço de catering;Oferecemos serviços de catering para eventos corporativos. Gostariam de receber um orçamento?";Improdutivo
+"E-mail com uma receita;Segue a receita daquele bolo de cenoura que você me pediu.";Improdutivo
+"Reclamação sobre o barulho da obra ao lado;A obra no prédio vizinho está a fazer um barulho insuportável.";Improdutivo
+"Convite para um jogo de padel;Vamos marcar um jogo de padel na quarta-feira depois do trabalho?";Improdutivo
+"Sua conta do LinkedIn foi visualizada;Descubra quem viu seu perfil na última semana.";Improdutivo
+"Notificação do Bradesco;Sua transferência agendada foi efetuada com sucesso.";Improdutivo
+"Sua fatura da Claro vence amanhã;Evite multas, pague sua fatura da Claro em dia.";Improdutivo
+"Lembrete do Duolingo;É hora da sua lição de espanhol! Não perca sua ofensiva.";Improdutivo
+"Você tem um novo match no Tinder;Alguém curtiu você. Veja quem é!";Improdutivo
+"Dúvida sobre o {procedimento_de_compliance};Qual é o procedimento para reportar uma potencial situação de conflito de interesses?";Produtivo
+"Problema no {sistema_de_relatorios_regulatorios};O sistema não está a gerar o relatório para a CVM no formato exigido.";Produtivo
+"Relatório de {analise_de_risco_de_liquidez} solicitado;Preciso do relatório de stress de liquidez da carteira do fundo de renda fixa.";Produtivo
+"Erro ao aceder ao {ambiente_de_desenvolvimento};O ambiente de desenvolvimento para a nova API está fora do ar.";Produtivo
+"Agendamento do {teste_de_continuidade_de_negocios};Gostaria de agendar o teste anual de continuidade de negócios (BCP) para o próximo mês.";Produtivo
+"URGENTE: Falha no {link_de_comunicacao_com_a_b3};O nosso link principal de comunicação com a B3 caiu. Estamos a operar pelo link de contingência.";Produtivo
+"Preciso de acesso de {perfil_de_seguranca} ao {firewall};Poderiam me dar acesso para visualizar as regras do firewall da rede de produção?";Produtivo
+"Qual o status do {processo_de_homologacao}?;Gostaria de saber como está o andamento da homologação da nova versão do home broker.";Produtivo
+"Consulta sobre a integração com a {plataforma_de_gestao_de_risco};A nossa integração com o sistema da BlackRock (Aladdin) está a apresentar erros de sincronização.";Produtivo
+"Bloqueador: A {renovacao_de_licenca} está pendente;A renovação da licença do nosso banco de dados Oracle está pendente e o sistema pode parar de funcionar.";Produtivo
+"Parabéns pelo {artigo_publicado}!;Vi seu artigo sobre finanças comportamentais publicado na revista. Excelente trabalho!";Improdutivo
+"Obrigado pela {ajuda_com_o_cliente};Queria agradecer a ajuda para resolver aquele problema complexo do cliente XPTO. Foi fundamental.";Improdutivo
+"Tenham um {feriado_prolongado_com_ponte} excelente;Desejo a todos um ótimo feriado de 1º de Maio e um bom descanso na ponte.";Improdutivo
+"Apenas para sua informação e ação;FYI: O cliente solicitou a alteração do seu perfil de risco. Por favor, processar.";Produtivo
+"Que ótima {noticia_sobre_o_mercado}!;Fiquei feliz em ver que o investment grade do Brasil foi elevado. Ótima notícia para todos nós!";Improdutivo
+"Vamos organizar um {campeonato_de_xadrez}?;Estou a pensar em organizar um pequeno campeonato de xadrez no escritório. Quem se anima?";Improdutivo
+"Sua opinião sobre a {nova_ferramenta_de_ia};O que vocês acharam da nova ferramenta de IA que a empresa licenciou para análise de dados?";Improdutivo
+"Lembrete amigável sobre o {evento_de_caridade};Pessoal, não se esqueçam de trazer suas doações para a nossa campanha do agasalho até amanhã.";Improdutivo
+"Compartilhando um {video_inspirador};Encontrei este vídeo do TED Talk sobre resiliência, muito bom.";Improdutivo
+"Boas-vindas ao novo {chefe_de_departamento};Gostaria de dar as boas-vindas ao nosso novo Head de Renda Variável, o Sr. Oliveira.";Improdutivo
+"Dúvida sobre a estrutura de um FIDC-NP;Como funciona a estrutura e quais os riscos de um Fundo de Investimento em Direitos Creditórios Não Padronizados?";Produtivo
+"Problema na plataforma de Tesouro Direto;Não consigo investir no Tesouro Direto, a plataforma diz que minha conta não está habilitada para esta operação.";Produtivo
+"Informações sobre o mercado de small caps;Gostaria de receber a lista de small caps recomendadas pela vossa equipa de análise.";Produtivo
+"Erro na plataforma: o SuperDOM não funciona;A ferramenta SuperDOM para day trade não está a carregar na minha plataforma.";Produtivo
+"Solicitação de reunião com a equipa de produtos estruturados;Preciso de ajuda para montar uma operação com opções para proteger minha carteira de ações.";Produtivo
+"Dúvida sobre a tributação de fundos de previdência;Como funciona a escolha entre a tabela progressiva e regressiva no meu plano de previdência PGBL?";Produtivo
+"Aplicação em ETF de S&P 500;Por favor, aplicar R$ 30.000 no ETF IVVB11 que replica o S&P 500.";Produtivo
+"Falha no envio de TED/DOC;Estou a tentar fazer uma transferência para outra titularidade e o sistema não permite, mesmo eu tendo a permissão.";Produtivo
+"Solicitação de relatório de rentabilidade real;Poderiam gerar um relatório com a rentabilidade real (descontada a inflação) da minha carteira nos últimos 5 anos?";Produtivo
+"Problema com o home broker em dias de vencimento de opções;Nos dias de vencimento de opções, a plataforma fica muito instável e lenta.";Produtivo
+"SPAM: Seu parente deixou uma herança!;Um parente distante no exterior deixou uma fortuna para você. Entre em contato para reclamar.";Improdutivo
+"Proposta de parceria para desenvolvimento de software;Somos uma software house e podemos desenvolver soluções personalizadas para a vossa empresa.";Improdutivo
+"E-mail com uma lista de compras;Lembrete para mim mesmo: comprar leite, pão e ovos.";Improdutivo
+"Reclamação sobre a falta de vagas no bicicletário;O bicicletário está sempre cheio, precisamos de mais vagas.";Improdutivo
+"Convite para um piquenique no parque;Pessoal, vamos organizar um piquenique com as famílias no Parque Ibirapuera no próximo mês?";Improdutivo
+"Sua conta do Dropbox está a 90% da capacidade;Considere fazer o upgrade para um plano com mais espaço.";Improdutivo
+"Notificação do Waze;Trânsito intenso na sua rota para o trabalho. Considere um caminho alternativo.";Improdutivo
+"Sua fatura do Sem Parar está disponível;Acesse o aplicativo para ver os detalhes da sua fatura de pedágio e estacionamento.";Improdutivo
+"Lembrete do LinkedIn: Aniversário de trabalho;Parabéns pelo seu 5º aniversário de trabalho na empresa!";Improdutivo
+"Você tem uma nova mensagem no WhatsApp;Maria enviou uma mensagem para você.";Improdutivo
+"Como faço para {acao_relacionada_a_beneficios}?;Gostaria de saber como incluir um dependente no meu plano de saúde.";Produtivo
+"Relatório de {tipo_relatorio_de_pessoal} solicitado;Preciso do relatório de headcount por departamento para o planeamento orçamental.";Produtivo
+"Problema com o {sistema_de_ponto_eletronico};O sistema de ponto não registou a minha saída de ontem.";Produtivo
+"Dúvida sobre a {politica_de_reembolso};Qual o limite de valor para reembolso de despesas com almoço com clientes?";Produtivo
+"Erro ao tentar {acao_no_portal_rh};Estou a tentar submeter meu pedido de férias no portal de RH e o sistema está a dar erro.";Produtivo
+"Preciso de informações sobre o {programa_de_participacao_nos_lucros};Como funciona o cálculo da nossa PLR (Participação nos Lucros e Resultados)?";Produtivo
+"Agendar call para discutir a {avaliacao_de_desempenho};Podemos agendar uma call para discutir a minha avaliação de desempenho deste semestre?";Produtivo
+"Falha no {servico_de_impressao};A impressora colorida do nosso andar não está a funcionar.";Produtivo
+"URGENTE: Problema com a {folha_de_pagamento};Detectei um erro no valor do meu adiantamento salarial. Preciso de uma correção urgente.";Produtivo
+"Atualização sobre a {vaga_interna};Gostaria de saber o status do processo seletivo interno para a vaga de gerente de projetos.";Produtivo
+"Votos de um excelente {congresso_profissional}!;Desejo a todos que vão para o congresso de RH uma ótima experiência e muito aprendizado.";Improdutivo
+"Parabéns pelo {nascimento_do_filho}!;Fiquei muito feliz em saber do nascimento do seu filho! Muitas felicidades para a família!";Improdutivo
+"Obrigado pelo {presente_de_casamento};Adoramos o presente de casamento que a equipa nos deu. Muito obrigado pelo carinho.";Improdutivo
+"Tenham um {feriado_estadual} ótimo;Bom feriado a todos os nossos colegas de São Paulo.";Improdutivo
+"Apenas para seu conhecimento interno;FYI: A nova política de trabalho remoto entra em vigor no próximo mês.";Improdutivo
+"Que interessante essa {palestra_interna}!;A palestra sobre comunicação não-violenta de ontem foi excelente.";Improdutivo
+"Sua opinião sobre o {novo_fornecedor_de_cafe};O que vocês acharam do novo café que colocaram na copa?";Improdutivo
+"Convite para {grupo_de_voluntariado};Estou a organizar um grupo para o dia de voluntariado da empresa. Quem tem interesse?";Improdutivo
+"Promoção de {restaurante_local};O restaurante da esquina está com uma promoção de almoço executivo esta semana.";Improdutivo
+"Corrente de {boato_interno};Repasse: dizem que a empresa vai dar um bónus extra no final do ano.";Improdutivo
+"Consulta sobre Swap de Ativos;É possível fazer uma operação de swap trocando a rentabilidade de um CDB pela variação do Ibovespa?";Produtivo
+"Problema com a Plataforma de Renda Fixa;A plataforma não está a exibir o PU (Preço Unitário) correto para as debêntures da empresa ABC.";Produtivo
+"Informações sobre Fundos Quantitativos;Gostaria de entender a estratégia e o nível de risco dos fundos quantitativos que vocês oferecem.";Produtivo
+"Erro na Execução de Ordem com Validade;Enviei uma ordem de compra com validade 'até cancelar', mas ela foi cancelada no final do dia.";Produtivo
+"Solicitação de Reunião com a Equipa de M&A;Somos uma empresa do setor de tecnologia e estamos à procura de um assessor para o nosso processo de venda.";Produtivo
+"Dúvida sobre a Declaração de Ganhos com Criptomoedas;Como declaro os ganhos que tive com a venda de Bitcoin no meu Imposto de Renda?";Produtivo
+"Aplicação em Fundo de Ações Small Caps;Por favor, aplicar R$ 40.000 no fundo de small caps 'Micro Cap Hunter FIA'.";Produtivo
+"Falha no Acesso ao Relatório de Performance;O link para o meu relatório de performance mensal está quebrado, não consigo abrir o PDF.";Produtivo
+"Solicitação de Relatório de Risco de Mercado;Poderiam gerar um relatório de stress test para a minha carteira, simulando uma queda de 20% no Ibovespa?";Produtivo
+"Problema com o Home Broker em Leilão de Fechamento;O Home Broker travou durante o leilão de fechamento e não consegui executar minha ordem.";Produtivo
+"SPAM: A sua oportunidade de investimento secreto!;Descubra o investimento que os bilionários não querem que você conheça. Lucro garantido.";Improdutivo
+"Proposta de Serviço de Segurança da Informação;Somos especialistas em pentest e segurança cibernética. Gostariam de uma avaliação?";Improdutivo
+"E-mail para o Departamento de Marketing;Prezados, sobre a nossa campanha de fim de ano... (Enviado para o e-mail de atendimento ao cliente)";Improdutivo
+"Convite para uma Exposição de Arte;Gostaria de convidá-lo para a vernissage da minha exposição de fotografia.";Improdutivo
+"Reclamação sobre a Falta de Papel na Impressora;A impressora do 5º andar está sem papel há dois dias.";Improdutivo
+"Assunto: Sorteio de uma Cesta de Chocolate!;Participe do nosso sorteio de Páscoa e concorra a uma cesta de chocolates belgas!";Improdutivo
+"Notificação de Segurança do seu Banco;Detectamos uma tentativa de acesso suspeita. Se não foi você, clique aqui.";Improdutivo
+"Sua fatura da Amazon Prime Video chegou;O valor de R$ 14,90 será debitado do seu cartão.";Improdutivo
+"Lembrete de Aniversário de um Contato Profissional;É o aniversário do seu contato João da Empresa XYZ hoje. Envie-lhe uma mensagem!";Improdutivo
+"Você tem uma nova mensagem no Telegram;Maria enviou uma figurinha para você.";Improdutivo
+"Relatório de {tipo_relatorio_juridico} solicitado;Preciso do relatório de contingências cíveis do último trimestre.";Produtivo
+"Problema com o {software_de_assinatura_digital};O sistema de assinatura digital (DocuSign) não está a enviar os documentos para os signatários.";Produtivo
+"Dúvida sobre a {politica_de_confidencialidade};Qual é a nossa política para o compartilhamento de informações confidenciais com fornecedores?";Produtivo
+"Erro ao aceder ao {servidor_de_arquivos};Não consigo aceder à pasta do projeto 'Netuno' no servidor de arquivos.";Produtivo
+"Agendamento da {reuniao_de_alinhamento_estrategico};Gostaria de agendar a reunião de alinhamento estratégico com a diretoria.";Produtivo
+"URGENTE: Falha no {sistema_de_backup};O nosso sistema de backup principal falhou esta noite e o secundário não assumiu.";Produtivo
+"Preciso de acesso de {perfil_de_desenvolvedor} ao {ambiente_de_producao};Poderiam me dar acesso de 'read-only' ao banco de dados de produção para investigar um bug?";Produtivo
+"Qual o status do {processo_de_contratacao}?;Gostaria de saber o status do processo de contratação do novo analista para a nossa equipa.";Produtivo
+"Consulta sobre a integração com a {plataforma_de_pagamentos};A nossa integração com a Stripe não está a processar pagamentos com cartão de crédito.";Produtivo
+"Bloqueador: A {aprovacao_do_cliente} está pendente;A aprovação formal do cliente para o novo escopo do projeto está a impedir o início do desenvolvimento.";Produtivo
+"Parabéns pela {conclusao_do_curso}!;Fiquei feliz em saber que você concluiu sua pós-graduação! Parabéns pelo esforço!";Improdutivo
+"Obrigado pelo {presente_de_nascimento};Adoramos o presente que a equipa enviou para o nosso bebé. Muito obrigado pelo gesto.";Improdutivo
+"Tenham um {feriado_religioso_local} abençoado;Desejo a todos um ótimo feriado de São João.";Improdutivo
+"Apenas para registo e acompanhamento;FYI: O cliente XPTO confirmou a receção dos documentos.";Improdutivo
+"Que ótima {noticia_pessoal}!;Fiquei sabendo que você vai ser pai! Parabéns, que venha com muita saúde!";Improdutivo
+"Vamos organizar um {campeonato_de_videogame}?;Que tal organizarmos um campeonato de FIFA no escritório depois do expediente?";Improdutivo
+"Sua opinião sobre o {novo_restaurante_da_regiao};Alguém já foi naquele restaurante novo que abriu na esquina? É bom?";Improdutivo
+"Lembrete amigável sobre o {evento_social_da_empresa};Pessoal, não se esqueçam de confirmar a presença na festa de fim de ano até amanhã.";Improdutivo
+"Compartilhando um {livro_interessante};Acabei de ler um livro ótimo sobre liderança e queria recomendar a todos.";Improdutivo
+"Boas-vindas ao novo {fornecedor_de_servicos};Gostaria de dar as boas-vindas à nova agência de publicidade que trabalhará connosco.";Improdutivo
+"Consulta sobre o mercado de crédito privado;Qual a vossa visão sobre o spread de crédito para debêntures de rating A+?";Produtivo
+"Problema na plataforma de alocação;A ferramenta de alocação de carteiras não está a considerar as restrições de concentração que eu defini.";Produtivo
+"Informações sobre fundos de previdência com benefício fiscal;Quais fundos de previdência (PGBL) vocês oferecem para abatimento no Imposto de Renda?";Produtivo
+"Erro na plataforma: Book de ofertas não atualiza;O book de ofertas para mini-índice está travado, os preços não se movem.";Produtivo
+"Solicitação de reunião com a equipa de análise de crédito;Preciso discutir o rating de crédito da empresa Y para uma possível alocação.";Produtivo
+"Dúvida sobre a declaração de lucros com day trade;Como devo calcular e pagar a DARF sobre os lucros que tive com operações de day trade?";Produtivo
+"Aplicação em fundo de dividendos;Por favor, aplicar R$ 100.000 no fundo de ações focado em dividendos 'Dividend Yield FIA'.";Produtivo
+"Falha na autenticação via SMS;O código de segurança enviado por SMS para validar a operação não está a chegar.";Produtivo
+"Solicitação de relatório de performance por classe de ativo;Poderiam me enviar um relatório com a performance de cada classe de ativo da minha carteira?";Produtivo
+"Problema com a plataforma em dia de Rolagem de Contratos;No dia da rolagem dos contratos futuros, a plataforma ficou extremamente lenta e perdi uma operação.";Produtivo
+"SPAM: Seu Windows expirou!;Sua licença do Windows expirou. Clique aqui para renovar e evitar perder seus dados.";Improdutivo
+"Proposta de serviço de tradução juramentada;Oferecemos serviços de tradução juramentada para documentos financeiros e contratos.";Improdutivo
+"E-mail com uma piada interna da equipa;Lembram daquela história do café? Aconteceu de novo hoje.";Improdutivo
+"Reclamação sobre o ar condicionado (de novo);Pessoal, o ar condicionado continua gelado, mesmo depois de pedirmos para ajustar.";Improdutivo
+"Convite para o meu chá de bebé;Gostaria de convidar todas as meninas da equipa para o meu chá de bebé no próximo mês.";Improdutivo
+"Sua conta do Google Drive está cheia;Você usou todo o seu armazenamento gratuito. Faça o upgrade para o Google One.";Improdutivo
+"Notificação do Mercado Livre;Sua pergunta foi respondida pelo vendedor.";Improdutivo
+"Sua fatura da Net/Claro está disponível;Acesse o Minha Claro para ver os detalhes e pagar sua fatura.";Improdutivo
+"Lembrete do LinkedIn: Aniversário de uma conexão;É o aniversário de Maria hoje. Envie-lhe uma mensagem!";Improdutivo
+"Você foi marcado numa publicação no Facebook;João marcou você e outras 5 pessoas numa publicação.";Improdutivo
+"Consulta sobre Letras Financeiras do Tesouro (LFT);Qual a rentabilidade esperada para a LFT com vencimento em 2027?";Produtivo
+"Problema na Execução de Ordem Stop;Minha ordem stop de venda em GOLL4 não foi executada, mesmo o preço tendo passado do meu gatilho.";Produtivo
+"Informações sobre Fundos de Investimento no Exterior;Vocês oferecem algum fundo que invista em ações europeias?";Produtivo
+"Erro na Plataforma: Gráfico de Volume;O volume financeiro no gráfico de 15 minutos não está a ser exibido para nenhum ativo.";Produtivo
+"Solicitação de Reunião com Especialista em Sucessão;Preciso de orientação sobre como estruturar a sucessão dos meus investimentos para meus herdeiros.";Produtivo
+"Dúvida sobre a Declaração de Day Trade no IR;Como declaro os lucros e prejuízos de operações de day trade na minha declaração anual?";Produtivo
+"Aplicação em Fundo de Debêntures Incentivadas;Por favor, aplicar R$ 80.000 no fundo de debêntures incentivadas 'Infraestrutura Plus'.";Produtivo
+"Falha no Acesso com Impressão Digital;O leitor de impressão digital do aplicativo não está a funcionar no meu novo telemóvel.";Produtivo
+"Solicitação de Relatório de Risco de Crédito da Carteira;Poderiam gerar um relatório com a distribuição de rating de crédito da minha carteira de renda fixa?";Produtivo
+"Problema com o Extrato de Opções;O meu extrato de opções não está a detalhar corretamente o custo de cada operação.";Produtivo
+"SPAM: Desbloqueie seu potencial financeiro!;Participe da nossa imersão de 3 dias e aprenda a investir como os grandes tubarões do mercado.";Improdutivo
+"Proposta de Serviço de Consultoria em TI;Somos uma consultoria especializada em migração para a nuvem e gostaríamos de apresentar nossos serviços.";Improdutivo
+"E-mail com Assunto Aleatório;Previsão do tempo para o fim de semana: sol com algumas nuvens.";Improdutivo
+"Reclamação sobre o serviço de entrega;A minha entrega de documentos via motoboy está atrasada há 2 horas.";Improdutivo
+"Convite para um Jogo de Ténis;Vamos marcar um jogo de ténis no clube na próxima semana?";Improdutivo
+"Sua Conta do Google foi Recuperada;Recebemos uma solicitação para recuperar sua conta. Se não foi você, proteja sua conta.";Improdutivo
+"Notificação do Twitter;Você tem 5 novas notificações, incluindo 2 novas menções.";Improdutivo
+"Sua Fatura do Cartão American Express;Confira o resumo da sua fatura e os seus pontos do programa Membership Rewards.";Improdutivo
+"Lembrete de Aniversário de Casamento;Lembrete no seu calendário: Aniversário de 10 anos de casamento.";Improdutivo
+"Você tem uma nova mensagem no Signal;João enviou uma mensagem para você.";Improdutivo
+"Dúvida sobre a {regulamentacao_especifica_cvm};Como a nova instrução da CVM sobre gestores de recursos afeta o meu fundo?";Produtivo
+"Relatório de {tipo_relatorio_de_risco} solicitado;Preciso do relatório de stress test da carteira de crédito para a auditoria.";Produtivo
+"Problema com a {ferramenta_de_backoffice};A ferramenta de conciliação de custódia não está a importar os arquivos da B3.";Produtivo
+"Erro ao tentar {acao_de_compliance};Estou a tentar registar uma operação de 'insider' e o sistema está a dar erro.";Produtivo
+"Agendamento da {reuniao_com_regulador};Preciso agendar a nossa reunião trimestral com o fiscal do Banco Central.";Produtivo
+"URGENTE: Falha no {sistema_de_seguranca_de_dados};O nosso sistema de Data Loss Prevention (DLP) está a bloquear e-mails legítimos de clientes.";Produtivo
+"Preciso de acesso de {perfil_de_risco} ao {modulo_de_operacoes};Poderiam me dar acesso de 'gestor de risco' ao módulo de operações da mesa de tesouraria?";Produtivo
+"Qual o status do {processo_de_certificacao_anbima}?;Gostaria de saber como está o andamento da nossa certificação para distribuição de produtos de investimento.";Produtivo
+"Consulta sobre a integração com a {plataforma_de_reporte};A nossa integração com a plataforma da ANBIMA para reporte de fundos está com falhas.";Produtivo
+"Bloqueador: A {analise_de_credito_do_cliente} está vencida;A análise de crédito do cliente ABC está vencida e está a impedir a renovação da sua linha de crédito.";Produtivo
+"Parabéns pelo {resultado_do_fundo}!;Vi que o fundo de ações bateu o benchmark por uma margem excelente este mês. Parabéns à gestão!";Improdutivo
+"Obrigado pelo {esclarecimento_tecnico};Agradeço a explicação detalhada sobre o cálculo da marcação a mercado. Ficou muito claro.";Improdutivo
+"Tenham um {feriado_nacional} excelente;Desejo a todos um ótimo feriado de Corpus Christi e um bom descanso.";Improdutivo
+"Apenas para documentação e compliance;FYI: A gravação da chamada com o cliente foi anexada ao seu registo no CRM.";Improdutivo
+"Que ótima {noticia_macroeconomica}!;Fiquei feliz em ver a queda da taxa de desemprego. Um bom sinal para a economia.";Improdutivo
+"Vamos organizar um {almoço_de_comemoracao}?;Que tal organizarmos um almoço para comemorar a conclusão bem-sucedida do projeto?";Improdutivo
+"Sua opinião sobre a {nova_politica_do_banco_central};O que vocês acharam da nova política de compulsórios anunciada pelo Banco Central?";Improdutivo
+"Lembrete amigável sobre o {preenchimento_de_relatorio_obrigatorio};Pessoal, só para lembrar que o relatório de suitability precisa de ser preenchido até o final da semana.";Improdutivo
+"Compartilhando um {estudo_academico_relevante};Encontrei este estudo académico sobre a eficiência de mercados, achei interessante compartilhar.";Improdutivo
+"Boas-vindas ao novo {membro_da_equipa_de_analise};Gostaria de dar as boas-vindas ao nosso novo analista de ações, o Bruno.";Improdutivo
+"Consulta sobre Operações Estruturadas com Opções;Gostaria de cotar uma estrutura de 'seagull' para proteger minha carteira de uma queda do dólar.";Produtivo
+"Problema com a Plataforma de Renda Fixa Internacional;Não consigo visualizar as cotações dos bonds do tesouro americano (T-Bills).";Produtivo
+"Informações sobre Fundos de Criptomoedas;Vocês oferecem algum fundo de investimento que tenha exposição a um portfólio diversificado de criptomoedas?";Produtivo
+"Erro na Plataforma: Margem de Garantia;O sistema está a exigir uma margem de garantia muito acima do necessário para a minha operação de venda de índice futuro.";Produtivo
+"Solicitação de Reunião com a Equipa de Alocação;Preciso de uma reunião para discutir a realocação estratégica da minha carteira de longo prazo.";Produtivo
+"Dúvida sobre a Tributação de Juros de Debêntures;Os juros recebidos de debêntures comuns são tributados na fonte?";Produtivo
+"Aplicação em Fundo de Ouro;Por favor, aplicar R$ 60.000 no fundo de investimento que replica o ouro 'Gold FIC FIM'.";Produtivo
+"Falha no Acesso ao Sistema de Ordens;O sistema de envio de ordens (OMS) está fora do ar. Não consigo operar.";Produtivo
+"Solicitação de Relatório de Drawdown Máximo;Poderiam gerar um relatório com o drawdown máximo da minha carteira desde o início?";Produtivo
+"Problema com o Home Broker em Dia de Anúncio do Fed;Em dias de anúncio de juros do Fed, a plataforma fica inutilizável de tanta lentidão.";Produtivo
+"SPAM: A sua oportunidade de uma vida!;Trabalhe 1 hora por dia e ganhe mais que um médico. Clique e descubra o segredo.";Improdutivo
+"Proposta de Serviço de Jardinagem;Cuidamos do jardim do seu escritório com profissionalismo e dedicação.";Improdutivo
+"E-mail Pessoal;Lembrete: Comprar ração para o cachorro.";Improdutivo
+"Reclamação sobre o ar condicionado;Mais uma vez, o ar condicionado está a pingar em cima da minha mesa.";Improdutivo
+"Convite para Jogo de Poker;Pessoal, vai rolar um poker lá em casa na sexta. Quem topa?";Improdutivo
+"Sua Conta da Amazon foi Acessada de um Novo Local;Detectámos um login na sua conta da Amazon de um dispositivo desconhecido.";Improdutivo
+"Notificação do iFood: Seu cupão está a expirar!;Use seu cupão de R$ 10 de desconto antes que ele expire amanhã.";Improdutivo
+"Sua Fatura do Cartão de Crédito do Banco Inter;A fatura do seu cartão Inter já fechou. Verifique os detalhes no app.";Improdutivo
+"Lembrete do Google: Pagar a Conta de Luz;Sua conta de luz vence hoje.";Improdutivo
+"Você recebeu um pagamento via PayPal;A Empresa XYZ enviou-lhe um pagamento de $50.00.";Improdutivo
+"Dúvida sobre o {procedimento_de_abertura_de_conta_pj};Quais são todos os documentos necessários para abrir uma conta de investimentos para a minha empresa?";Produtivo
+"Problema no {sistema_de_gestao_de_carteiras};O sistema de gestão de carteiras (PMS) não está a calcular a rentabilidade da carteira de forma correta.";Produtivo
+"Relatório de {analise_de_risco_operacional} solicitado;Preciso do relatório de incidentes operacionais do último semestre para a diretoria.";Produtivo
+"Erro ao aceder ao {servidor_de_backup};Não consigo aceder ao servidor de backup para restaurar um ficheiro.";Produtivo
+"Agendamento do {treinamento_de_seguranca};Gostaria de agendar o treinamento de conscientização sobre phishing para a minha equipa.";Produtivo
+"URGENTE: Falha no {sistema_de_liquidacao};O nosso sistema de liquidação de operações (clearing) está com uma falha crítica e não está a processar as operações do dia.";Produtivo
+"Preciso de acesso de {perfil_de_desenvolvimento} ao {ambiente_de_stage};Poderiam me dar acesso de 'developer' ao ambiente de stage para testar a nova integração?";Produtivo
+"Qual o status do {processo_de_validacao_de_modelo}?;Gostaria de saber como está o andamento da validação do nosso novo modelo de risco de crédito.";Produtivo
+"Consulta sobre a integração com a {plataforma_de_dados_de_mercado};A nossa integração com a Refinitiv para dados de cotações está a apresentar falhas.";Produtivo
+"Bloqueador: A {aprovacao_de_budget} está pendente;A aprovação do orçamento para a contratação da nova ferramenta de análise está a impedir o avanço do projeto.";Produtivo
+"Parabéns pelo {lancamento_do_novo_fundo}!;Fiquei muito feliz em ver o lançamento do novo fundo de ações sustentáveis! Excelente iniciativa!";Improdutivo
+"Obrigado pelo {relatorio_personalizado};Agradeço o envio do relatório de performance personalizado. Ajudou-me muito na minha análise.";Improdutivo
+"Tenham um {feriado_de_carnaval} ótimo;Desejo a todos um ótimo Carnaval e um bom descanso.";Improdutivo
+"Apenas para sua validação;FYI: Segue a minuta do contrato para a sua validação antes de enviarmos ao cliente.";Improdutivo
+"Que ótima {noticia_sobre_a_empresa}!;Vi na imprensa que a nossa empresa foi eleita uma das melhores para se trabalhar. Que orgulho!";Improdutivo
+"Vamos organizar um {evento_beneficente}?;Que tal organizarmos uma campanha de doação de alimentos no escritório no final do ano?";Improdutivo
+"Sua opinião sobre a {nova_estrategia_da_empresa};O que vocês acharam da nova estratégia de expansão internacional anunciada pelo CEO?";Improdutivo
+"Lembrete amigável sobre a {atualizacao_de_cadastro};Pessoal, só para lembrar que todos precisam de atualizar seus dados cadastrais no portal de RH.";Improdutivo
+"Compartilhando um {relatorio_de_mercado_externo};Encontrei este relatório do J.P. Morgan sobre o mercado chinês, achei relevante compartilhar.";Improdutivo
+"Boas-vindas ao novo {membro_da_equipa_juridica};Gostaria de dar as boas-vindas ao nosso novo advogado, o Dr. Ricardo.";Improdutivo
+"Consulta sobre a estrutura de um Certificado de Recebível (CRI/CRA).;Qual a diferença de garantias entre um CRI e um CRA?";Produtivo
+"Problema na plataforma de alocação de ativos.;A ferramenta de otimização de portfólio não está a funcionar, apresenta um erro de cálculo.";Produtivo
+"Informações sobre fundos de investimento com gestão passiva.;Quais ETFs (fundos de índice) vocês recomendam para um investidor iniciante?";Produtivo
+"Erro na plataforma: O volume de negócios está zerado.;O volume de negócios para todas as ações está a ser exibido como zero na plataforma.";Produtivo
+"Solicitação de reunião com a equipa de análise fundamentalista.;Preciso de discutir a tese de investimento para a empresa ABC com os analistas.";Produtivo
+"Dúvida sobre a tributação de dividendos recebidos do exterior.;Como declaro os dividendos que recebi de ações da Apple na minha declaração de IR?";Produtivo
+"Aplicação em fundo multimercado com estratégia macro.;Por favor, aplicar R$ 150.000 no fundo multimercado 'Global Macro FIC FIM'.";Produtivo
+"Falha na autenticação por token (dispositivo físico).;O meu token físico não está a gerar códigos válidos para autenticação.";Produtivo
+"Solicitação de relatório de performance em dólar.;Poderiam gerar um relatório com a performance da minha carteira dolarizada nos últimos 3 anos?";Produtivo
+"Problema com o home broker em dia de divulgação de balanço.;No dia da divulgação do balanço da Petrobras, a plataforma ficou impossível de usar.";Produtivo
+"SPAM: Seu nome está sujo!;Consultamos seu CPF e encontramos restrições. Clique aqui para limpar seu nome por apenas R$ 49,90.";Improdutivo
+"Proposta de serviço de segurança patrimonial.;Oferecemos serviços de segurança e vigilância para escritórios comerciais.";Improdutivo
+"E-mail com uma lista de tarefas pessoais.;Lembrete: levar o carro à oficina, ir ao supermercado, ligar para o dentista.";Improdutivo
+"Reclamação sobre a falta de café na copa.;Já são 10h da manhã e ainda não abasteceram o café na copa do nosso andar.";Improdutivo
+"Convite para um campeonato de bowling.;Pessoal da equipa, vamos montar um time para o campeonato de bowling da empresa?";Improdutivo
+"Sua conta do Uber foi acedida num novo dispositivo.;Se não foi você, recomendamos que altere sua senha.";Improdutivo
+"Notificação do LinkedIn: Vagas para você.;Encontrámos 3 vagas de 'Analista Financeiro' que correspondem ao seu perfil.";Improdutivo
+"Sua fatura do plano de saúde vence hoje.;Evite a suspensão do seu plano, pague a fatura da Unimed em dia.";Improdutivo
+"Lembrete do Google Agenda: Entregar Relatório.;Sua tarefa 'Entregar Relatório Semestral' vence hoje.";Improdutivo
+"Você recebeu um e-mail do seu contador.;Seu imposto de renda foi processado com sucesso pela Receita Federal.";Improdutivo
+"Dúvida sobre o {procedimento_de_viagem_corporativa};Qual o procedimento para solicitar adiantamento para uma viagem a trabalho?";Produtivo
+"Problema no {sistema_de_reserva_de_salas};O sistema não me deixa reservar a sala de reuniões 'Rio de Janeiro' para a data que preciso.";Produtivo
+"Relatório de {analise_de_concorrencia} solicitado;Preciso do relatório de análise de concorrência do nosso novo produto de investimento.";Produtivo
+"Erro ao aceder ao {sistema_de_treinamento_online};Não consigo aceder à plataforma de treinamento online, a página não carrega.";Produtivo
+"Agendamento do {evento_de_integracao_de_novos_funcionarios};Gostaria de agendar o evento de boas-vindas para os novos estagiários na próxima semana.";Produtivo
+"URGENTE: Falha no {link_de_internet_principal};O nosso link de internet principal caiu, estamos a usar o link de contingência com velocidade reduzida.";Produtivo
+"Preciso de acesso de {perfil_de_marketing} ao {sistema_de_crm};Poderiam me dar acesso para criar e enviar campanhas de e-mail no nosso CRM?";Produtivo
+"Qual o status do {processo_de_aprovacao_de_despesas}?;Gostaria de saber o status da aprovação da minha solicitação de reembolso de despesas.";Produtivo
+"Consulta sobre a integração com a {plataforma_de_eventos};A nossa integração com a plataforma Sympla para inscrições em eventos não está a funcionar.";Produtivo
+"Bloqueador: A {falta_de_informacao_do_cliente} está a impedir o progresso;A falta do comprovativo de endereço do cliente está a impedir a conclusão do seu cadastro.";Produtivo
+"Parabéns pela {conclusao_da_certificacao}!;Parabéns por ter passado no exame da certificação CFA! Um grande feito!";Improdutivo
+"Obrigado pelo {apoio_na_apresentacao};Queria agradecer a ajuda com os slides da apresentação para a diretoria. Ficaram ótimos.";Improdutivo
+"Tenham um {feriado_de_aniversario_da_cidade} ótimo;Desejo a todos um bom descanso no feriado de aniversário da cidade.";Improdutivo
+"Apenas para seu conhecimento e ação futura;FYI: O cliente informou que estará de férias nas próximas duas semanas.";Improdutivo
+"Que ótima {noticia_sobre_o_novo_escritorio}!;Fiquei feliz em ver as fotos do novo escritório! Parece incrível!";Improdutivo
+"Vamos organizar um {evento_esportivo_interno}?;Que tal organizarmos um campeonato de pingue-pongue no escritório?";Improdutivo
+"Sua opinião sobre o {novo_software_de_comunicacao};O que vocês estão a achar da nova versão do Slack?";Improdutivo
+"Lembrete amigável sobre a {pesquisa_de_clima};Pessoal, só para lembrar que o prazo final para responder à pesquisa de clima é sexta-feira.";Improdutivo
+"Compartilhando um {artigo_sobre_o_futuro_do_trabalho};Encontrei este artigo da Harvard Business Review sobre o futuro do trabalho híbrido.";Improdutivo
+"Boas-vindas ao novo {cliente_importante};Gostaria de dar as boas-vindas ao nosso novo cliente institucional, o Fundo de Pensão ABC.";Improdutivo
+"Dúvida sobre a estrutura de um ETF de Renda Fixa;Como funciona a carteira de um ETF de renda fixa como o B5P211?";Produtivo
+"Problema na plataforma de aluguel de ações (BTC);Estou a tentar doar as minhas ações para aluguel, mas a plataforma apresenta um erro.";Produtivo
+"Informações sobre fundos com investimento mínimo baixo;Quais são os melhores fundos multimercado com aplicação inicial de até R$ 100?";Produtivo
+"Erro na plataforma: o gráfico de pizza de alocação está errado;O gráfico de alocação da minha carteira está a exibir percentuais que não somam 100%.";Produtivo
+"Solicitação de reunião com a equipa de produtos de previdência;Preciso de ajuda para escolher o melhor plano de previdência para o meu perfil.";Produtivo
+"Dúvida sobre a tributação de ETFs;A tributação de ETFs de ações é a mesma de ações (15% sobre o ganho)?";Produtivo
+"Aplicação em fundo de ações com foco em dividendos;Por favor, aplicar R$ 20.000 no fundo 'Dividendos Top Ações FIA'.";Produtivo
+"Falha na autenticação via QR Code;O aplicativo não está a ler o QR Code para validar a minha operação no desktop.";Produtivo
+"Solicitação de relatório de performance em relação ao CDI;Poderiam gerar um relatório comparando a performance da minha carteira com o CDI nos últimos 24 meses?";Produtivo
+"Problema com o home broker em dia de 'circuit breaker';No último circuit breaker, a minha ordem de stop não foi executada e tive um prejuízo maior.";Produtivo
+"SPAM: Ganhe um cruzeiro de luxo!;Responda a 3 perguntas e concorra a um cruzeiro de 7 dias pelo Caribe.";Improdutivo
+"Proposta de serviço de BPO financeiro;Terceirize seu departamento financeiro connosco e reduza custos.";Improdutivo
+"E-mail com uma receita de família;Segue a receita do pudim de leite da minha avó, como prometido.";Improdutivo
+"Reclamação sobre o ar condicionado (muito frio);O ar condicionado está tão frio que preciso de trabalhar de casaco.";Improdutivo
+"Convite para um grupo de estudos de filosofia;Estou a montar um grupo para ler e discutir os clássicos da filosofia. Alguém se interessa?";Improdutivo
+"Sua conta do Instagram foi comprometida;Detectámos atividade suspeita e redefinimos sua senha por segurança.";Improdutivo
+"Notificação do 99 App;Sua corrida foi finalizada. Avalie o motorista João.";Improdutivo
+"Sua fatura da Vivo Fibra está disponível;Acesse o app Meu Vivo para pagar sua conta de internet.";Improdutivo
+"Lembrete do Google Agenda: Aniversário da Mãe;É o aniversário da sua mãe hoje.";Improdutivo
+"Você recebeu uma transferência via Wise;A Empresa ABC Ltd. enviou-lhe 500 EUR.";Improdutivo
+
+
+
+
+
+
 

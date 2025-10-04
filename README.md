@@ -12,7 +12,7 @@ A interface permite que o usuário insira o texto de um e-mail de duas formas:
 * Digitando ou colando diretamente na área de texto.
 * Anexando um arquivo `.txt` ou `.pdf`, através do botão ou utilizando o suporte para "arrastar e soltar" (drag and drop).
 
-Após o envio, a aplicação se comunica com uma API em Python que processa o conteúdo, classifica o e-mail como **Produtivo** ou **Improdutivo** e gera uma sugestão de resposta profissional e contextualizada, que pode ser facilmente copiada.
+Após o envio, a aplicação se comunica com uma API em Python que utiliza uma abordagem de IA em duas etapas: primeiro, um modelo de Machine Learning treinado localmente classifica o e-mail como **Produtivo** ou **Improdutivo**; em seguida, essa classificação é enviada para uma IA generativa (gemini) para criar uma sugestão de resposta contextualizada.
 
 ## Tecnologias Utilizadas
 
@@ -20,15 +20,19 @@ Após o envio, a aplicação se comunica com uma API em Python que processa o co
 
  **Back-end:** Uma API RESTful construída com **Python** e o framework **FastAPI**, escolhido pela sua alta performance e praticidade.
 
- **Processamento de Linguagem Natural (NLP):** Utilizei a biblioteca **spaCy** para fazer a formatação do texto, no qual apliquei a lematização e a remoção de stop-words, preparando o conteúdo para a análise da IA.
+ **Processamento de Linguagem Natural (NLP):** Utilizei a biblioteca **spaCy** para o pré-processamento do texto, aplicando a lematização e a remoção de stop-words para preparar os dados para o treinamento do modelo de classificação.
 
- **Inteligência Artificial:** A integração foi feita com a API do **Google Gemini** (modelo Flash), que lida com a classificação do e-mail e a geração da sugestão de resposta. Portanto, escolhi utilizar uma LLM bem estruturada e flexível, permitindo entedimento preciso da linguagem natural e que a classificação e a sugestão fossem de mais alta qualidade. O ajuste da IA foi feito através de um prompt detalhado que dá ao gemini uma persona de especialista, um contexto de negócios no setor financeiro e regras claras sobre como se comportar. 
+ **Inteligência Artificial:** A classificação do e-mail foi realizada através de um modelo de Machine Learning (**Naive Bayes**) que foi treinado com **scikit-learn** e **pandas**, utilizando um dataset com mais de 1000 exemplos para garantir precisão. Já a geração da resposta, foi feita com a API do **Google Gemini** (modelo Flash), que recebe a classificação do modelo desenvolvido e gera uma sugestão de qualidade.
 
  **Hospedagem:** O front-end está hospedado na **Vercel** e o back-end no **Render**, com um serviço de "keep-alive" do **UptimeRobot** para garantir que a API esteja sempre disponível.
 
 ## Como rodar localmente
 
-Caso queira testar o projeto localmente em sua máquina, o processo é simples. Inicialmente, é necessário ter Python instalado na sua máquina e clonar o repositório do projeto.
+Para testar o projeto localmente, o processo é simples. Inicialmente, é necessário ter Python instalado na sua máquina e clonar o repositório do projeto utilizando o comando abaixo:
+```bash
+    git clone https://github.com/Rocha072/Email-Classificator.git
+    cd Email-Classificator  
+```
 
 Após realizado isso, o segundo passo é configurar o backend. Primeiro, crie um arquivo .env dentro da pasta backend e, seguindo o modelo abaixo, inclua a sua chave api do gemini.
 ```bash
@@ -45,7 +49,7 @@ Configurado o backend, basta executar o comando abaixo dentro da pasta backend p
 python -m uvicorn main:app --reload
 ```
 
-Para visualizar o frontend, basta rodar o arquivo index.html com qualquer ferramenta que crie um servidor de desenvolvimento local, como a extensão LiveServer do VS Code.
+Para visualizar o frontend, acesse a pasta o arquivo configAPI na pasta frontend/scripts e troque os comentários, conforme indicado. Feito isso, basta rodar o arquivo index.html com qualquer ferramenta que crie um servidor de desenvolvimento local, como a extensão LiveServer do VS Code.
 
 ##
 

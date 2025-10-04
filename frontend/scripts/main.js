@@ -182,7 +182,6 @@ formulary.addEventListener('submit', async(event)=>{ //Evento deve ser assincron
 
     //Comunicacao com a API do python
     try{
-        const apiURL = 'https://email-analyzer-api-45f0.onrender.com/analyze-email';
 
         //Envio do conteudo em formato json com método post
         const response = await fetch(apiURL, {

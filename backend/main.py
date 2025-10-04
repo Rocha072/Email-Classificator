@@ -12,7 +12,7 @@ import spacy
 
 # Biblioteca para machine learning 
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 
 #Biblioteca do Gemini
@@ -89,8 +89,8 @@ def preprocess_nlp(text):
 
 #Declara o pipeline de classificacao
 classification_pipeline = Pipeline ([
-    ('tfidf', TfidfVectorizer(tokenizer=preprocess_nlp)),
-    ('classifier', LogisticRegression())
+    ('tfidf', TfidfVectorizer(tokenizer=preprocess_nlp, ngram_range=(1,2))), #Substitui a função de tokemização pela minha
+    ('classifier', MultinomialNB())  #Aplica o classifier bayesiano
 ])
 
 #Realiza o treinamento
