@@ -23,7 +23,6 @@ from typing import Optional
 import PyPDF2
 from io import BytesIO
 
-#Prompt para o gemini
 from prompt_gemini import prompt
 
 #Carrega os valores do .env
@@ -42,6 +41,7 @@ app = FastAPI()
 nlp = spacy.load("pt_core_news_sm")
 
 origins = [
+    "https://email-classificator.vercel.app",
     "http://127.0.0.1:5500",
     "http://localhost",
     "http://localhost:8080",
@@ -85,10 +85,9 @@ def preprocess_nlp(text):
     text = " ".join(text.split())
 
     doc = nlp(text)       #Realiza a lemmatização e retorna tokens
-
-    #Forma as palavras processadas, sem stop words e pontos 
+    
     processed_words = [
-        token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha    
+        token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct and token.is_alpha    #Forma as palavras processadas, sem stop words e pontos, apenas palavras
     ]
     
     return " ".join(processed_words)
@@ -149,6 +148,11 @@ async def analyze_email_endpoint(       #Funcao assincrona de endpoint para anal
         raise HTTPException(status_code=500, detail=str(e))
 
 
+# Endpoint para retornar status 'OK' e manter API ativa
+
+@app.api_route("/check-robot", methods=["GET", "HEAD"])
+def check(): 
+    return {"status": "OK"}
 
 
 

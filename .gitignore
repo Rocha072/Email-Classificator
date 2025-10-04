@@ -1,11 +1,9 @@
-Arquivo .gitignore para projeto Python com FastAPI e front-end
-Ambiente e Segredos
 Ignora arquivos de variáveis de ambiente que contêm segredos.
 .env
 *.env
 
 Python
-Ignora caches, logs e arquivos de ambiente virtual.
+
 pycache/
 *.pyc
 *.pyo
@@ -15,16 +13,15 @@ pycache/
 venv
 env
 
-Arquivos de Build e Pacotes
+Build e Pacotes
 /dist/
 /build/
 *.egg-info/
 
-Configurações de IDE e Editores
+IDE e Editores
 .vscode/
 .idea/
 
 Sistema Operacional
-Ignora arquivos de sistema gerados automaticamente.
 .DS_Store
 Thumbs.db
