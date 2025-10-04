@@ -14,6 +14,8 @@ A interface permite que o usuário insira o texto de um e-mail de duas formas:
 
 Após o envio, a aplicação se comunica com uma API em Python que utiliza uma abordagem de IA em duas etapas: primeiro, um modelo de Machine Learning treinado localmente classifica o e-mail como **Produtivo** ou **Improdutivo**; em seguida, essa classificação é enviada para uma IA generativa (gemini) para criar uma sugestão de resposta contextualizada.
 
+Para a realização de testes, disponibilizei, dentro da pasta samples, alguns arquivos textos com suas respectivas classificações nos nomes dos arquivos. Todavia, sinta-se a vontade para realizar testes com seus próprios e-mails!
+
 ## Tecnologias Utilizadas
 
  **Front-end:** Desenvolvido com **HTML5**, **CSS3** e **JavaScript**, focando em criar uma interface limpa, responsiva e com interações fluidas.
