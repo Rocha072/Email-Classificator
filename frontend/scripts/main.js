@@ -30,10 +30,20 @@ const displayTextFromFile = (file) => {
         emailTextArea.value = f.target.result;  //Coloca na textArea
         fileInput.value = null;                 //Garante que não tenha outro arquivo no input
         emailTextArea.readOnly = false;         //Mantem ativada a text area
+        updateClearTextBtn();
     };
     
     txtReader.readAsText(file)      
 }
+
+//Funcao para controlar a visibilidadde da lixeira
+const updateClearTextBtn = () => {
+    if (emailTextArea.value.length > 0) {
+        clearTextBtn.classList.add('visible');
+    } else {
+        clearTextBtn.classList.remove('visible');
+    }
+};
 
 
 // Mostra a tag de file na caixa de texto
@@ -42,7 +52,7 @@ const displayFileTag = (file) => {
     fileOnEmailText.classList.add('visible');
     emailTextArea.readOnly = true;
     emailTextArea.value = '';
-    emailTextArea.placeholder = ''
+    emailTextArea.placeholder = '';
 }
 
 // Remove o arquivo da caixa de texto
@@ -52,6 +62,7 @@ const removeFileFromText = () => {
     emailTextArea.readOnly = false;
     emailTextArea.value = '';
     emailTextArea.placeholder = 'Escreva ou arraste o arquivo aqui';
+    updateClearTextBtn();
 }
 
 // Seleciona a ação dependendo do tipo de arquivo recebido
@@ -79,13 +90,7 @@ const selectAction_FileType = (file) => {
 // ------------------------------------------------------
 
 //Tornar a lixeira visível
-emailTextArea.addEventListener('input', () => {
-    if (emailTextArea.value.length > 0) {
-        clearTextBtn.classList.add('visible');
-    } else {
-        clearTextBtn.classList.remove('visible');
-    }
-});
+emailTextArea.addEventListener('input', updateClearTextBtn);
 
 //Limpar o texto
 clearTextBtn.addEventListener('click', () => {
