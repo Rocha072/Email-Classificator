@@ -5,9 +5,15 @@ import os
 from dotenv import load_dotenv
 import re
 import json
+import pandas as pd
 
 # Spacy para o nlp 
 import spacy
+
+# Biblioteca para machine learning 
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
 
 #Biblioteca do Gemini
 import google.generativeai as genai     
@@ -32,32 +38,10 @@ load_dotenv()
 genai.configure(api_key=os.getenv("API_KEY_GEMINI")) 
 
 #Escolha do modelo da IA do Gemini
-model = genai.GenerativeModel('gemini-flash-latest')
-
-#Criação da FastAPI
-app = FastAPI()
-
-#Carrega o modelo de linguagem do spaCy
-nlp = spacy.load("pt_core_news_sm")
-
-origins = [
-    "https://email-classificator.vercel.app",
-    "http://127.0.0.1:5500",
-    "http://localhost",
-    "http://localhost:8080",
-]
+geminiModel = genai.GenerativeModel('gemini-flash-latest')
 
 
-#Configuracao do CROS (permissoes de chegada)
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods = ["*"],
-    allow_headers = ["*"],
-)
-
-#Funcao para leitura de pdf
+#Funcao auxiliar para leitura de pdf
 def read_pdf_text(file_bytes):
 
     #try para leitura do pdf para caso do pdf estar corrompido
@@ -76,9 +60,20 @@ def read_pdf_text(file_bytes):
         print("Erro ao ler PDF: " + e)
         return ""
 
+#--------------------------------------------------------------------------------------------------------------------------------
+#                SEÇÃO DE TREINAMENTO DA REDE NEURAL DE CLASSIFICAÇÃO
+#--------------------------------------------------------------------------------------------------------------------------------
+
+#Carrega o data set de treinamento para classificação 
+print("--- Carregando dados de treinamento do arquivo CSV... ---")
+training_df = pd.read_csv('training_data.csv', sep=';')
+train_texts = training_df['texto'].tolist()
+train_labels = training_df['rotulo'].tolist()
+
+#Carrega o modelo de linguagem do spaCy
+nlp = spacy.load("pt_core_news_sm")
 
 #Realiza o pre processamento NLP com remocao de stop words e lemmatização
-
 def preprocess_nlp(text):
     
     text = re.sub(r"http\S+", "", text).lower() #Remove links
@@ -92,6 +87,45 @@ def preprocess_nlp(text):
     
     return " ".join(processed_words)
 
+#Declara o pipeline de classificacao
+classification_pipeline = Pipeline ([
+    ('tfidf', TfidfVectorizer(tokenizer=preprocess_nlp)),
+    ('classifier', LogisticRegression())
+])
+
+#Realiza o treinamento
+print("---------------------------------------------------")
+print('Treinando o modelo de classificacao')
+print('...')
+classification_pipeline.fit(train_texts, train_labels)
+print('Treinamento concluido')
+print("---------------------------------------------------")
+
+#--------------------------------------------------------------------------------------------------------------------------------
+
+#--------------------------------------------------------------------------------------------------------------------------------
+#               SEÇÃO DE CONFIGURAÇÃO DA API
+#--------------------------------------------------------------------------------------------------------------------------------
+
+#Criação da FastAPI
+app = FastAPI()
+
+#Permissoes de uso da API
+origins = [
+    "https://email-classificator.vercel.app",
+    "http://127.0.0.1:5500",
+    "http://localhost",
+    "http://localhost:8080",
+]
+
+#Configuracao do CROS (permissoes de chegada)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods = ["*"],
+    allow_headers = ["*"],
+)
 
 #Funcao post da fastAPI com decorador
 @app.post("/analyze-email")
@@ -125,24 +159,35 @@ async def analyze_email_endpoint(       #Funcao assincrona de endpoint para anal
     #Realiza o pre processamento, manda o prompt completo para o modelo e retorna a resposta.
     try:
 
-        processedEmail = preprocess_nlp(email_to_analyze)
+        #Gera a classificação do email através da rede neural
+        emailClassification = classification_pipeline.predict([email_to_analyze])[0]
 
+        #Incrementa o prompt
         finalPrompt = prompt + f"""
+                                O e-mail abaixo já foi classificado como '{emailClassification}'.
+                                Por favor, gere uma sugestão de resposta apropriada para esta classificação.
+                        
                                 ---
-                                {processedEmail}
+                                E-mail original:
+                                {email_to_analyze}
                                 ---
+                                
                                 JSON:
                                 """ 
 
-        response = model.generate_content(finalPrompt)
+        #Gera a resposta do gemini
+        response = geminiModel.generate_content(finalPrompt)
 
         #Caso tenha sido colocado ``` na resposta, retira-se para a saída sair devidamente.
-        response_clean = response.text.strip().replace("```json", "").replace("```", "")
+        responseClean = response.text.strip().replace("```json", "").replace("```", "")
 
         #Converte a string json para objeto python
-        response_object = json.loads(response_clean)
+        responseObject = json.loads(responseClean)
 
-        return {"data": response_object}
+        #Coloca a classificacao no json
+        responseObject['classification'] = emailClassification
+
+        return {"data": responseObject}
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
