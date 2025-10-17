@@ -1,6 +1,6 @@
 # Analisador de E-mails com IA
 
-Este projeto foi desenvolvido como parte do case prático para o processo seletivo da AutoU. É uma aplicação web completa que utiliza inteligência artificial para automatizar a classificação e a sugestão de respostas para e-mails, com foco no cenário de uma grande empresa do setor financeiro.
+Esse projeto é uma aplicação web completa que utiliza inteligência artificial para automatizar a classificação e a sugestão de respostas para e-mails, com foco no cenário de uma grande empresa do setor financeiro.
 
 
 ### Link para a aplicação: [email-classificator.vercel.app](https://email-classificator.vercel.app/)
